@@ -1,0 +1,87 @@
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.team-filter-container {
+    display: block;
+    margin-top: 30px;
+    margin-left: 290px;
+    margin-right: 270px;
+}
+
+.team-filter-container h4 {
+    margin: 5px;
+}
+
+.team-filter-container div {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.grid-container {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: -8px;
+}
+
+.grid {
+    display: grid;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    background-color: white;
+}
+
+.grid-item {
+    width: 250px;
+    height: 300px;
+    border: 1px solid #D3D3D3;
+    border-style: ridge;
+    box-shadow:  0 3px 5px 0 black;
+    transition: box-shadow 0.3s ease-in-out;
+    text-decoration-line: none;
+    color: black;
+}
+
+.grid-item:hover {
+    box-shadow: 0 5px 15px 2px black;
+}
+
+.card-team-top {
+    align-content: center;
+    height: 200px;
+    background-color: darkgrey;
+}
+
+.card-team-top img {
+    height: 180px;
+    width: 240px;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.card-team-bottom {
+    background-color: white;
+    text-align: center;
+    border-top: 1px solid #D3D3D3;
+}
+
+.card-text-top {
+    padding-top: 5px;
+    margin: 5px;
+    font: bold;
+    font-size: 20px;
+}
+
+.card-text-bottom {
+    margin: 5px;
+}
+
+.card-text-year {
+    padding: 10px;
+    margin: 0;
+}

@@ -1,0 +1,13 @@
+<h1>VENUES</h1>
+<div class="venues-grid-container">
+    <div class="venue-grid">
+        <a *ngFor="let v of venues" class="venue-grid-item">
+            <div>
+                <h2>{{v.name}}</h2>
+                <img 
+                    src="https://prod-gameday.mlbstatic.com/responsive-gameday-assets/1.2.0/images/fields/{{v.id}}.svg"
+                />
+            </div>
+        </a>
+    </div>
+</div>

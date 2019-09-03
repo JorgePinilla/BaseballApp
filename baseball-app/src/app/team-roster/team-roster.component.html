@@ -1,0 +1,26 @@
+<div class="roster-grid-container">
+    <div class="roster-grid">
+        <a *ngFor="let r of roster" class="roster-grid-item"
+            routerLink="/players/{{r.personId}}"
+        >
+            <div class="roster-card-top">
+                <img
+                    src="https://securea.mlb.com/mlb/images/players/head_shot/{{r.personId}}.jpg"
+                />
+                <div class="roster-card-info">
+                    <p class="roster-card-number">{{r.jerseyNumber}}</p>
+                    <br/>
+                    <br/>
+                    <p class="roster-card-text-info" >Height: {{r.height}}"</p>
+                    <p class="roster-card-text-info" >Weight: {{r.weight}} lb</p>
+                    <p class="roster-card-text-info" >Nationality: {{r.birthCountry}}</p>
+                    <p class="roster-card-text-info" >Birth Date: {{r.birthDate}}</p>
+                </div>
+            </div>
+            <div class="roster-card-bottom">
+                <p class="roster-card-text-name">{{r.fullName}}</p>
+                <p class="roster-card-text-position">{{r.position.name}} ({{r.position.abbreviation}})</p>
+            </div>
+        </a>
+    </div>
+</div>

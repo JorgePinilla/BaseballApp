@@ -1,0 +1,66 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 16px;
+}
+.spacer {
+    flex: 1;
+}
+
+.banner-header {
+    display: flex;
+    height: 80px;
+    margin: -8px;
+    display: flex;
+    align-items: center;
+    background-color: #1976d2;
+    color: white;
+    font-weight: 600;
+}
+
+.banner-footer {
+    height: 80px;
+    margin: -8px;
+    display: flex;
+    background-color: #1976d2;
+    font-weight: 600;
+}
+
+.banner img{
+    padding-left: 16px
+}
+
+.menu {
+    height: 40px;
+    margin: -8px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.menu-item {
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration-line: none;
+}
+
+.menuitem:hover {
+    color: black;
+    background-color: white;
+}
+
+.menu ul {
+    align-items: center;
+    padding-left: 90px;
+}
+
+.menu ul li {
+    display: inline-block;
+}

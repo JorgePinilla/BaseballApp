@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+.venues-grid-container {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: -8px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.venue-grid {
+    display: grid;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    background-color: white;
+}
+
+.venue-grid-item {
+    width: 350px;
+    height: 450px;
+    text-decoration-line: none;
+    color: black;
+}
+
+.venue-grid-item h2 {
+    text-align: center;
+    margin: 5px;
+}

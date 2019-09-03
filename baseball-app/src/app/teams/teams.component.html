@@ -1,0 +1,35 @@
+<h1>MLB TEAMS</h1>
+<div class="team-filter-container">
+    <div>
+        <h4>Filter by League</h4>
+        <select [(ngModel)]="leagueSelected" >
+            <option [ngValue]="null" selected>All</option>
+            <option [ngValue]="l" *ngFor="let l of leagues" >{{l.name}}</option>
+        </select>
+    </div>
+    <div>
+        <h4>Filter by Division</h4>
+        <select [(ngModel)]="divisionSelected" >
+            <option [ngValue]="null" selected>All</option>
+            <option [ngValue]="d" *ngFor="let d of divisions" >{{d.name}}</option>
+        </select>
+    </div>
+    <input [(ngModel)]="teamName" type="text" placeholder="search team"> 
+</div>
+<div class="grid-container">
+    <div class="grid">
+        <a *ngFor="let team of teams | leagueFilter: leagueSelected?.name | divisionFilter: divisionSelected?.name | searchTeam: teamName" class="grid-item"
+            routerLink="/teams/{{team.id}}" >
+            <div class="card-team-top">
+                <img
+                    src="https://www.mlbstatic.com/team-logos/{{team.id}}.svg"
+                />
+            </div>
+            <div class="card-team-bottom">
+                <p class="card-text-top">{{team.name}}</p>
+                <p class="card-text-bottom">{{team.venue.name}}</p>
+                <p class="card-text-year">Since {{team.firstYearOfPlay}}</p>
+            </div>
+        </a>
+    </div>
+</div>

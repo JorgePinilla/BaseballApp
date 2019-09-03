@@ -1,0 +1,80 @@
+.team-banner {
+    height: 350px;
+    background-color: lightgrey;
+    margin: -8px;
+    margin-top: 8px;
+}
+
+.team-banner-logo {
+    float: left;
+    width: 200px;
+    height: 230px;
+    background-color: white;
+    border-radius: 40px;
+    align-content: center;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.team-banner-logo img {
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.team-banner-info {
+    float: left;
+    background-color: lightgray;
+    width: 600px;
+    height: 170px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.team-text-info {
+    font: bold;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.team-menu {
+    float: left;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    color: black;
+    background-color: lightgray;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 310px;
+    margin-left: -600px;
+}
+
+.team-menu-item {
+    display: block;
+    color: black;
+    background-color: white;
+    width: 100px;
+    text-decoration-line: none;
+    text-align: center;
+    padding: 9px;
+    margin: 10px;
+}
+
+.team-menu-item:hover {
+    color: white;
+    background-color: #1976d2;
+}
+
+.team-menu ul {
+    padding: 0px;
+}
+
+.team-menu ul li {
+    display: inline-block;
+    border: 1px solid #D3D3D3;
+    border-style: ridge;
+    margin: 0 20px 0 0;
+}

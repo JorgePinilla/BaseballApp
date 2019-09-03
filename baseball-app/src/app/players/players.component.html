@@ -1,0 +1,31 @@
+<h1>MLB PLAYERS</h1>
+<div class="players-container">
+    <div class="players-filter">
+        <div>
+            <h4>Filter by Position</h4>
+            <select [(ngModel)]="positionSelected" (change)="resetPageSize()">
+                <option [ngValue]="null" selected>All</option>
+                <option [ngValue]="p" *ngFor="let p of positions" >{{p.name}} ({{p.abbreviation}})</option>
+            </select>
+        </div>
+        <input [(ngModel)]="playerName" type="text" placeholder="search player">
+    </div>
+    <div id="player-list">
+        <a class="players-header">
+            <h2 class="players-header-space"></h2>
+            <h3>Player</h3>
+            <h3>Position</h3>
+            <h3>Nationality</h3>
+        </a>
+        <a *ngFor="let p of players | positionFilter: positionSelected?.abbreviation | searchPlayer: playerName | slice:0:perPage"
+            class="player" 
+            routerLink="/players/{{p.id}}" >
+            <img 
+                src="https://securea.mlb.com/mlb/images/players/head_shot/{{p.id}}.jpg"
+            />
+            <h3>{{p.fullName}}</h3>
+            <h3>{{p.position.name}} ({{p.position.abbreviation}})</h3>
+            <h3>{{p.birthCountry}}</h3>
+        </a>
+    </div>
+</div>

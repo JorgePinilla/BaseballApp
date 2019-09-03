@@ -1,0 +1,19 @@
+<div class="team-banner">
+    <div class="team-banner-logo">
+        <img 
+            src="https://www.mlbstatic.com/team-logos/{{team?.id}}.svg"
+        />
+    </div>
+    <div class="team-banner-info">
+        <h1>{{team?.name}}</h1>
+        <p class="team-text-info">Location: {{team?.locationName}}</p>
+        <p class="team-text-info">Stadium: {{team?.venue.name}}</p>
+        <p class="team-text-info">First Appearance: {{team?.firstYearOfPlay}}</p>
+    </div>
+    <div class="team-menu">
+        <a class="team-menu-item" routerLink="./" >Overview</a>
+        <a class="team-menu-item" routerLink="./roster" >Roster</a>
+        <a class="team-menu-item" routerLink="./stats" >Stats</a>
+    </div>
+</div>
+<router-outlet></router-outlet>
