@@ -1,0 +1,5 @@
+Id,Name,Abbreviation,IsSpringLeague
+103,American League,,False
+104,National League,,False
+114,Cactus League,CL,True
+115,Grapefruit League,GL,True

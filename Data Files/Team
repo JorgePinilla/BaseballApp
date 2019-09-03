@@ -1,0 +1,31 @@
+Id,Name,VenueId,TeamCode,FileCode,Abbreviation,TeamName,LocationName,FirstYearOfPlay,LeagueId,DivisionId,SportId,ShortName,SpringLeagueId,AllStarStatus,Active
+108,Los Angeles Angels,1,ana,ana,LAA,Angels,Anaheim,1961,103,200,1,LA Angels,114,N,True
+109,Arizona Diamondbacks,15,ari,ari,ARI,D-backs,Phoenix,1998,104,203,1,Arizona,114,N,True
+110,Baltimore Orioles,2,bal,bal,BAL,Orioles,Baltimore,1901,103,201,1,Baltimore,115,N,True
+111,Boston Red Sox,3,bos,bos,BOS,Red Sox,Boston,1901,103,201,1,Boston,115,N,True
+112,Chicago Cubs,17,chn,chc,CHC,Cubs,Chicago,1874,104,205,1,Chi Cubs,114,N,True
+113,Cincinnati Reds,2602,cin,cin,CIN,Reds,Cincinnati,1882,104,205,1,Cincinnati,114,N,True
+114,Cleveland Indians,5,cle,cle,CLE,Indians,Cleveland,1901,103,202,1,Cleveland,114,N,True
+115,Colorado Rockies,19,col,col,COL,Rockies,Denver,1992,104,203,1,Colorado,114,N,True
+116,Detroit Tigers,2394,det,det,DET,Tigers,Detroit,1901,103,202,1,Detroit,115,N,True
+117,Houston Astros,2392,hou,hou,HOU,Astros,Houston,1962,103,200,1,Houston,115,N,True
+118,Kansas City Royals,7,kca,kc,KC,Royals,Kansas City,1969,103,202,1,Kansas City,114,N,True
+119,Los Angeles Dodgers,22,lan,la,LAD,Dodgers,Los Angeles,1884,104,203,1,LA Dodgers,114,N,True
+120,Washington Nationals,3309,was,was,WSH,Nationals,Washington,1969,104,204,1,Washington,115,N,True
+121,New York Mets,3289,nyn,nym,NYM,Mets,New York,1962,104,204,1,NY Mets,115,N,True
+133,Oakland Athletics,10,oak,oak,OAK,Athletics,Oakland,1901,103,200,1,Oakland,114,N,True
+134,Pittsburgh Pirates,31,pit,pit,PIT,Pirates,Pittsburgh,1882,104,205,1,Pittsburgh,115,N,True
+135,San Diego Padres,2680,sdn,sd,SD,Padres,San Diego,1969,104,203,1,San Diego,114,N,True
+136,Seattle Mariners,680,sea,sea,SEA,Mariners,Seattle,1977,103,200,1,Seattle,114,N,True
+137,San Francisco Giants,2395,sfn,sf,SF,Giants,San Francisco,1883,104,203,1,San Francisco,114,N,True
+138,St. Louis Cardinals,2889,sln,stl,STL,Cardinals,St. Louis,1892,104,205,1,St. Louis,115,N,True
+139,Tampa Bay Rays,12,tba,tb,TB,Rays,Tampa Bay,1998,103,201,1,Tampa Bay,115,N,True
+140,Texas Rangers,13,tex,tex,TEX,Rangers,Arlington,1961,103,200,1,Texas,114,N,True
+141,Toronto Blue Jays,14,tor,tor,TOR,Blue Jays,Toronto,1977,103,201,1,Toronto,115,N,True
+142,Minnesota Twins,3312,min,min,MIN,Twins,Minneapolis,1901,103,202,1,Minnesota,115,N,True
+143,Philadelphia Phillies,2681,phi,phi,PHI,Phillies,Philadelphia,1883,104,204,1,Philadelphia,115,N,True
+144,Atlanta Braves,4705,atl,atl,ATL,Braves,Atlanta,1871,104,204,1,Atlanta,115,N,True
+145,Chicago White Sox,4,cha,cws,CWS,White Sox,Chicago,1901,103,202,1,Chi White Sox,114,N,True
+146,Miami Marlins,4169,mia,mia,MIA,Marlins,Miami,1992,104,204,1,Miami,115,N,True
+147,New York Yankees,3313,nya,nyy,NYY,Yankees,Bronx,1903,103,201,1,NY Yankees,115,N,True
+158,Milwaukee Brewers,32,mil,mil,MIL,Brewers,Milwaukee,1969,104,205,1,Milwaukee,114,N,True

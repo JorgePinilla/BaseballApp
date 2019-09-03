@@ -1,0 +1,907 @@
+Id,FullName,FirstName,MiddleName,LastName,PrimaryNumber,BirthDate,Age,BirthCity,BirthStateProvince,BirthCountry,Height,Weight,Active,PositionCode,NickName,Gender,IsPlayer,IsVerified,DraftYear,MLBDebutDate,BatSide,PitchHand
+405395,Albert Pujols,Jose,Alberto,Pujols,5,1980-01-16,39,Santo Domingo,,Dominican Republic,6' 3,235,True,3,La Maquina,M,True,True,1999,2001-04-02,Right,Right
+407845,Fernando Rodney,Fernando,---,Rodney,56,1977-03-18,42,Samana,,Dominican Republic,5' 11,240,True,1,La Flecha,M,True,True,---,2002-05-04,Right,Right
+408234,Miguel Cabrera,Jose,Miguel,Cabrera,24,1983-04-18,36,Maracay,,Venezuela,6' 4,249,True,3,Miggy,M,True,True,---,2003-06-20,Right,Right
+424144,Oliver Perez,Oliver,---,Perez,39,1981-08-15,38,Culiacan,Sinaloa,Mexico,6' 3,225,True,1,El Paisa,M,True,True,---,2002-06-16,Left,Left
+425772,Jeff Mathis,Jeffery,Stephen,Mathis,2,1983-03-31,36,Marianna,FL,USA,6' 0,205,True,2,Matty,M,True,True,2001,2005-08-12,Right,Right
+425783,Shin-Soo Choo,Shin-Soo,---,Choo,17,1982-07-13,37,Busan,,South Korea,5' 11,210,True,7,Korean Kid,M,True,True,---,2005-04-21,Left,Left
+425784,Rene Rivera,Rene,---,Rivera,44,1983-07-31,36,Bayamon,,Puerto Rico,5' 10,215,True,2,Moncho,M,True,True,2001,2004-09-22,Right,Right
+425794,Adam Wainwright,Adam,Parrish,Wainwright,50,1981-08-30,38,Brunswick,GA,USA,6' 7,235,True,1,Uncle Charlie,M,True,True,2000,2005-09-11,Right,Right
+425844,Zack Greinke,Donald,Zackary,Greinke,21,1983-10-21,35,Orlando,FL,USA,6' 2,200,True,1,,M,True,True,2002,2004-05-22,Right,Right
+425877,Yadier Molina,Yadier,Benjamin,Molina,4,1982-07-13,37,Bayamon,,Puerto Rico,5' 11,205,True,2,Yadi,M,True,True,2000,2004-06-03,Right,Right
+429719,Edwin Jackson,Edwin,---,Jackson,19,1983-09-09,35,Neu-Ulm,,Germany,6' 2,215,True,1,Scoop,M,True,True,2001,2003-09-09,Right,Right
+430935,Cole Hamels,Colbert,Michael,Hamels,35,1983-12-27,35,San Diego,CA,USA,6' 4,205,True,1,Hollywood,M,True,True,2002,2006-05-12,Left,Left
+430945,Adam Jones,Adam,LaMarque,Jones,10,1985-08-01,34,San Diego,CA,USA,6' 2,215,True,9,Roots,M,True,True,2003,2006-07-14,Right,Right
+431145,Russell Martin,Russell,Nathan Coltrane,Martin,55,1983-02-15,36,East York,ON,Canada,5' 10,215,True,2,Le Muscle,M,True,True,2002,2006-05-05,Right,Right
+433587,Felix Hernandez,Felix,Abraham,Hernandez,34,1986-04-08,33,Valencia,,Venezuela,6' 3,225,True,1,King Felix,M,True,True,---,2005-08-04,Right,Right
+433589,Yusmeiro Petit,Yusmeiro,Alberto,Petit,36,1984-11-22,34,Maracaibo,,Venezuela,6' 1,255,True,1,Yus,M,True,True,---,2006-05-14,Right,Right
+434158,Curtis Granderson,Curtis,---,Granderson,21,1981-03-16,38,Blue Island,IL,USA,6' 1,200,True,7,Grandyman,M,True,True,2002,2004-09-13,Left,Right
+434378,Justin Verlander,Justin,Brooks,Verlander,35,1983-02-20,36,Manakin-Sabot,VA,USA,6' 5,225,True,1,J V,M,True,True,2004,2005-07-04,Right,Right
+434538,Francisco Liriano,Francisco,---,Liriano,47,1983-10-26,35,San Cristobal,,Dominican Republic,6' 3,218,True,1,Liri,M,True,True,---,2005-09-05,Left,Left
+434658,Rajai Davis,Rajai,Lavae,Davis,18,1980-10-19,38,Norwich,CT,USA,5' 10,195,True,8,Raj,M,True,True,2001,2006-08-14,Right,Right
+434671,Anibal Sanchez,Anibal,Alejandro,Sanchez,19,1984-02-27,35,Maracay,,Venezuela,6' 0,205,True,1,Alejo,M,True,True,---,2006-06-25,Right,Right
+435062,Howie Kendrick,Howie,Joseph,Kendrick,47,1983-07-12,36,Jacksonville,FL,USA,5' 11,220,True,5,Truck,M,True,True,2002,2006-04-26,Right,Right
+435263,Brian McCann,Brian,Michael,McCann,16,1984-02-20,35,Athens,GA,USA,6' 3,225,True,2,Uno Seis,M,True,True,2002,2005-06-10,Left,Right
+435522,Neil Walker,Neil,Martin,Walker,18,1985-09-10,33,Pittsburgh,PA,USA,6' 3,210,True,3,Walk,M,True,True,2004,2009-09-01,Switch,Right
+435559,Kurt Suzuki,Kurt,Kiyoshi,Suzuki,28,1983-10-04,35,Wailuku,HI,USA,5' 11,210,True,2,Zuk,M,True,True,2004,2007-06-12,Right,Right
+435622,Ian Desmond,Ian,M.,Desmond,20,1985-09-20,33,Sarasota,FL,USA,6' 3,220,True,8,Desi,M,True,True,2004,2009-09-10,Right,Right
+443558,Nelson Cruz,Nelson,Ramon,Cruz,23,1980-07-01,39,Las Matas de Santa Cruz,,Dominican Republic,6' 2,230,True,10,Boomstick,M,True,True,---,2005-09-17,Right,Right
+444432,Mark Trumbo,Mark,Daniel,Trumbo,45,1986-01-16,33,Anaheim,CA,USA,6' 4,225,True,10,Trum,M,True,True,2004,2010-09-11,Right,Right
+444468,Hector Rondon,Hector,Luis,Rondon,30,1988-02-26,31,Guatire,,Venezuela,6' 3,230,True,1,Rondy,M,True,True,---,2013-04-03,Right,Right
+444489,Manny Pina,Manuel,Elias,Pina,9,1987-06-05,32,Barquisimeto,,Venezuela,6' 0,215,True,2,Pineapple,M,True,True,---,2011-08-03,Right,Right
+445213,Brandon Kintzler,Brandon,Lee,Kintzler,20,1984-08-01,35,Las Vegas,NV,USA,6' 0,194,True,1,Salt,M,True,True,2004,2010-09-10,Right,Right
+445276,Kenley Jansen,Kenley,Geronimo,Jansen,74,1987-09-30,31,Willemstad,,Curacao,6' 5,265,True,1,Kenleyfornia,M,True,True,---,2010-07-24,Switch,Right
+445988,Martin Prado,Martin,M.,Prado,14,1983-10-27,35,Maracay,,Venezuela,6' 0,215,True,3,Pratt,M,True,True,---,2006-04-23,Right,Right
+446308,Matt Wieters,Matthew,Richard,Wieters,32,1986-05-21,33,Charleston,SC,USA,6' 5,235,True,2,Wiety,M,True,True,2007,2009-05-29,Switch,Right
+446321,Ross Detwiler,Ross,Emery,Detwiler,54,1986-03-06,33,St. Louis,MO,USA,6' 5,210,True,1,Det,M,True,True,2007,2007-09-07,Right,Left
+446334,Evan Longoria,Evan,Michael,Longoria,10,1985-10-07,33,Downey,CA,USA,6' 1,215,True,5,Longo,M,True,True,2006,2008-04-12,Right,Right
+446481,Sean Rodriguez,Sean,John,Rodriguez,13,1985-04-26,34,Miami,FL,USA,6' 0,200,True,6,Chi Chi,M,True,True,2003,2008-04-19,Right,Right
+448281,Sean Doolittle,Sean,Robert,Doolittle,63,1986-09-26,32,Rapid City,SD,USA,6' 2,204,True,1,Obi-Sean,M,True,True,2007,2012-06-05,Left,Left
+448801,Chris Davis,Christopher,Lyn,Davis,19,1986-03-17,33,Longview,TX,USA,6' 3,230,True,3,Crush,M,True,True,2006,2008-06-26,Left,Right
+448855,Junior Guerra,Junior,J.,Guerra,41,1985-01-16,34,San Felix,,Venezuela,6' 0,205,True,1,Cabezon,M,True,True,---,2015-06-12,Right,Right
+450172,Edinson Volquez,Edinson,---,Volquez,36,1983-07-03,36,Barahona,,Dominican Republic,6' 0,220,True,1,Steady Eddie,M,True,True,---,2005-08-30,Right,Right
+450203,Charlie Morton,Charles,A.,Morton,50,1983-11-12,35,Flemington,NJ,USA,6' 5,215,True,1,Ground Chuck,M,True,True,2002,2008-06-14,Right,Right
+450306,Jason Vargas,Jason,Matthew,Vargas,44,1983-02-02,36,Apple Valley,CA,USA,6' 0,215,True,1,Vargy,M,True,True,2004,2005-07-14,Left,Left
+450314,Ben Zobrist,Benjamin,Thomas,Zobrist,18,1981-05-26,38,Eureka,IL,USA,6' 3,210,True,9,Zorilla,M,True,True,2004,2006-08-01,Switch,Right
+451584,Wade Davis,Wade,Allen,Davis,71,1985-09-07,33,Lake Wales,FL,USA,6' 5,227,True,1,Wader,M,True,True,2004,2009-09-06,Right,Right
+451594,Dexter Fowler,William,Dexter,Fowler,25,1986-03-22,33,Atlanta,GA,USA,6' 5,195,True,9,Dex,M,True,True,2004,2008-09-02,Switch,Right
+452095,Tyler Flowers,Cole,Tyler,Flowers,25,1986-01-24,33,Roswell,GA,USA,6' 4,260,True,2,MMBB,M,True,True,2005,2009-09-03,Right,Right
+452657,Jon Lester,Jonathan,Tyler,Lester,34,1984-01-07,35,Tacoma,WA,USA,6' 4,240,True,1,Lefthander,M,True,True,2002,2006-06-10,Left,Left
+452678,Asdrubal Cabrera,Asdrubal,Jose,Cabrera,13,1985-11-13,33,Puerto La Cruz,,Venezuela,6' 0,205,True,5,Chiquitin,M,True,True,---,2007-08-08,Switch,Right
+453172,Jared Hughes,William,Jared,Hughes,25,1985-07-04,34,Stamford,CT,USA,6' 7,240,True,1,Ostrich,M,True,True,2006,2011-09-07,Right,Right
+453178,Ian Kennedy,Ian,Patrick,Kennedy,31,1984-12-19,34,Huntington Beach,CA,USA,6' 0,205,True,1,E,M,True,True,2006,2007-09-01,Right,Right
+453192,Andrew Miller,Andrew,Mark,Miller,21,1985-05-21,34,Gainesville,FL,USA,6' 7,205,True,1,Miller Time,M,True,True,2006,2006-08-30,Left,Left
+453265,Tony Watson,Anthony,Michael,Watson,56,1985-05-30,34,Sioux City,IA,USA,6' 3,218,True,1,Tone Ranger,M,True,True,2007,2011-06-08,Left,Left
+453281,Wade LeBlanc,Wade,Matthew,LeBlanc,49,1984-08-07,35,Lake Charles,LA,USA,6' 3,205,True,1,Frenchy,M,True,True,2006,2008-09-03,Left,Left
+453284,Blake Parker,Richard,Blake,Parker,53,1985-06-19,34,Fayetteville,AR,USA,6' 3,225,True,1,B-Easy,M,True,True,2006,2012-05-17,Right,Right
+453286,Max Scherzer,Maxwell,M.,Scherzer,31,1984-07-27,35,St. Louis,MO,USA,6' 3,215,True,1,Brown Eye,M,True,True,2006,2008-04-29,Right,Right
+453329,Clay Buchholz,Clay,Daniel,Buchholz,36,1984-08-14,35,Nederland,TX,USA,6' 3,190,True,1,Buck,M,True,True,2005,2007-08-17,Left,Right
+453343,Mark Melancon,Mark,David,Melancon,36,1985-03-28,34,Wheat Ridge,CO,USA,6' 2,215,True,1,Muh Lan Son,M,True,True,2006,2009-04-26,Right,Right
+453385,Clayton Richard,Clayton,Colby,Richard,2,1983-09-12,35,Lafayette,IN,USA,6' 5,240,True,1,Clay Clay,M,True,True,2005,2008-07-23,Left,Left
+453568,Charlie Blackmon,Charles,Cobb,Blackmon,19,1986-07-01,33,Dallas,TX,USA,6' 3,220,True,9,Chuck Nazty,M,True,True,2008,2011-06-07,Left,Left
+453943,Todd Frazier,Todd,Brian,Frazier,21,1986-02-12,33,Point Pleasant,NJ,USA,6' 3,220,True,5,Toddfather,M,True,True,2007,2011-05-23,Right,Right
+455117,Martin Maldonado,Martin,---,Maldonado,12,1986-08-16,33,Naguabo,,Puerto Rico,6' 0,230,True,2,Martincito,M,True,True,2004,2011-09-03,Right,Right
+455119,Chris Martin,Christopher,R.,Martin,51,1986-06-02,33,Arlington,TX,USA,6' 8,215,True,1,C-Mart,M,True,True,2005,2014-04-26,Right,Right
+455139,Robinson Chirinos,Robinson,David,Chirinos,28,1984-06-05,35,Punto Fijo,,Venezuela,6' 1,210,True,2,Pelo Buche,M,True,True,---,2011-07-18,Right,Right
+456034,David Price,David,Taylor,Price,10,1985-08-26,34,Murfreesboro,TN,USA,6' 5,215,True,1,X,M,True,True,2007,2008-09-14,Left,Left
+456051,Hector Noesi,Hector,---,Noesi,48,1987-01-26,32,Esperanza,,Dominican Republic,6' 3,205,True,1,,M,True,True,---,2011-05-18,Right,Right
+456078,Welington Castillo,Welington,Andres,Castillo,21,1987-04-24,32,San Isidro,,Dominican Republic,5' 10,220,True,2,Beef,M,True,True,---,2010-08-11,Right,Right
+456701,Homer Bailey,David,Dewitt,Bailey,15,1986-05-03,33,La Grange,TX,USA,6' 4,223,True,1,,M,True,True,2004,2007-06-08,Right,Right
+456715,Lorenzo Cain,Lorenzo,Lamar,Cain,6,1986-04-13,33,Valdosta,GA,USA,6' 2,205,True,8,Three Kid$,M,True,True,2004,2010-07-16,Right,Right
+456781,Donovan Solano,Donovan,---,Solano,7,1987-12-17,31,Barranquilla,,Colombia,5' 10,205,True,6,Soli,M,True,True,---,2012-05-21,Right,Right
+457708,Justin Upton,Justin,Irvin,Upton,8,1987-08-25,32,Norfolk,VA,USA,6' 1,215,True,7,J-Up,M,True,True,2005,2007-08-02,Right,Right
+457727,Cameron Maybin,Cameron,Keith,Maybin,38,1987-04-04,32,Asheville,NC,USA,6' 3,215,True,7,Slim,M,True,True,2005,2007-08-17,Right,Right
+457759,Justin Turner,Justin,Matthew,Turner,10,1984-11-23,34,Long Beach,CA,USA,5' 11,202,True,5,Redturn2,M,True,True,2006,2009-09-08,Right,Right
+457763,Buster Posey,Gerald,Dempsey,Posey,28,1987-03-27,32,Leesburg,GA,USA,6' 1,210,True,2,Hum Buss,M,True,True,2008,2009-09-11,Right,Right
+457803,Jay Bruce,Jay,Allen,Bruce,23,1987-04-03,32,Beaumont,TX,USA,6' 3,225,True,9,Bruuuce,M,True,True,2005,2008-05-27,Left,Left
+457915,Javy Guerra,Luis,Javier,Guerra,48,1985-10-31,33,Denton,TX,USA,6' 1,216,True,1,,M,True,True,2004,2011-05-15,Right,Right
+457918,J.A. Happ,James,Anthony,Happ,34,1982-10-19,36,Peru,IL,USA,6' 5,205,True,1,Jdot Adot,M,True,True,2004,2007-06-30,Left,Left
+458006,Matt Albers,Matthew,James,Albers,43,1983-01-20,36,Houston,TX,USA,6' 1,225,True,1,Big Salt,M,True,True,2001,2006-07-25,Left,Right
+458015,Joey Votto,Joseph,Daniel,Votto,19,1983-09-10,35,Toronto,ON,Canada,6' 2,220,True,3,Who,M,True,True,2002,2007-09-04,Left,Right
+458677,Justin Wilson,Justin,James,Wilson,38,1987-08-18,32,Anaheim,CA,USA,6' 2,205,True,1,J Willy,M,True,True,2008,2012-08-20,Left,Left
+458681,Lance Lynn,Michael,Lance,Lynn,35,1987-05-12,32,Marion County,IN,USA,6' 5,280,True,1,ML2,M,True,True,2008,2011-06-02,Switch,Right
+458708,Josh Tomlin,Joshua,Aubry,Tomlin,32,1984-10-19,34,Tyler,TX,USA,6' 1,190,True,1,JT,M,True,True,2006,2010-07-27,Right,Right
+458731,Brett Gardner,Brett,M.,Gardner,11,1983-08-24,36,Holly Hill,SC,USA,5' 11,195,True,8,,M,True,True,2005,2008-06-30,Left,Left
+459429,Jake McGee,Jacob,Daniel,McGee,51,1986-08-06,33,San Jose,CA,USA,6' 4,237,True,1,Mac Cheez,M,True,True,2004,2010-09-14,Left,Left
+459964,Matt Joyce,Matthew,Ryan,Joyce,14,1984-08-03,35,Tampa,FL,USA,6' 2,200,True,7,Sweet Swingin',M,True,True,2005,2008-05-05,Left,Right
+460075,Ryan Braun,Ryan,Joseph,Braun,8,1983-11-17,35,Mission Hills,CA,USA,6' 2,205,True,7,Ocho,M,True,True,2005,2007-05-25,Right,Right
+460086,Alex Gordon,Alex,Jonathan,Gordon,4,1984-02-10,35,Lincoln,NE,USA,6' 1,225,True,7,Gordo,M,True,True,2005,2007-04-02,Left,Right
+460283,Jerry Blevins,Jerry,Richard,Blevins,50,1983-09-06,35,Johnson City,TN,USA,6' 6,190,True,1,Jer-Ry Jer-Ry Jer-Ry,M,True,True,2004,2007-09-16,Left,Left
+461325,Tyler Clippard,Tyler,Lee,Clippard,36,1985-02-14,34,Lexington,KY,USA,6' 3,200,True,1,Clip,M,True,True,2003,2007-05-20,Right,Right
+461829,Gio Gonzalez,Giovany,Aramis,Gonzalez,47,1985-09-19,33,Hialeah,FL,USA,6' 0,205,True,1,Double G,M,True,True,2004,2008-08-06,Right,Left
+461872,Anthony Swarzak,Anthony,Ray,Swarzak,38,1985-09-10,33,Fort Lauderdale,FL,USA,6' 4,215,True,1,Swarzy,M,True,True,2004,2009-05-23,Right,Right
+462101,Elvis Andrus,Elvis,Augusto,Andrus,1,1988-08-26,31,Maracay,,Venezuela,6' 0,200,True,6,El Comando,M,True,True,---,2009-04-06,Right,Right
+465041,Francisco Cervelli,Francisco,---,Cervelli,45,1986-03-06,33,Valencia,,Venezuela,6' 1,210,True,2,Cisco,M,True,True,---,2008-09-18,Right,Right
+465657,Joakim Soria,Joakim,Augustin,Soria,48,1984-05-18,35,Monclova,Coahuila,Mexico,6' 3,200,True,1,Pepe,M,True,True,---,2007-04-04,Right,Right
+466320,Melky Cabrera,Melky,---,Cabrera,53,1984-08-11,35,Bajos De Haina,,Dominican Republic,5' 10,210,True,9,Melk Man,M,True,True,---,2005-07-07,Switch,Left
+467008,Pedro Strop,Pedro,Angel,Strop,46,1985-06-13,34,San Cristobal,,Dominican Republic,6' 1,220,True,1,Stropy,M,True,True,---,2009-08-28,Right,Right
+467055,Pablo Sandoval,Pablo,Emilio,Sandoval,48,1986-08-11,33,Puerto Cabello,,Venezuela,5' 11,268,True,5,Panda,M,True,True,---,2008-08-14,Switch,Right
+467092,Wilson Ramos,Wilson,Abraham,Ramos,40,1987-08-10,32,Valencia,,Venezuela,6' 1,245,True,2,Buffalo,M,True,True,---,2010-05-02,Right,Right
+467100,Ivan Nova,Ivan,Manuel,Nova,46,1987-01-12,32,Palenque,,Dominican Republic,6' 5,250,True,1,Super Nova,M,True,True,---,2010-05-13,Right,Right
+467793,Carlos Santana,Carlos,---,Santana,41,1986-04-08,33,Santo Domingo,,Dominican Republic,5' 11,210,True,3,Slamtana,M,True,True,---,2010-06-11,Switch,Right
+467827,Gerardo Parra,Gerardo,Enrique,Parra,88,1987-05-06,32,Santa Barbara del Zulia,,Venezuela,5' 11,210,True,7,El Yolo,M,True,True,---,2009-05-13,Left,Left
+468504,Jhoulys Chacin,Jhoulys,Jose,Chacin,45,1988-01-07,31,Maracaibo,,Venezuela,6' 3,215,True,1,La Makina,M,True,True,---,2009-07-25,Right,Right
+471911,Carlos Carrasco,Carlos,Luis,Carrasco,59,1987-03-21,32,Barquisimeto,,Venezuela,6' 4,224,True,1,Cookie,M,True,True,---,2009-09-01,Right,Right
+472551,Fernando Abad,Fernando,Antonio,Abad,50,1985-12-17,33,La Romana,,Dominican Republic,6' 1,220,True,1,Nandito,M,True,True,---,2010-07-28,Left,Left
+472610,Luis Garcia,Luis,Amado,Garcia,40,1987-01-30,32,Santo Domingo,,Dominican Republic,6' 2,240,True,1,Amadito,M,True,True,---,2013-07-10,Right,Right
+473879,Sam Dyson,Samuel,Isaac,Dyson,49,1988-05-07,31,Tampa,FL,USA,6' 1,212,True,1,Red Finger,M,True,True,2010,2012-07-05,Right,Right
+474463,Brett Anderson,Brett,Franklin,Anderson,30,1988-02-01,31,Midland,TX,USA,6' 4,230,True,1,Noon,M,True,True,2006,2009-04-10,Left,Left
+474568,Jordy Mercer,Jordy,Joe,Mercer,7,1986-08-27,33,Taloga,OK,USA,6' 3,210,True,6,The Rook,M,True,True,2008,2012-05-29,Right,Right
+474832,Brandon Belt,Brandon,Kyle,Belt,9,1988-04-20,31,Nacogdoches,TX,USA,6' 4,235,True,3,Bob,M,True,True,2009,2011-03-31,Left,Left
+475054,Chaz Roe,Chaz,Daniel,Roe,52,1986-10-09,32,Steubenville,OH,USA,6' 5,190,True,1,Ranch,M,True,True,2005,2013-07-01,Right,Right
+475174,Yonder Alonso,Yonder,---,Alonso,13,1987-04-08,32,Havana,,Cuba,6' 1,230,True,3,Mr. 305,M,True,True,2008,2010-09-01,Left,Right
+475247,Ryan Flaherty,Ryan,Edward,Flaherty,3,1986-07-27,33,Portland,ME,USA,6' 3,205,True,5,Flash,M,True,True,2008,2012-04-07,Left,Right
+475253,Justin Smoak,Justin,Kyle,Smoak,14,1986-12-05,32,Goose Creek,SC,USA,6' 4,220,True,3,Moakey,M,True,True,2008,2010-04-23,Switch,Left
+475479,David Phelps,David,Edward,Phelps,37,1986-10-09,32,St. Louis,MO,USA,6' 3,200,True,1,Phelpsy,M,True,True,2008,2012-04-08,Right,Right
+475582,Ryan Zimmerman,Ryan,Wallace,Zimmerman,11,1984-09-28,34,Washington,NC,USA,6' 3,215,True,3,Zim,M,True,True,2005,2005-09-01,Right,Right
+476451,Jeremy Hellickson,Jeremy,Robert,Hellickson,58,1987-04-08,32,Des Moines,IA,USA,6' 1,190,True,1,Helly,M,True,True,2005,2010-08-02,Right,Right
+477132,Clayton Kershaw,Clayton,Edward,Kershaw,22,1988-03-19,31,Dallas,TX,USA,6' 4,226,True,1,Kersh,M,True,True,2006,2008-05-25,Left,Left
+488671,Alex Avila,Alexander,Thomas,Avila,31,1987-01-29,32,Hialeah,FL,USA,5' 11,210,True,2,Parkman,M,True,True,2008,2009-08-06,Left,Right
+488726,Michael Brantley,Michael,Charles,Brantley,23,1987-05-15,32,Bellevue,WA,USA,6' 2,200,True,7,Champ,M,True,True,2005,2009-09-01,Left,Left
+488748,Ryan Buchter,Ryan,James,Buchter,52,1987-02-13,32,Reading,PA,USA,6' 4,232,True,1,Book,M,True,True,2005,2014-06-20,Left,Left
+488768,Andrew Cashner,Andrew,Burton,Cashner,48,1986-09-11,32,Conroe,TX,USA,6' 6,235,True,1,Cash,M,True,True,2008,2010-05-31,Right,Right
+488771,Jason Castro,Jason,Michael,Castro,15,1987-06-18,32,Castro Valley,CA,USA,6' 3,215,True,2,Stro,M,True,True,2008,2010-06-22,Left,Right
+489119,Wade Miley,Wade,Allen,Miley,20,1986-11-13,32,Hammond,LA,USA,6' 0,220,True,1,Miles,M,True,True,2008,2011-08-20,Left,Left
+489149,Logan Morrison,Justis,Logan,Morrison,8,1987-08-25,32,Kansas City,MO,USA,6' 3,245,True,3,LoMo,M,True,True,2005,2010-07-27,Left,Left
+489265,Sergio Romo,Sergio,Francisco,Romo,54,1983-03-04,36,Brawley,CA,USA,5' 11,185,True,1,El Mechon,M,True,True,2005,2008-06-26,Right,Right
+489334,Craig Stammen,Craig,N.,Stammen,34,1984-03-09,35,North Star,OH,USA,6' 4,230,True,1,Trig,M,True,True,2005,2009-05-21,Right,Right
+489446,Kirby Yates,Kirby,Kali,Yates,39,1987-03-25,32,Lihue,HI,USA,5' 10,210,True,1,Chubbs Senior,M,True,True,2005,2014-06-07,Left,Right
+491676,Gorkys Hernandez,Gorkys,Gustavo,Hernandez,47,1987-09-07,31,Guiria,,Venezuela,6' 1,196,True,8,Cazador,M,True,True,---,2012-05-21,Right,Right
+493329,Yuli Gurriel,Yulieski,---,Gurriel,10,1984-06-09,35,Sancti Spiritus,,Cuba,6' 0,190,True,3,La Pina,M,True,True,---,2016-08-21,Right,Right
+493596,Gordon Beckham,James,Gordon,Beckham,29,1986-09-16,32,Atlanta,GA,USA,6' 0,190,True,6,Gordo,M,True,True,2008,2009-06-04,Right,Right
+493603,Adam Ottavino,Adam,Robert,Ottavino,0,1985-11-22,33,New York,NY,USA,6' 5,220,True,1,Brooklyn,M,True,True,2006,2010-05-29,Switch,Right
+500135,Ronny Rodriguez,Ronny,---,Rodriguez,60,1992-04-17,27,Santiago,,Dominican Republic,6' 0,200,True,6,El Felino,M,True,True,---,2018-05-31,Right,Right
+500743,Miguel Rojas,Miguel,Elias,Rojas,19,1989-02-24,30,Los Teques,,Venezuela,5' 11,195,True,6,Miggy Ro,M,True,True,---,2014-06-06,Right,Right
+500779,Jose Quintana,Jose,Guillermo,Quintana,62,1989-01-24,30,Arjona,,Colombia,6' 1,220,True,1,Lelo,M,True,True,---,2012-05-07,Right,Left
+500871,Eduardo Escobar,Eduardo,Jose,Escobar,5,1989-01-05,30,Villa de Cura,,Venezuela,5' 10,185,True,5,El De La Pica,M,True,True,---,2011-09-02,Switch,Right
+500874,Jose Martinez,Jose,Alberto,Martinez,38,1988-07-25,31,La Guaira,,Venezuela,6' 6,215,True,9,Cafe,M,True,True,---,2016-09-06,Right,Right
+501303,Ehire Adrianza,Ehire,Enrique,Adrianza,13,1989-08-21,30,Miranda,,Venezuela,6' 1,195,True,5,Guarenero,M,True,True,---,2013-09-08,Switch,Right
+501381,Michael Pineda,Michael,Francisco,Pineda,35,1989-01-18,30,Yaguate,,Dominican Republic,6' 7,280,True,1,Big Mike,M,True,True,---,2011-04-05,Right,Right
+501571,Juan Lagares,Juan,Osvaldo,Lagares,12,1989-03-17,30,Constanza,,Dominican Republic,6' 1,215,True,8,Juan Jr.,M,True,True,---,2013-04-23,Right,Right
+501593,Luis Avilan,Luis,Armando,Avilan,43,1989-07-19,30,Caracas,,Venezuela,6' 2,220,True,1,Avi,M,True,True,---,2012-07-14,Left,Left
+501625,Jose Alvarez,Jose,Ricardo,Alvarez,52,1989-05-06,30,Barcelona,,Venezuela,5' 11,180,True,1,El Llave,M,True,True,---,2013-06-09,Left,Left
+501659,Abraham Almonte,Abraham,---,Almonte,48,1989-06-27,30,Santo Domingo,,Dominican Republic,5' 9,210,True,O,El Varon,M,True,True,---,2013-08-30,Switch,Right
+501789,Will Harris,William,Taylor,Harris,36,1984-08-28,35,Houston,TX,USA,6' 4,240,True,1,Clutch Cam,M,True,True,2006,2012-08-13,Right,Right
+501896,David Freese,David,Richard,Freese,25,1983-04-28,36,Corpus Christi,TX,USA,6' 2,213,True,3,Davehuman,M,True,True,2006,2009-04-06,Right,Right
+501925,Joe Smith,Joseph,Michael,Smith,38,1984-03-22,35,Cincinnati,OH,USA,6' 2,205,True,1,Smitty,M,True,True,2006,2007-04-01,Right,Right
+501981,Khris Davis,Khris,Adrian,Davis,2,1987-12-21,31,Lakewood,CA,USA,5' 11,203,True,7,KD,M,True,True,2009,2013-04-01,Right,Right
+501985,Mike Minor,Michael,David,Minor,23,1987-12-26,31,Chapel Hill,TN,USA,6' 4,210,True,1,Meener,M,True,True,2009,2010-08-09,Right,Left
+502054,Tommy Pham,Thomas,James,Pham,29,1988-03-08,31,Las Vegas,NV,USA,6' 1,215,True,7,Phamtastic,M,True,True,2006,2014-09-09,Right,Right
+502110,J.D. Martinez,Julio,Daniel,Martinez,28,1987-08-21,32,Miami,FL,USA,6' 3,220,True,7,Flaco,M,True,True,2009,2011-07-30,Right,Right
+502117,Kristopher Negron,Kristopher,David,Negron,9,1986-02-01,33,Willingboro,NJ,USA,6' 0,190,True,4,Negron James,M,True,True,2006,2012-06-07,Right,Right
+502154,Zack Britton,Zackary,Grant,Britton,53,1987-12-22,31,Panorama City,CA,USA,6' 3,195,True,1,With A K,M,True,True,2006,2011-04-03,Left,Left
+502188,Jeff Samardzija,Jeffrey,Alan,Samardzija,29,1985-01-23,34,Merrillville,IN,USA,6' 5,240,True,1,Shark,M,True,True,2006,2008-07-25,Right,Right
+502190,Mike Leake,Michael,Raymond,Leake,8,1987-11-12,31,San Diego,CA,USA,5' 10,170,True,1,Drip,M,True,True,2009,2010-04-11,Right,Right
+502210,Josh Reddick,William,Joshua,Reddick,22,1987-02-19,32,Savannah,GA,USA,6' 2,195,True,9,Mr. Irrelevant,M,True,True,2006,2009-07-31,Left,Right
+502239,Trevor Cahill,Trevor,John,Cahill,53,1988-03-01,31,Oceanside,CA,USA,6' 4,230,True,1,T.C.,M,True,True,2006,2009-04-07,Right,Right
+502273,Mike Freeman,Michael,Barrett,Freeman,6,1987-08-04,32,Orlando,FL,USA,6' 0,195,True,4,Waldo,M,True,True,2010,2016-07-17,Left,Right
+502327,Hector Santiago,Hector,Felipe,Santiago,53,1987-12-16,31,Newark,NJ,USA,6' 0,215,True,1,Santi,M,True,True,2006,2011-07-06,Right,Left
+502481,Jarrod Dyson,Jarrod,Martel,Dyson,1,1984-08-15,35,McComb,MS,USA,5' 10,165,True,8,Zoombiya,M,True,True,2006,2010-09-07,Left,Right
+502517,Daniel Murphy,Daniel,Thomas,Murphy,9,1985-04-01,34,Jacksonville,FL,USA,6' 1,221,True,3,Murph,M,True,True,2006,2008-08-02,Left,Right
+502624,Chase Anderson,Robert,Chase,Anderson,57,1987-11-30,31,Wichita Falls,TX,USA,6' 1,200,True,1,Chaser,M,True,True,2009,2014-05-11,Right,Right
+502671,Paul Goldschmidt,Paul,Edward,Goldschmidt,46,1987-09-10,31,Wilmington,DE,USA,6' 3,225,True,3,Goldy,M,True,True,2009,2011-08-01,Right,Right
+503556,Marwin Gonzalez,Marwin,Javier,Gonzalez,9,1989-03-14,30,Puerto Ordaz,,Venezuela,6' 1,205,True,5,Gonzo,M,True,True,---,2012-04-06,Switch,Right
+506433,Yu Darvish,Yu,---,Darvish,11,1986-08-16,33,Osaka,,Japan,6' 5,220,True,1,Yu-San,M,True,True,---,2012-04-09,Right,Right
+506702,Sandy Leon,Sandy,David,Leon,3,1989-03-13,30,Maracaibo,,Venezuela,5' 10,225,True,2,Noah,M,True,True,---,2012-05-14,Switch,Right
+506703,Adrian Sanchez,Adrian,Arturo,Sanchez,5,1990-08-16,29,Maracaibo,,Venezuela,6' 0,216,True,6,Sanchy,M,True,True,---,2017-06-30,Right,Right
+514888,Jose Altuve,Jose,Carlos,Altuve,27,1990-05-06,29,Maracay,,Venezuela,5' 6,165,True,4,Tuve,M,True,True,---,2011-07-20,Right,Right
+514917,Cesar Hernandez,Cesar,Augusto,Hernandez,16,1990-05-23,29,Valencia,,Venezuela,5' 10,160,True,4,Cesita,M,True,True,---,2013-05-29,Switch,Right
+516416,Jean Segura,Jean,Carlos Enrique,Segura,2,1990-03-17,29,San Juan,,Dominican Republic,5' 10,205,True,6,El Mambo,M,True,True,---,2012-07-24,Right,Right
+516770,Starlin Castro,Starlin,DeJesus,Castro,13,1990-03-24,29,Monte Cristi,,Dominican Republic,6' 2,230,True,4,All-Starlin,M,True,True,---,2010-05-07,Right,Right
+516782,Starling Marte,Starling,Javier,Marte,6,1988-10-09,30,Santo Domingo,,Dominican Republic,6' 1,190,True,8,Tato,M,True,True,---,2012-07-26,Right,Right
+516969,Kelvin Herrera,Kelvin,De Jesus,Herrera,41,1989-12-31,29,Tenares,,Dominican Republic,5' 10,200,True,1,K 40,M,True,True,---,2011-09-21,Right,Right
+517008,Alex Colome,Alexander,Manuel,Colome,48,1988-12-31,30,Santo Domingo,,Dominican Republic,6' 1,220,True,1,The Horse,M,True,True,---,2013-05-30,Right,Right
+518489,Ryan Brasier,Ryan,David,Brasier,70,1987-08-26,32,Wichita Falls,TX,USA,6' 0,225,True,1,,M,True,True,2007,2013-05-02,Right,Right
+518516,Madison Bumgarner,Madison,Kyle,Bumgarner,40,1989-08-01,30,Hickory,NC,USA,6' 4,242,True,1,Mad-Bum,M,True,True,2007,2009-09-08,Right,Left
+518542,Juan Centeno,Juan,C.,Centeno,68,1989-11-16,29,Arecibo,,Puerto Rico,5' 9,195,True,2,,M,True,True,2007,2013-09-18,Left,Right
+518553,Steve Cishek,Steven,R.,Cishek,41,1986-06-18,33,Falmouth,MA,USA,6' 6,215,True,1,Speedpass,M,True,True,2007,2010-09-26,Right,Right
+518586,Charlie Culberson,Charles,Edward,Culberson,8,1989-04-10,30,Rome,GA,USA,6' 0,200,True,7,A.C.E.S.,M,True,True,2007,2012-05-13,Right,Right
+518595,Travis d'Arnaud,Travis,E.,d'Arnaud,37,1989-02-10,30,Long Beach,CA,USA,6' 2,210,True,2,Little d',M,True,True,2007,2013-08-17,Right,Right
+518614,Daniel Descalso,Daniel,William,Descalso,3,1986-10-19,32,Redwood City,CA,USA,5' 10,190,True,4,Scals,M,True,True,2007,2010-09-18,Left,Right
+518617,Jake Diekman,Jacob,Tanner,Diekman,35,1987-01-21,32,Wymore,NE,USA,6' 4,200,True,1,Gut It Out,M,True,True,2007,2012-05-15,Left,Left
+518618,Derek Dietrich,Derek,Richard,Dietrich,22,1989-07-18,30,Cleveland,OH,USA,6' 0,205,True,4,Dietz,M,True,True,2010,2013-05-08,Left,Right
+518626,Josh Donaldson,Joshua,Adam,Donaldson,20,1985-12-08,33,Pensacola,FL,USA,6' 1,210,True,5,Bringer Of Rain,M,True,True,2007,2010-04-30,Right,Right
+518633,Danny Duffy,Daniel,Richard,Duffy,41,1988-12-21,30,Goleta,CA,USA,6' 3,205,True,1,Gordo,M,True,True,2007,2011-05-18,Left,Left
+518692,Freddie Freeman,Frederick,Charles,Freeman,5,1989-09-12,29,Fountain Valley,CA,USA,6' 5,220,True,3,Phillip,M,True,True,2007,2010-09-01,Left,Right
+518715,Cory Gearrin,Cory,Nathanial,Gearrin,35,1986-04-14,33,Chattanooga,TN,USA,6' 1,205,True,1,C.G.,M,True,True,2007,2011-04-25,Right,Right
+518735,Yasmani Grandal,Yasmani,---,Grandal,10,1988-11-08,30,Havana,,Cuba,6' 1,235,True,2,Yazmanian Devil,M,True,True,2010,2012-06-02,Switch,Right
+518792,Jason Heyward,Jason,Alias,Heyward,22,1989-08-09,30,Ridgewood,NJ,USA,6' 5,240,True,9,J-Hey,M,True,True,2007,2010-04-05,Left,Left
+518875,Shawn Kelley,Shawn,Andrew,Kelley,27,1984-04-26,35,Louisville,KY,USA,6' 2,237,True,1,Kelleytime,M,True,True,2007,2009-04-10,Right,Right
+518876,Merrill Kelly,Kenneth,Merrill,Kelly,29,1988-10-14,30,Houston,TX,USA,6' 2,190,True,1,Mert,M,True,True,2010,2019-04-01,Right,Right
+518886,Craig Kimbrel,Craig,Michael,Kimbrel,24,1988-05-28,31,Huntsville,AL,USA,6' 0,210,True,1,Dirty Craig,M,True,True,2008,2010-05-07,Right,Right
+518934,DJ LeMahieu,David,John,LeMahieu,26,1988-07-13,31,Visalia,CA,USA,6' 4,215,True,4,Big Fundy,M,True,True,2009,2011-05-30,Right,Right
+518960,Jonathan Lucroy,Jonathan,Charles,Lucroy,25,1986-06-13,33,Eustis,FL,USA,6' 0,200,True,2,Luc,M,True,True,2007,2010-05-21,Right,Right
+519008,T.J. McFarland,Timothy,John,McFarland,30,1989-06-08,30,Palos Hills,IL,USA,6' 3,220,True,1,Mac Attack,M,True,True,2007,2013-04-06,Left,Left
+519048,Mitch Moreland,Mitchell,Austin,Moreland,18,1985-09-06,33,Amory,MS,USA,6' 2,230,True,3,2-Bags,M,True,True,2007,2010-07-29,Left,Left
+519058,Mike Moustakas,Michael,Christopher,Moustakas,11,1988-09-11,30,Los Angeles,CA,USA,6' 0,225,True,4,Moose,M,True,True,2007,2011-06-10,Left,Right
+519076,Jimmy Nelson,James,Jacob,Nelson,52,1989-06-05,30,Klamath Falls,OR,USA,6' 6,250,True,1,Big Sweat,M,True,True,2010,2013-09-06,Right,Right
+519096,Dan Otero,Daniel,Anthony,Otero,61,1985-02-19,34,Miami,FL,USA,6' 3,205,True,1,OT,M,True,True,2007,2012-04-07,Right,Right
+519141,Drew Pomeranz,Thomas,Andrew,Pomeranz,15,1988-11-22,30,Collierville,TN,USA,6' 6,240,True,1,Big Smooth,M,True,True,2010,2011-09-11,Right,Left
+519144,Rick Porcello,Frederick,Alfred,Porcello,22,1988-12-27,30,Morristown,NJ,USA,6' 5,205,True,1,Veintidos,M,True,True,2007,2009-04-09,Right,Right
+519203,Anthony Rizzo,Anthony,Vincent,Rizzo,44,1989-08-08,30,Fort Lauderdale,FL,USA,6' 3,240,True,3,Tony,M,True,True,2007,2011-06-09,Left,Left
+519222,Austin Romine,Austin,Allen,Romine,28,1988-11-22,30,Lake Forest,CA,USA,6' 1,220,True,2,Ro,M,True,True,2007,2011-09-11,Right,Right
+519293,Will Smith,William,Michael,Smith,13,1989-07-10,30,Newnan,GA,USA,6' 5,248,True,1,Smitty,M,True,True,2008,2012-05-23,Right,Left
+519299,Eric Sogard,Eric,Sidney,Sogard,9,1986-05-22,33,Phoenix,AZ,USA,5' 10,185,True,4,Nerd Power,M,True,True,2007,2010-09-14,Left,Right
+519326,Hunter Strickland,Hunter,Drew,Strickland,60,1988-09-24,30,Thomaston,GA,USA,6' 3,225,True,1,Southern Thunder,M,True,True,2007,2014-09-01,Right,Right
+519346,Eric Thames,Eric,Allyn,Thames,7,1986-11-10,32,Santa Clara,CA,USA,6' 0,210,True,3,Phone Home,M,True,True,2008,2011-05-18,Left,Right
+519390,Stephen Vogt,Stephen,Guy,Vogt,21,1984-11-01,34,Visalia,CA,USA,6' 0,225,True,2,I Believe,M,True,True,2007,2012-04-06,Left,Right
+519393,Marcus Walden,Marcus,W.,Walden,64,1988-09-13,30,Fresno,CA,USA,6' 0,195,True,1,Waldo,M,True,True,2007,2018-04-01,Right,Right
+519443,Brandon Workman,Brandon,Carlin,Workman,44,1988-08-13,31,Arlington,TX,USA,6' 5,235,True,1,Work,M,True,True,2010,2013-07-10,Right,Right
+519455,Jordan Zimmermann,Jordan,M.,Zimmermann,27,1986-05-23,33,Auburndale,WI,USA,6' 2,225,True,1,J Z,M,True,True,2007,2009-04-20,Right,Right
+520471,Freddy Galvis,Freddy,Jose,Galvis,3,1989-11-14,29,Punto Fijo,,Venezuela,5' 10,185,True,6,Toco,M,True,True,---,2012-04-05,Switch,Right
+520980,Pedro Baez,Pedro,Alberys,Baez,52,1988-03-11,31,Bani,,Dominican Republic,6' 0,232,True,1,La Mula,M,True,True,---,2014-05-05,Right,Right
+521230,Liam Hendriks,Liam,Johnson,Hendriks,16,1989-02-10,30,Perth,Western Australia,Australia,6' 0,225,True,1,Slydah,M,True,True,---,2011-09-06,Right,Right
+521655,Wilmer Font,Wilmer,---,Font,63,1990-05-24,29,La Guaira,,Venezuela,6' 4,250,True,1,Fonky,M,True,True,---,2012-09-18,Right,Right
+523253,Logan Forsythe,John,Logan,Forsythe,41,1987-01-14,32,Memphis,TN,USA,6' 1,205,True,3,Logie Bear,M,True,True,2008,2011-05-04,Right,Right
+523260,Joe Kelly,Joseph,William,Kelly,17,1988-06-09,31,Anaheim,CA,USA,6' 1,174,True,1,909,M,True,True,2009,2012-06-10,Right,Right
+527038,Wilmer Flores,Wilmer,Alejandro,Flores,41,1991-08-06,28,Valencia,,Venezuela,6' 3,205,True,4,Catire,M,True,True,---,2013-08-06,Right,Right
+527048,Martin Perez,Martin,---,Perez,33,1991-04-04,28,Guanare,,Venezuela,6' 0,200,True,1,El De Las Matas,M,True,True,---,2012-06-27,Left,Left
+527054,Julio Teheran,Julio,Alberto,Teheran,49,1991-01-27,28,Cartagena,,Colombia,6' 2,205,True,1,El Caballo De Olaya,M,True,True,---,2011-05-07,Right,Right
+532077,Roberto Osuna,Roberto,---,Osuna,54,1995-02-07,24,Juan Jose Rios,Sinaloa,Mexico,6' 2,215,True,1,,M,True,True,---,2015-04-08,Right,Right
+541645,Avisail Garcia,Avisail,Antonio,Garcia,24,1991-06-12,28,Anzoategui,,Venezuela,6' 4,250,True,9,Uncle Avi,M,True,True,---,2012-08-31,Right,Right
+541650,Hernan Perez,Hernan,Alejandro,Perez,14,1991-03-26,28,Villa de Cura,,Venezuela,6' 1,215,True,4,Pepper,M,True,True,---,2012-06-09,Right,Right
+542303,Marcell Ozuna,Marcell,---,Ozuna,23,1990-11-12,28,Santo Domingo,,Dominican Republic,6' 1,225,True,7,The Big Bear,M,True,True,---,2013-04-30,Right,Right
+542340,Jonathan Villar,Jonathan,Rafael,Villar,2,1991-05-02,28,La Vega,,Dominican Republic,6' 1,215,True,4,Gaby,M,True,True,---,2013-07-22,Switch,Right
+542364,Rafael Ortega,Rafael,Angel,Ortega,18,1991-05-15,28,El Tigre,,Venezuela,5' 11,160,True,7,,M,True,True,---,2012-09-30,Left,Right
+542454,Danny Santana,Daniel,Ernesto,Santana,38,1990-11-07,28,Monte Plata,,Dominican Republic,5' 11,185,True,4,Danielito,M,True,True,---,2014-05-05,Switch,Right
+542583,Jesus Aguilar,Jesus,Alexander,Aguilar,21,1990-06-30,29,Maracay,,Venezuela,6' 3,250,True,3,El Causa,M,True,True,---,2014-05-15,Right,Right
+542585,Jose Cisnero,Jose,Luis,Cisnero,67,1989-04-11,30,Bajos de Haina,San Cristobal,Dominican Republic,6' 3,245,True,1,Gui,M,True,True,---,2013-04-22,Right,Right
+542882,Matt Andriese,Matthew,Lee,Andriese,35,1989-08-28,30,Redlands,CA,USA,6' 2,225,True,1,Dreezy,M,True,True,2011,2015-04-10,Right,Right
+542888,Shawn Armstrong,Shawn,Michael,Armstrong,43,1990-09-11,28,New Bern,NC,USA,6' 2,225,True,1,Armie,M,True,True,2011,2015-08-08,Right,Right
+542914,Anthony Bass,Anthony,Edward,Bass,52,1987-11-01,31,Dearborn,MI,USA,6' 2,200,True,1,T-Fish,M,True,True,2008,2011-06-13,Right,Right
+542932,Jon Berti,Jonathon,David,Berti,55,1990-01-22,29,Troy,MI,USA,5' 10,195,True,5,Birdman,M,True,True,2011,2018-09-26,Right,Right
+542947,Richard Bleier,Richard,Sidney,Bleier,48,1987-04-16,32,Davie,FL,USA,6' 3,215,True,1,Dick,M,True,True,2008,2016-05-30,Left,Left
+542953,Buddy Boshers,Jeffrey,Alan,Boshers,67,1988-05-09,31,Huntsville,AL,USA,6' 3,222,True,1,Buddy,M,True,True,2008,2013-08-10,Left,Left
+542960,Brad Brach,Brad,---,Brach,29,1986-04-12,33,Freehold,NJ,USA,6' 6,215,True,1,B-Rad,M,True,True,2008,2011-08-31,Right,Right
+542979,Keon Broxton,Keon,Darell,Broxton,4,1990-05-07,29,Lakeland,FL,USA,6' 3,195,True,8,C.J.,M,True,True,2009,2015-09-21,Right,Right
+543022,Tyler Chatwood,Tyler,Cole,Chatwood,32,1989-12-16,29,Redlands,CA,USA,6' 0,185,True,1,Chatty,M,True,True,2008,2011-04-11,Right,Right
+543037,Gerrit Cole,Gerrit,Alan,Cole,45,1990-09-08,28,Newport Beach,CA,USA,6' 4,225,True,1,Chef G,M,True,True,2011,2013-06-11,Right,Right
+543045,Adam Conley,Adam,Michael,Conley,61,1990-05-24,29,Redmond,WA,USA,6' 3,200,True,1,Acon,M,True,True,2011,2015-06-10,Left,Left
+543063,Brandon Crawford,Brandon,Michael,Crawford,35,1987-01-21,32,Mountain View,CA,USA,6' 2,227,True,6,DJ BC Raw,M,True,True,2008,2011-05-27,Left,Right
+543068,C.J. Cron,Christopher,John,Cron,24,1990-01-05,29,Fullerton,CA,USA,6' 4,235,True,3,Crony,M,True,True,2011,2014-05-03,Right,Right
+543089,Taylor Davis,Taylor,M.,Davis,53,1989-11-28,29,Tampa,FL,USA,5' 10,200,True,2,BTD,M,True,True,2008,2017-09-08,Right,Right
+543101,Anthony DeSclafani,Anthony,J.,DeSclafani,28,1990-04-18,29,Freehold,NJ,USA,6' 1,195,True,1,Disco,M,True,True,2011,2014-05-14,Right,Right
+543105,Alex Dickerson,Alexander,Ross,Dickerson,8,1990-05-26,29,Poway,CA,USA,6' 3,235,True,7,Grandpa,M,True,True,2011,2015-08-06,Left,Left
+543118,Oliver Drake,Oliver,Gardner,Drake,47,1987-01-13,32,Worcester,MA,USA,6' 4,215,True,1,Bucko,M,True,True,2008,2015-05-23,Right,Right
+543135,Nathan Eovaldi,Nathan,Edward,Eovaldi,17,1990-02-13,29,Houston,TX,USA,6' 2,225,True,1,Nitro,M,True,True,2008,2011-08-06,Right,Right
+543208,Sam Gaviglio,Samuel,Joseph,Gaviglio,43,1990-05-22,29,Ashland,OR,USA,6' 2,205,True,1,Sammy G,M,True,True,2011,2017-05-11,Right,Right
+543228,Yan Gomes,Yan,---,Gomes,10,1987-07-19,32,Sao Paulo,,Brazil,6' 2,215,True,2,Gomer,M,True,True,2009,2012-05-17,Right,Right
+543243,Sonny Gray,Sonny,Douglas,Gray,54,1989-11-07,29,Nashville,TN,USA,5' 10,192,True,1,Pickles,M,True,True,2011,2013-07-10,Right,Right
+543257,Robbie Grossman,Robert,Edward,Grossman,8,1989-09-16,29,San Diego,CA,USA,6' 0,215,True,7,RG,M,True,True,2008,2013-04-24,Switch,Left
+543272,Brad Hand,Bradley,Richard,Hand,33,1990-03-20,29,Minneapolis,MN,USA,6' 3,220,True,1,Brotein Shake,M,True,True,2008,2011-06-07,Left,Left
+543294,Kyle Hendricks,Kyle,C.,Hendricks,28,1989-12-07,29,Newport Beach,CA,USA,6' 3,190,True,1,Hendo,M,True,True,2011,2014-07-10,Right,Right
+543302,Chris Herrmann,Christopher,Ryan,Herrmann,5,1987-11-24,31,Tomball,TX,USA,6' 0,200,True,2,Worm,M,True,True,2009,2012-09-16,Left,Right
+543308,John Hicks,John,Austin,Hicks,55,1989-08-31,30,Richmond,VA,USA,6' 2,230,True,2,Jazz,M,True,True,2011,2015-08-29,Right,Right
+543333,Eric Hosmer,Eric,John,Hosmer,30,1989-10-24,29,South Miami,FL,USA,6' 4,225,True,3,Papo,M,True,True,2008,2011-05-06,Left,Left
+543339,Daniel Hudson,Daniel,Claiborne,Hudson,44,1987-03-09,32,Lynchburg,VA,USA,6' 3,225,True,1,Huddy,M,True,True,2008,2009-09-04,Right,Right
+543351,Jay Jackson,Randy,---,Jackson,25,1987-10-27,31,Greenville,SC,USA,6' 1,195,True,1,,M,True,True,2008,2015-09-14,Right,Right
+543376,Caleb Joseph,Caleb,Martin,Joseph,14,1986-06-18,33,Nashville,TN,USA,6' 3,180,True,2,Cale,M,True,True,2008,2014-05-07,Right,Right
+543401,Jason Kipnis,Jason,Michael,Kipnis,22,1987-04-03,32,Northbrook,IL,USA,5' 11,200,True,4,Dirtbag,M,True,True,2009,2011-07-22,Left,Right
+543475,Jordan Lyles,Jordan,Horton,Lyles,23,1990-10-19,28,Hartsville,SC,USA,6' 5,230,True,1,J Lyles,M,True,True,2008,2011-05-31,Right,Right
+543483,Matt Magill,Matthew,W.,Magill,61,1989-11-10,29,Simi Valley,CA,USA,6' 3,210,True,1,Goose,M,True,True,2008,2013-04-27,Right,Right
+543507,Trevor May,Trevor,J.,May,65,1989-09-23,29,Longview,WA,USA,6' 5,240,True,1,Iamtrevormay,M,True,True,2008,2014-08-09,Right,Right
+543510,James McCann,James,Thomas,McCann,33,1990-06-13,29,Santa Barbara,CA,USA,6' 3,225,True,2,McCannon,M,True,True,2011,2014-09-01,Right,Right
+543532,Tim Melville,Timothy,Macgill,Melville,38,1989-10-09,29,Alexandria,VA,USA,6' 4,225,True,1,,M,True,True,2008,2016-04-10,Right,Right
+543543,Brad Miller,Bradley,Austin,Miller,33,1989-10-18,29,Orlando,FL,USA,6' 2,215,True,4,J. Windermere,M,True,True,2011,2013-06-28,Left,Right
+543548,Tommy Milone,Tomaso,Anthony,Milone,57,1987-02-16,32,Saugus,CA,USA,6' 0,215,True,1,Tomaso,M,True,True,2008,2011-09-03,Left,Left
+543557,Mike Montgomery,Michael,Paul,Montgomery,21,1989-07-01,30,Mission Hills,CA,USA,6' 5,215,True,1,Monty,M,True,True,2008,2015-06-02,Left,Left
+543592,Austin Nola,Austin,Kyle,Nola,23,1989-12-28,29,Baton Rouge,LA,USA,6' 0,195,True,3,,M,True,True,2012,2019-06-16,Right,Right
+543606,Jake Odorizzi,Jacob,Todd,Odorizzi,12,1990-03-27,29,Breese,IL,USA,6' 2,190,True,1,Odo,M,True,True,2008,2012-09-23,Right,Right
+543685,Anthony Rendon,Anthony,Michael,Rendon,6,1990-06-06,29,Houston,TX,USA,6' 1,200,True,5,Ant,M,True,True,2011,2013-04-21,Right,Right
+543699,Tanner Roark,Tanner,B.,Roark,60,1986-10-05,32,Wilmington,IL,USA,6' 2,240,True,1,T-Ro,M,True,False,2008,2013-08-07,Right,Right
+543760,Marcus Semien,Marcus,Andrew,Semien,10,1990-09-17,28,San Francisco,CA,USA,6' 0,195,True,6,Simmy,M,True,True,2011,2013-09-04,Right,Right
+543766,Bryan Shaw,Bryan,Anthony,Shaw,29,1987-11-08,31,Livermore,CA,USA,6' 1,232,True,1,Geek,M,True,True,2008,2011-06-10,Switch,Right
+543768,Travis Shaw,Travis,R.,Shaw,21,1990-04-16,29,Washington Court House,OH,USA,6' 4,230,True,5,Mayor-DDC,M,True,True,2011,2015-05-08,Left,Right
+543807,George Springer,George,Chelston,Springer,4,1989-09-19,29,New Britain,CT,USA,6' 3,215,True,9,Horhay,M,True,True,2011,2014-04-16,Right,Right
+543829,Dee Gordon,Devaris,---,Gordon,9,1988-04-22,31,Avon Park,FL,USA,5' 11,170,True,4,Lightning,M,True,True,2008,2011-06-06,Left,Right
+543877,Christian Vazquez,Christian,Rafael,Vazquez,7,1990-08-21,29,Bayamon,,Puerto Rico,5' 9,195,True,2,Colo,M,True,True,2008,2014-07-09,Right,Right
+543883,Nick Vincent,Nicholas,James,Vincent,29,1986-07-12,33,Poway,CA,USA,6' 0,185,True,1,Hubba Hubba,M,True,True,2008,2012-06-26,Right,Right
+543901,Ryan Weber,James,Ryan,Weber,65,1990-08-12,29,St. Petersburg,FL,USA,6' 1,180,True,1,Web,M,True,True,2009,2015-09-08,Right,Right
+543939,Kolten Wong,Kolten,Kaha,Wong,16,1990-10-10,28,Hilo,HI,USA,5' 9,185,True,4,Thewongone808,M,True,True,2011,2013-08-16,Left,Right
+544365,Manny Banuelos,Manuel,---,Banuelos,58,1991-03-13,28,Gomez Palacio,Durango,Mexico,5' 10,215,True,1,,M,True,True,---,2015-07-02,Right,Left
+544369,Didi Gregorius,Mariekson,Julius,Gregorius,18,1990-02-18,29,Amsterdam,,Netherlands,6' 3,205,True,6,Sir MJG,M,True,True,---,2012-09-05,Left,Right
+544725,Leury Garcia,Leury,---,Garcia,28,1991-03-18,28,Santiago,,Dominican Republic,5' 8,180,True,8,Leo,M,True,False,---,2013-04-06,Switch,Right
+544727,Jeurys Familia,Jeurys,---,Familia,27,1989-10-10,29,Santo Domingo,,Dominican Republic,6' 3,240,True,1,Yaguate,M,True,True,---,2012-09-04,Right,Right
+544928,Tyler Lyons,Tyler,William,Lyons,70,1988-02-21,31,Lubbock,TX,USA,6' 4,210,True,1,,M,True,True,2010,2013-05-22,Left,Left
+544931,Stephen Strasburg,Stephen,James,Strasburg,37,1988-07-20,31,San Diego,CA,USA,6' 5,235,True,1,Stras,M,True,True,2009,2010-06-08,Right,Right
+545064,Jairo Diaz,Jairo,Jose,Diaz,37,1991-05-27,28,Puerto La Cruz,,Venezuela,6' 0,200,True,1,El Panda,M,True,True,---,2014-09-08,Right,Right
+545121,Ildemaro Vargas,Ildemaro,Jose,Vargas,15,1991-07-16,28,Caripito,,Venezuela,6' 0,170,True,4,,M,True,True,---,2017-06-29,Switch,Right
+545333,Trevor Bauer,Trevor,Andrew,Bauer,27,1991-01-17,28,North Hollywood,CA,USA,6' 1,205,True,1,J Ochart,M,True,True,2011,2012-06-28,Right,Right
+545341,Randal Grichuk,Randal,Alexander,Grichuk,15,1991-08-13,28,Rosenberg,TX,USA,6' 2,213,True,8,Grich,M,True,True,2009,2014-04-28,Right,Right
+545350,Jake Marisnick,Jacob,Shawn,Marisnick,6,1991-03-30,28,Riverside,CA,USA,6' 4,220,True,8,Big Fudge,M,True,True,2009,2013-07-23,Right,Right
+545358,Max Stassi,Max,Robert,Stassi,33,1991-03-15,28,Woodland,CA,USA,5' 10,200,True,2,Stassinelli,M,True,True,2009,2013-08-20,Right,Right
+545361,Mike Trout,Michael,Nelson,Trout,27,1991-08-07,28,Vineland,NJ,USA,6' 2,235,True,8,Kiiiiid,M,True,True,2009,2011-07-08,Right,Right
+546991,Albert Almora Jr.,Reinaldo,Albert,Almora,5,1994-04-16,25,Hialeah,FL,USA,6' 2,190,True,8,Tico,M,True,True,2012,2016-06-07,Right,Right
+547004,Rio Ruiz,Rio,Noble,Ruiz,14,1994-05-22,25,Covina,CA,USA,6' 1,215,True,5,Big River,M,True,True,2012,2016-09-18,Left,Right
+547172,Tony Wolters,Anthony,John,Wolters,14,1992-06-09,27,Vista,CA,USA,5' 10,197,True,2,T-Dub,M,True,True,2010,2016-04-05,Left,Right
+547179,Michael Lorenzen,Michael,Clifton,Lorenzen,21,1992-01-04,27,Anaheim,CA,USA,6' 3,217,True,1,Zen,M,True,True,2013,2015-04-29,Right,Right
+547180,Bryce Harper,Bryce,Aron Max,Harper,3,1992-10-16,26,Las Vegas,NV,USA,6' 3,220,True,9,Harp,M,True,True,2010,2012-04-28,Left,Right
+547379,Roberto Perez,Roberto,---,Perez,55,1988-12-23,30,Mayaguez,,Puerto Rico,5' 11,220,True,2,Bebo,M,True,True,2008,2014-07-10,Right,Right
+547888,Masahiro Tanaka,Masahiro,---,Tanaka,19,1988-11-01,30,Itami,,Japan,6' 3,215,True,1,Ma-Kun,M,True,True,---,2014-04-04,Right,Right
+547943,Hyun-Jin Ryu,Hyun-Jin,---,Ryu,99,1987-03-25,32,Incheon,,South Korea,6' 3,255,True,1,Monster,M,True,True,---,2013-04-02,Right,Left
+547973,Aroldis Chapman,Albertin,Aroldis,Chapman,54,1988-02-28,31,Holguin,,Cuba,6' 4,212,True,1,The Missile,M,True,True,---,2010-08-31,Left,Left
+547989,Jose Abreu,Jose,Dariel,Abreu,79,1987-01-29,32,Cienfuegos,,Cuba,6' 3,255,True,3,Mal Tiempo,M,True,True,---,2014-03-31,Right,Right
+548389,Ross Stripling,Thomas,Ross,Stripling,68,1989-11-23,29,Bluebell,PA,USA,6' 2,220,True,1,Chicken Strip,M,True,True,2012,2016-04-08,Right,Right
+552640,Andrew Kittredge,Andrew,---,Kittredge,36,1990-03-17,29,Spokane,WA,USA,6' 1,235,True,1,Kitt,M,True,False,2008,2017-07-18,Right,Right
+553869,Elias Diaz,Elias,David,Diaz,32,1990-11-17,28,Maracaibo,,Venezuela,6' 1,220,True,2,El Maracucho,M,True,True,---,2015-09-12,Right,Right
+553878,Felipe Vazquez,Felipe,Javier,Vazquez,73,1991-07-05,28,San Felipe,,Venezuela,6' 2,225,True,1,Nightmare,M,True,True,---,2015-04-17,Left,Left
+553882,Omar Narvaez,Omar,David,Narvaez,22,1992-02-10,27,Maracay,,Venezuela,5' 11,220,True,2,Narvy,M,True,True,---,2016-07-17,Left,Right
+553902,Willians Astudillo,Willians,Jose,Astudillo,64,1991-10-14,27,Barcelona,,Venezuela,5' 9,225,True,2,,M,True,True,---,2018-06-30,Right,Right
+553993,Eugenio Suarez,Eugenio,Alejandro,Suarez,7,1991-07-18,28,Puerto Ordaz,,Venezuela,5' 11,213,True,5,Bolibomba Suarez,M,True,True,---,2014-06-04,Right,Right
+554340,Yimi Garcia,Yimi,---,Garcia,63,1990-08-18,29,Moca,,Dominican Republic,6' 0,225,True,1,Villa Trina,M,True,True,---,2014-09-01,Right,Right
+554430,Zack Wheeler,Zachary,Harrison,Wheeler,45,1990-05-30,29,Smyrna,GA,USA,6' 4,195,True,1,Wheels,M,True,True,2009,2013-06-18,Left,Right
+570481,Erik Gonzalez,Erik,---,Gonzalez,2,1991-08-31,28,Puerto Plata,,Dominican Republic,6' 3,205,True,6,La Parita,M,True,True,---,2016-07-16,Right,Right
+570560,Yolmer Sanchez,Yolmer,Carlos,Sanchez,5,1992-06-29,27,Maracay,,Venezuela,5' 11,185,True,4,Noah Alan,M,True,True,---,2014-07-13,Switch,Right
+570632,Jose Urena,Jose,Miguel,Urena,62,1991-09-12,27,Santo Domingo,,Dominican Republic,6' 2,200,True,1,El Nueve,M,True,True,---,2015-04-14,Right,Right
+570663,Hansel Robles,Hansel,Manuel,Robles,57,1990-08-13,29,Bonao,,Dominican Republic,6' 0,220,True,1,Caballo Blanco,M,True,True,---,2015-04-24,Right,Right
+570666,Luis Cessa,Luis,Enrique,Cessa,85,1992-04-25,27,Cordoba,Veracruz,Mexico,6' 0,210,True,1,Quique,M,True,True,---,2016-04-08,Right,Right
+570731,Jonathan Schoop,Jonathan,Rufino Jezus,Schoop,16,1991-10-16,27,Willemstad,,Curacao,6' 1,225,True,4,Mamba,M,True,True,---,2013-09-25,Right,Right
+571431,Matt Adams,Matthew,James,Adams,15,1988-08-31,31,Philipsburg,PA,USA,6' 3,245,True,3,Big City,M,True,True,2009,2012-05-20,Left,Right
+571448,Nolan Arenado,Nolan,James,Arenado,28,1991-04-16,28,Newport Beach,CA,USA,6' 2,215,True,5,Nado,M,True,True,2009,2013-04-28,Right,Right
+571466,Tucker Barnhart,Tucker,J.,Barnhart,16,1991-01-07,28,Indianapolis,IN,USA,5' 11,192,True,2,Tuck,M,True,True,2009,2014-04-03,Switch,Right
+571506,Justin Bour,Justin,James,Bour,41,1988-05-28,31,Washington,DC,USA,6' 4,270,True,3,JB,M,True,True,2009,2014-06-05,Left,Right
+571510,Matthew Boyd,Matthew,Robert,Boyd,48,1991-02-02,28,Mercer Island,WA,USA,6' 3,234,True,1,Matty B,M,True,True,2013,2015-06-27,Left,Left
+571578,Patrick Corbin,Patrick,Alan,Corbin,46,1989-07-19,30,Clay,NY,USA,6' 3,210,True,1,Corby,M,True,True,2009,2012-04-30,Left,Left
+571656,Buck Farmer,George,Runie,Farmer,45,1991-02-20,28,Conyers,GA,USA,6' 4,232,True,1,George,M,True,True,2013,2014-08-13,Left,Right
+571657,Kyle Farmer,James,Kyle,Farmer,52,1990-08-17,29,Atlanta,GA,USA,6' 0,214,True,4,Farm Dawg,M,True,True,2013,2017-07-30,Right,Right
+571666,Mike Fiers,Michael,Bruce,Fiers,50,1985-06-15,34,Hollywood,FL,USA,6' 2,202,True,1,Smokey,M,True,True,2009,2011-09-14,Right,Right
+571670,Dylan Floro,Dylan,Lee,Floro,51,1990-12-27,28,Merced,CA,USA,6' 2,203,True,1,F Loro,M,True,True,2012,2016-07-07,Left,Right
+571679,David Freitas,David,---,Freitas,20,1989-03-18,30,Wilton,CA,USA,6' 3,225,True,2,,M,True,True,2010,2017-08-30,Right,Right
+571704,Ken Giles,Kenneth,Robert,Giles,51,1990-09-20,28,Albuquerque,NM,USA,6' 3,210,True,1,100 Miles Giles,M,True,True,2011,2014-06-12,Right,Right
+571710,Mychal Givens,Mychal,Antonio,Givens,60,1990-05-13,29,Tampa,FL,USA,6' 0,210,True,1,Tony,M,True,True,2009,2015-06-24,Right,Right
+571718,Brian Goodwin,Brian,Christopher,Goodwin,18,1990-11-02,28,Rocky Mount,NC,USA,6' 0,200,True,7,B. Good,M,True,True,2011,2016-08-06,Left,Right
+571740,Billy Hamilton,Billy,R.,Hamilton,9,1990-09-09,28,Taylorsville,MS,USA,6' 0,160,True,8,Bone,M,True,True,2009,2013-09-03,Switch,Right
+571760,Andrew Heaney,Andrew,M.,Heaney,28,1991-06-05,28,Oklahoma City,OK,USA,6' 2,200,True,1,Heandog,M,True,True,2012,2014-06-19,Left,Left
+571771,Enrique Hernandez,Enrique,J.,Hernandez,14,1991-08-24,28,San Juan,,Puerto Rico,5' 11,192,True,4,,M,True,True,2009,2014-07-01,Right,Right
+571788,Brock Holt,Brock,Wyatt,Holt,12,1988-06-11,31,Fort Worth,TX,USA,5' 10,180,True,4,BH,M,True,True,2009,2012-09-01,Left,Right
+571858,Branden Kline,Branden,Alexander,Kline,52,1991-09-29,27,Frederick,MD,USA,6' 3,210,True,1,BK,M,True,True,2012,2019-04-20,Right,Right
+571875,Jake Lamb,Jake,Ryan,Lamb,22,1990-10-09,28,Seattle,WA,USA,6' 3,215,True,3,Lambo,M,True,True,2012,2014-08-07,Left,Right
+571882,Derek Law,Derek,Robert,Law,64,1990-09-14,28,Pittsburgh,PA,USA,6' 3,215,True,1,Lawdog,M,True,True,2011,2016-04-15,Right,Right
+571917,Parker Markel,Parker,Michael,Markel,49,1990-09-15,28,Newport Beach,CA,USA,6' 5,240,True,1,,M,True,True,2010,2019-05-12,Right,Right
+571927,Steven Matz,Steven,Jakob,Matz,32,1991-05-29,28,Stony Brook,NY,USA,6' 2,200,True,1,Matzy,M,True,True,2009,2015-06-28,Right,Left
+571945,Miles Mikolas,Miles,Tice,Mikolas,39,1988-08-23,31,Jupiter,FL,USA,6' 5,220,True,1,5280's,M,True,True,2009,2012-05-05,Right,Right
+571948,Hoby Milner,Hoby,Trey,Milner,60,1991-01-13,28,Dallas,TX,USA,6' 3,175,True,1,,M,True,True,2012,2017-06-24,Left,Left
+571976,Wil Myers,William,Bradford,Myers,4,1990-12-10,28,Thomasville,NC,USA,6' 3,205,True,7,,M,True,True,2009,2013-06-18,Right,Right
+572008,Chris Owings,Christopher,Scott,Owings,36,1991-08-12,28,Charleston,SC,USA,5' 10,185,True,4,C.O.,M,True,True,2009,2013-09-03,Right,Right
+572020,James Paxton,James,Alston,Paxton,65,1988-11-06,30,Ladner,BC,Canada,6' 4,235,True,1,Big Maple,M,True,True,2010,2013-09-07,Left,Left
+572021,James Pazos,James,Manuel,Pazos,47,1991-05-05,28,Gilbert,AZ,USA,6' 2,235,True,1,Papa Paz,M,True,True,2012,2015-09-05,Right,Left
+572033,Josh Phegley,Joshua,Aaron,Phegley,19,1988-02-12,31,Terre Haute,IN,USA,5' 10,225,True,2,PTBNL,M,True,True,2009,2013-07-05,Right,Right
+572041,A.J. Pollock,Allen,Lorenz,Pollock,11,1987-12-05,31,Hebron,CT,USA,6' 1,212,True,8,Pollo,M,True,True,2009,2012-04-18,Right,Right
+572073,Joey Rickard,Joseph,Mark,Rickard,37,1991-05-21,28,Las Vegas,NV,USA,6' 1,185,True,9,J-Rick,M,True,True,2012,2016-04-04,Right,Left
+572122,Kyle Seager,Kyle,Duerr,Seager,15,1987-11-03,31,Charlotte,NC,USA,6' 0,210,True,5,Corey's Brother,M,True,True,2009,2011-07-07,Left,Right
+572143,Burch Smith,Burch,Taylor,Smith,26,1990-04-12,29,San Antonio,TX,USA,6' 4,225,True,1,Smitty,M,True,True,2011,2013-05-11,Right,Right
+572193,Ryan Tepera,Dennis,Ryan,Tepera,52,1987-11-03,31,Houston,TX,USA,6' 1,195,True,1,Tep,M,True,True,2009,2015-05-10,Right,Right
+572228,Luke Voit,Louis,Linwood,Voit,45,1991-02-13,28,Wildwood,MO,USA,6' 3,225,True,3,Louie V,M,True,True,2013,2017-06-25,Right,Right
+572233,Christian Walker,Christian,Dickson,Walker,53,1991-03-28,28,Norristown,PA,USA,6' 0,220,True,3,C. Walk,M,True,True,2012,2014-09-17,Right,Right
+572287,Mike Zunino,Michael,Accorsi,Zunino,10,1991-03-25,28,Cape Coral,FL,USA,6' 2,235,True,2,Z,M,True,True,2012,2013-06-12,Right,Right
+572362,Robbie Erlin,Robert,Joseph,Erlin,41,1990-10-08,28,Oakland,CA,USA,6' 0,190,True,1,Bob,M,True,True,2009,2013-04-30,Right,Left
+572365,Ryan Goins,Ryan,Matthew,Goins,17,1988-02-13,31,Temple,TX,USA,5' 10,180,True,4,Go Go,M,True,True,2009,2013-08-23,Left,Right
+572403,Drew VerHagen,Drew,Edward,VerHagen,54,1990-10-22,28,Royse City,TX,USA,6' 6,230,True,1,Dutch,M,True,True,2012,2014-07-19,Right,Right
+572703,Luke Bard,Luke,Francis,Bard,39,1990-11-13,28,Charlotte,NC,USA,6' 3,200,True,1,Bardo,M,True,True,2012,2018-03-31,Right,Right
+572761,Matt Carpenter,Matthew,Martin,Carpenter,13,1985-11-26,33,Galveston,TX,USA,6' 3,205,True,5,Carp,M,True,True,2009,2011-06-04,Left,Right
+572816,Corey Dickerson,McKenzie,Corey,Dickerson,31,1989-05-22,30,McComb,MS,USA,6' 1,210,True,7,CD,M,True,True,2010,2013-06-22,Left,Right
+572821,Brian Dozier,James,Brian,Dozier,9,1987-05-15,32,Fulton,MS,USA,5' 11,200,True,4,Lo Conner,M,True,True,2009,2012-05-07,Right,Right
+572888,Shane Greene,Shane,---,Greene,19,1988-11-17,30,Clermont,FL,USA,6' 4,197,True,1,Team Jake,M,True,True,2009,2014-04-24,Right,Right
+572971,Dallas Keuchel,Dallas,---,Keuchel,60,1988-01-01,31,Tulsa,OK,USA,6' 3,205,True,1,Big D,M,True,True,2009,2012-06-17,Left,Left
+573046,Mike Morin,Michael,William,Morin,28,1991-05-03,28,Andover,MN,USA,6' 4,220,True,1,Moosh,M,True,True,2012,2014-04-30,Right,Right
+573124,Taylor Rogers,Taylor,Allen,Rogers,55,1990-12-17,28,Littleton,CO,USA,6' 3,190,True,1,Lefty Piece,M,True,True,2012,2016-04-14,Left,Left
+573186,Marcus Stroman,Marcus,Earl,Stroman,7,1991-05-01,28,Medford,NY,USA,5' 7,180,True,1,HDMH,M,True,True,2012,2014-05-04,Right,Right
+573262,Mike Yastrzemski,Michael,---,Yastrzemski,5,1990-08-23,29,Andover,MA,USA,5' 11,180,True,7,Yaz,M,True,True,2013,2019-05-25,Left,Left
+576397,Jedd Gyorko,Jedd,Lindon,Gyorko,26,1988-09-23,30,Morgantown,WV,USA,5' 10,215,True,5,Jerk-Store,M,True,True,2010,2013-04-01,Right,Right
+578428,Jose Iglesias,Jose,Antonio,Iglesias,4,1990-01-05,29,Havana,,Cuba,5' 11,194,True,6,Candelita,M,True,True,---,2011-05-08,Right,Right
+579328,Yusei Kikuchi,Yusei,---,Kikuchi,18,1991-06-17,28,Morioka,,Japan,6' 0,194,True,1,U Say,M,True,False,---,2019-03-21,Left,Left
+580792,Nick Goody,Nicholas,Gunnar,Goody,44,1991-07-06,28,Orlando,FL,USA,5' 11,200,True,1,Goods,M,True,True,2012,2015-07-30,Right,Right
+582494,Robby Scott,Robert,John,Scott,63,1989-08-29,30,Miami,FL,USA,6' 3,220,True,1,Bob O,M,True,True,---,2016-09-02,Right,Left
+584171,Hector Velazquez,Hector,---,Velazquez,76,1988-11-26,30,Ciudad Obregon,Sonora,Mexico,6' 0,180,True,1,Cabezon,M,True,False,---,2017-05-18,Right,Right
+588751,Adeiny Hechavarria,Adeiny,---,Hechavarria,24,1989-04-15,30,Santiago De Cuba,,Cuba,6' 0,195,True,4,La Pantera Uuff,M,True,True,---,2012-08-04,Right,Right
+591741,Jose Osuna,Jose,---,Osuna,36,1992-12-12,26,Trujillo,,Venezuela,6' 2,240,True,5,El Gocho,M,True,False,---,2017-04-18,Right,Right
+592094,Jason Adam,Jason,Kendall,Adam,48,1991-08-04,28,Overland Park,KS,USA,6' 4,225,True,1,,M,True,True,2010,2018-05-05,Right,Right
+592122,Tyler Austin,Christopher,Tyler,Austin,29,1991-09-06,27,Conyers,GA,USA,6' 2,220,True,3,Ta,M,True,True,2010,2016-08-13,Right,Right
+592165,Brandon Brennan,Brandon,Sean Michael,Brennan,65,1991-07-26,28,Mission Viejo,CA,USA,6' 4,220,True,1,B2,M,True,True,2012,2019-03-21,Right,Right
+592178,Kris Bryant,Kristopher,L.,Bryant,17,1992-01-04,27,Las Vegas,NV,USA,6' 5,230,True,5,KB,M,True,True,2013,2015-04-17,Right,Right
+592192,Mark Canha,Mark,David,Canha,20,1989-02-15,30,San Jose,CA,USA,6' 2,212,True,3,Tom Ace,M,True,True,2010,2015-04-08,Right,Right
+592200,Curt Casali,Curtis,Michael,Casali,12,1988-11-09,30,Walnut Creek,CA,USA,6' 3,225,True,2,Cas,M,True,True,2011,2014-07-18,Right,Right
+592206,Nicholas Castellanos,Nicholas,A.,Castellanos,6,1992-03-04,27,Davie,FL,USA,6' 4,203,True,9,Artist,M,True,True,2010,2013-09-01,Right,Right
+592222,Alex Claudio,Alexander,---,Claudio,58,1992-01-31,27,San Juan,,Puerto Rico,6' 3,180,True,1,AC,M,True,True,2010,2014-08-13,Left,Left
+592233,Stefan Crichton,Stefan,Brook,Crichton,58,1992-02-29,27,Houston,TX,USA,6' 3,200,True,1,,M,True,True,2013,2017-04-16,Right,Right
+592261,Delino DeShields,Delino,Diaab,DeShields,3,1992-08-16,27,Easton,MD,USA,5' 9,200,True,8,Lil Bop,M,True,True,2010,2015-04-08,Right,Right
+592273,Brandon Drury,Brandon,S.,Drury,3,1992-08-21,27,Grants Pass,OR,USA,6' 2,215,True,5,Dru,M,True,True,2010,2015-09-01,Right,Right
+592280,Ryan Eades,Ryan,Nelson,Eades,36,1991-12-15,27,Slidell,LA,USA,6' 2,210,True,1,,M,True,True,2013,2019-06-08,Right,Right
+592314,Mike Foltynewicz,Michael,Gary,Foltynewicz,26,1991-10-07,27,Sterling,IL,USA,6' 4,200,True,1,High Foltage,M,True,True,2010,2014-08-02,Right,Right
+592325,Ben Gamel,Benjamin,Joseph,Gamel,16,1992-05-17,27,Neptune Beach,FL,USA,5' 11,185,True,7,Gam,M,True,True,2010,2016-05-06,Left,Left
+592332,Kevin Gausman,Kevin,John,Gausman,46,1991-01-06,28,Centennial,CO,USA,6' 3,190,True,1,Gausy,M,True,True,2012,2013-05-23,Left,Right
+592346,Chi Chi Gonzalez,Alexander,---,Gonzalez,50,1992-01-15,27,Delray Beach,FL,USA,6' 3,215,True,1,,M,True,True,2013,2015-05-30,Right,Right
+592407,Bryan Holaday,John,Bryan,Holaday,28,1987-11-19,31,Dallas,TX,USA,6' 0,214,True,2,Holly,M,True,True,2010,2012-06-06,Right,Right
+592426,Luke Jackson,Luke,Ray,Jackson,77,1991-08-24,28,Fort Lauderdale,FL,USA,6' 2,210,True,1,Skywalker,M,True,True,2010,2015-09-04,Right,Right
+592450,Aaron Judge,Aaron,James,Judge,99,1992-04-26,27,Linden,CA,USA,6' 7,282,True,9,Baj,M,True,True,2013,2016-08-13,Right,Right
+592454,Tommy Kahnle,Thomas,Robert,Kahnle,48,1989-08-07,30,Latham,NY,USA,6' 1,235,True,1,King Kahn,M,True,True,2010,2014-04-03,Right,Right
+592473,Adam Kolarek,Adam,John,Kolarek,56,1989-01-14,30,Baltimore,MD,USA,6' 3,215,True,1,AK,M,True,True,2010,2017-06-29,Left,Left
+592518,Manny Machado,Manuel,Arturo,Machado,13,1992-07-06,27,Miami,FL,USA,6' 3,215,True,6,El Ministro,M,True,True,2010,2012-08-09,Right,Right
+592567,Colin Moran,Colin,Richard,Moran,19,1992-10-01,26,Port Chester,NY,USA,6' 4,205,True,5,Redbeard,M,True,True,2013,2016-05-18,Left,Right
+592612,Josh Osich,Joshua,Michael,Osich,64,1988-09-03,30,Boise,ID,USA,6' 3,232,True,1,O,M,True,True,2011,2015-07-03,Left,Left
+592626,Joc Pederson,Joc,R.,Pederson,31,1992-04-21,27,Palo Alto,CA,USA,6' 1,220,True,7,King,M,True,True,2010,2014-09-01,Left,Left
+592644,Adam Plutko,Adam,Gregory,Plutko,45,1991-10-03,27,Upland,CA,USA,6' 3,215,True,1,Pluto,M,True,True,2013,2016-09-24,Right,Right
+592660,Rangel Ravelo,Rangel,---,Ravelo,47,1992-04-24,27,Havana,,Cuba,6' 1,225,True,3,,M,True,True,2010,2019-06-17,Right,Right
+592662,Robbie Ray,Robert,Glenn,Ray,38,1991-10-01,27,Brentwood,TN,USA,6' 2,195,True,1,Bob,M,True,True,2010,2014-05-06,Left,Left
+592663,J.T. Realmuto,Jacob,Tyler,Realmuto,10,1991-03-18,28,Del City,OK,USA,6' 1,210,True,2,Real,M,True,True,2010,2014-06-05,Right,Right
+592669,Hunter Renfroe,Dustin,Hunter,Renfroe,10,1992-01-28,27,Crystal Springs,MS,USA,6' 1,220,True,7,Froe,M,True,True,2013,2016-09-21,Right,Right
+592696,Eddie Rosario,Eddie,Manuel,Rosario,20,1991-09-28,27,Guayama,,Puerto Rico,6' 1,180,True,7,Edisito,M,True,True,2010,2015-05-06,Left,Right
+592716,Adrian Sampson,Adrian,David,Sampson,52,1991-10-07,27,Redmond,WA,USA,6' 2,210,True,1,Yo Adrian,M,True,True,2012,2016-06-18,Right,Right
+592743,Andrelton Simmons,Andrelton,A.,Simmons,2,1989-09-04,29,Mundo-Novo,,Curacao,6' 2,195,True,6,Simba,M,True,True,2010,2012-06-02,Right,Right
+592761,Caleb Smith,Caleb,Anthony,Smith,31,1991-07-28,28,Huntsville,TX,USA,6' 2,205,True,1,Smitty,M,True,True,2013,2017-07-17,Right,Left
+592767,Drew Smyly,Todd,Andrew,Smyly,18,1989-06-13,30,Little Rock,AR,USA,6' 3,190,True,1,Smiles,M,True,True,2010,2012-04-12,Left,Left
+592773,Ryne Stanek,Ryne,Thomas,Stanek,35,1991-07-26,28,St. Louis,MO,USA,6' 4,225,True,1,Stanny,M,True,True,2013,2017-05-14,Right,Right
+592789,Noah Syndergaard,Noah,Seth,Syndergaard,34,1992-08-29,27,Mansfield,TX,USA,6' 6,240,True,1,Thor,M,True,True,2010,2015-05-12,Left,Right
+592815,Sam Tuivailala,Samuel,Johnathan,Tuivailala,26,1992-10-19,26,San Mateo,CA,USA,6' 3,225,True,1,Tui,M,True,True,2010,2014-09-09,Right,Right
+592826,Vince Velasquez,Vincent,John,Velasquez,21,1992-06-07,27,Montclair,CA,USA,6' 3,205,True,1,V2,M,True,True,2010,2015-06-10,Right,Right
+592858,Rowan Wick,Rowan,D.,Wick,50,1992-11-09,26,North Vancouver,BC,Canada,6' 3,235,True,1,Row,M,True,True,2012,2018-08-31,Left,Right
+592859,Stevie Wilkerson,Stephen,Beaty,Wilkerson,12,1992-01-11,27,Roswell,GA,USA,6' 1,195,True,8,Breeze,M,True,True,2014,2018-06-20,Switch,Right
+592865,Taylor Williams,Taylor,Grant,Williams,54,1991-07-21,28,Vancouver,WA,USA,5' 11,195,True,1,T. Willy,M,True,True,2013,2017-09-06,Switch,Right
+592866,Trevor Williams,Trevor,Anthony,Williams,34,1992-04-25,27,San Diego,CA,USA,6' 3,230,True,1,Project,M,True,True,2013,2016-09-07,Right,Right
+592879,Asher Wojciechowski,Randall,Asher,Wojciechowski,29,1988-12-21,30,Hardeeville,SC,USA,6' 4,235,True,1,Wojo,M,True,True,2010,2015-04-09,Right,Right
+592885,Christian Yelich,Christian,Stephen,Yelich,22,1991-12-05,27,Thousand Oaks,CA,USA,6' 3,195,True,9,Yeli,M,True,True,2010,2013-07-23,Left,Right
+593140,Michael Feliz,Michael,---,Feliz,45,1993-06-28,26,Azua,,Dominican Republic,6' 4,240,True,1,Fuego,M,True,True,---,2015-05-31,Right,Right
+593144,Richard Rodriguez,Richard,Agustin,Rodriguez,48,1990-03-04,29,Santiago,,Dominican Republic,6' 4,230,True,1,Perro Flaco,M,True,False,---,2017-09-02,Right,Right
+593160,Whit Merrifield,Whitley,David,Merrifield,15,1989-01-24,30,Florence,SC,USA,6' 0,195,True,4,Whitley,M,True,True,2010,2016-05-18,Right,Right
+593334,Domingo German,Domingo,---,German,55,1992-08-04,27,San Pedro de Macoris,,Dominican Republic,6' 2,175,True,1,Sunday,M,True,True,---,2017-06-11,Right,Right
+593372,Carlos Martinez,Carlos,Ernesto,Martinez,18,1991-09-21,27,Puerto Plata,,Dominican Republic,6' 0,190,True,1,Tsunami,M,True,True,---,2013-05-03,Right,Right
+593428,Xander Bogaerts,Xander,Jan,Bogaerts,2,1992-10-01,26,Oranjestad,,Aruba,6' 1,210,True,6,X-Man,M,True,True,---,2013-08-20,Right,Right
+593523,Marco Hernandez,Marco,Antonio,Hernandez,40,1992-09-06,26,Santiago,,Dominican Republic,6' 0,200,True,5,Markito,M,True,True,---,2016-04-17,Left,Right
+593576,Hector Neris,Hector,---,Neris,50,1989-06-14,30,Villa Altagracia,,Dominican Republic,6' 2,215,True,1,Compa N,M,True,True,---,2014-08-05,Right,Right
+593643,Hanser Alberto,Hanser,Joel,Alberto,57,1992-10-17,26,San Francisco de Macoris,,Dominican Republic,5' 11,215,True,4,#Femalta,M,True,False,---,2015-05-29,Right,Right
+593679,Gabriel Ynoa,Gabriel,---,Ynoa,64,1993-05-26,26,La Vega,,Dominican Republic,6' 2,205,True,1,Gaby,M,True,True,---,2016-08-13,Right,Right
+593833,Wander Suero,Wander,---,Suero,51,1991-09-15,27,Sabana Larga,,Dominican Republic,6' 4,211,True,1,The Animal,M,True,True,---,2018-05-01,Right,Right
+593871,Jorge Polanco,Jorge,Luis,Polanco,11,1993-07-05,26,San Pedro de Macoris,,Dominican Republic,5' 11,200,True,6,Chulo,M,True,True,---,2014-06-26,Switch,Right
+593934,Miguel Sano,Miguel,Angel,Sano,22,1993-05-11,26,San Pedro de Macoris,,Dominican Republic,6' 4,272,True,5,Boqueton,M,True,True,---,2015-07-02,Right,Right
+593958,Eduardo Rodriguez,Eduardo,Jose,Rodriguez,57,1993-04-07,26,Valencia,,Venezuela,6' 2,220,True,1,El Gualo,M,True,True,---,2015-05-28,Left,Left
+593974,Wandy Peralta,Wandy,Luis,Peralta,53,1991-07-27,28,San Francisco de Macoris,,Dominican Republic,6' 0,220,True,1,La Grasa,M,True,True,---,2016-09-04,Left,Left
+594027,Tayron Guerrero,Tayron,Luis,Guerrero,56,1991-01-09,28,Bocachica,,Colombia,6' 8,210,True,1,El De Bocachica,M,True,True,---,2016-05-17,Right,Right
+594311,Jandel Gustave,Jandel,Francisco,Gustave,74,1992-10-12,26,Pimentel,,Dominican Republic,6' 2,210,True,1,Gus,M,True,True,---,2016-08-11,Right,Right
+594577,Mike Mayers,Michael,Christopher,Mayers,59,1991-12-06,27,Grove City,OH,USA,6' 3,200,True,1,,M,True,True,2013,2016-07-24,Right,Right
+594777,Kole Calhoun,Kole,Alan,Calhoun,56,1987-10-14,31,Buckeye,AZ,USA,5' 10,215,True,9,Koleski,M,True,True,2010,2012-05-22,Left,Left
+594798,Jacob deGrom,Jacob,Anthony,deGrom,48,1988-06-19,31,DeLand,FL,USA,6' 4,180,True,1,Jake,M,True,True,2010,2014-05-15,Left,Right
+594809,Adam Eaton,Adam,Cory,Eaton,2,1988-12-06,30,Springfield,OH,USA,5' 9,176,True,9,Spanky,M,True,True,2010,2012-09-04,Left,Left
+594824,Greg Garcia,Greg,Joseph,Garcia,5,1989-08-08,30,El Cajon,CA,USA,6' 0,190,True,4,GG,M,True,True,2010,2014-04-28,Left,Right
+594835,Marco Gonzales,Marco,Elias,Gonzales,7,1992-02-16,27,Fort Collins,CO,USA,6' 1,195,True,1,Gonzo,M,True,True,2013,2014-06-25,Left,Left
+594838,Phil Gosselin,Philip,David,Gosselin,9,1988-10-03,30,Bryn Mawr,PA,USA,6' 1,200,True,6,,M,True,True,2010,2013-08-16,Right,Right
+594965,Daniel Ponce de Leon,Daniel,Robert,Ponce de Leon,62,1992-01-16,27,La Mirada,CA,USA,6' 3,200,True,1,,M,True,True,2014,2018-07-23,Right,Right
+594986,Kyle Ryan,Kyle,---,Ryan,56,1991-09-25,27,Auburndale,FL,USA,6' 5,215,True,1,KR 91,M,True,True,2010,2014-08-30,Left,Left
+594987,Casey Sadler,Casey,Scott,Sadler,65,1990-07-13,29,Stillwater,OK,USA,6' 3,205,True,1,Sads,M,True,True,2010,2014-05-02,Right,Right
+595001,Josh A. Smith,Joshua,Allen,Smith,67,1987-08-07,32,Margate,FL,USA,6' 2,220,True,1,Smitty,M,True,True,2010,2015-06-23,Right,Right
+595014,Blake Treinen,Blake,M.,Treinen,39,1988-06-30,31,Wichita,KS,USA,6' 5,225,True,1,Train,M,True,True,2011,2014-04-12,Right,Right
+595281,Kevin Kiermaier,Kevin,James,Kiermaier,39,1990-04-22,29,Fort Wayne,IN,USA,6' 1,210,True,8,Outlaw,M,True,True,2010,2013-09-30,Left,Right
+595284,Andrew Knapp,Andrew,Michael,Knapp,15,1991-11-09,27,Roseville,CA,USA,6' 1,195,True,2,Knapp Time,M,True,True,2013,2017-04-06,Switch,Right
+595751,Jorge Alfaro,Jorge,Mario,Alfaro,38,1993-06-11,26,Sincelejo,,Colombia,6' 2,225,True,2,El Oso,M,True,True,---,2016-09-12,Right,Right
+595777,Jurickson Profar,Jurickson,Barthelomeus,Profar,23,1993-02-20,26,Willemstad,,Curacao,6' 0,190,True,4,El Patron,M,True,True,---,2012-09-02,Switch,Right
+595798,R.J. Alaniz,Ruben,---,Alaniz,32,1991-06-14,28,McAllen,TX,USA,6' 4,219,True,1,,M,True,True,---,2019-04-12,Right,Right
+595879,Javier Baez,Ednel,Javier,Baez,9,1992-12-01,26,Bayamon,,Puerto Rico,6' 0,190,True,6,El Mago,M,True,True,2011,2014-08-05,Right,Right
+595881,Tyler Beede,Tyler,Joseph,Beede,38,1993-05-23,26,Worcester,MA,USA,6' 3,211,True,1,Beedah,M,True,True,2014,2018-04-10,Right,Right
+595909,Jake Cave,Andrew,Jacob,Cave,60,1992-12-04,26,Hampton,VA,USA,6' 0,200,True,8,Caveman,M,True,True,2011,2018-05-19,Left,Left
+595956,Cam Gallagher,Cameron,Joseph,Gallagher,36,1992-12-06,26,Lancaster,PA,USA,6' 3,230,True,2,Gally,M,True,True,2011,2017-08-06,Right,Right
+595978,Austin Hedges,Austin,Charles,Hedges,18,1992-08-18,27,San Juan Capistrano,CA,USA,6' 1,206,True,2,Hedgey,M,True,True,2011,2015-05-04,Right,Right
+595981,Scott Heineman,Scott,Matthew,Heineman,16,1992-12-04,26,Pacific Palisades,CA,USA,6' 1,215,True,9,Big Mike,M,True,True,2015,2019-08-02,Right,Right
+596001,Jakob Junis,Jakob,Benjamin Lee,Junis,65,1992-09-16,26,Sterling,IL,USA,6' 2,225,True,1,June Bug,M,True,False,2011,2017-04-12,Right,Right
+596019,Francisco Lindor,Francisco,Miguel,Lindor,12,1993-11-14,25,Caguas,,Puerto Rico,5' 11,190,True,6,Mr. Smile,M,True,True,2011,2015-06-14,Switch,Right
+596035,Reggie McClain,Reginald,Kristen,McClain,36,1992-11-16,26,Duluth,GA,USA,6' 2,180,True,1,,M,True,False,2016,2019-08-02,Right,Right
+596057,Daniel Norris,Daniel,David,Norris,44,1993-04-25,26,Johnson City,TN,USA,6' 2,185,True,1,D. No,M,True,True,2011,2014-09-05,Left,Left
+596059,Rougned Odor,Rougned,Roberto,Odor,12,1994-02-03,25,Maracaibo,,Venezuela,5' 11,195,True,4,El Tipo,M,True,True,---,2014-05-08,Left,Right
+596071,Dillon Peters,Dillon,James,Peters,52,1992-08-31,27,Indianapolis,IN,USA,5' 11,190,True,1,Dillypicklez,M,True,True,2014,2017-09-01,Left,Left
+596103,Austin Slater,Austin,Thomas,Slater,53,1992-12-13,26,Jacksonville,FL,USA,6' 2,197,True,7,AC,M,True,False,2014,2017-06-02,Right,Right
+596105,Dwight Smith Jr,John,Dwight,Smith Jr,35,1992-10-26,26,Peachtree City,GA,USA,6' 0,210,True,7,Dablack,M,True,True,2011,2017-05-18,Left,Right
+596112,Robert Stephenson,Robert,William,Stephenson,55,1993-02-24,26,Martinez,CA,USA,6' 3,215,True,1,Bob,M,True,True,2011,2016-04-07,Right,Right
+596115,Trevor Story,Trevor,John,Story,27,1992-11-15,26,Irving,TX,USA,6' 2,214,True,6,True,M,True,True,2011,2016-04-04,Right,Right
+596117,Garrett Stubbs,Garrett,Patrick,Stubbs,11,1993-05-26,26,San Diego,CA,USA,5' 10,175,True,2,,M,True,True,2015,2019-05-28,Left,Right
+596129,Daniel Vogelbach,Daniel,---,Vogelbach,20,1992-12-17,26,Orlando,FL,USA,6' 0,250,True,3,The Babe,M,True,True,2011,2016-09-12,Left,Right
+596142,Gary Sanchez,Gary,---,Sanchez,24,1992-12-02,26,Santo Domingo,,Dominican Republic,6' 2,230,True,2,Kraken,M,True,True,---,2015-10-03,Right,Right
+596144,Cheslor Cuthbert,Cheslor,Jesly,Cuthbert,19,1992-11-16,26,Corn Island,,Nicaragua,6' 1,210,True,5,Island Boy,M,True,True,---,2015-07-07,Right,Right
+596146,Max Kepler,Maximilian,---,Kepler,26,1993-02-10,26,Berlin,,Germany,6' 4,220,True,9,Rozycki,M,True,True,---,2015-09-27,Left,Left
+596825,Robel Garcia,Robel,E,Garcia,16,1993-03-28,26,Las Matas de Farfan,,Dominican Republic,6' 0,168,True,4,,M,True,True,---,2019-07-03,Switch,Right
+596847,Ji-Man Choi,Ji-Man,---,Choi,26,1991-05-19,28,Incheon,,South Korea,6' 1,250,True,3,G-Money,M,True,True,---,2016-04-05,Left,Right
+598264,Matt Barnes,Matthew,D.,Barnes,32,1990-06-17,29,Danbury,CT,USA,6' 4,210,True,1,Barnesy,M,True,True,2011,2014-09-09,Right,Right
+598265,Jackie Bradley Jr.,Jackie,---,Bradley Jr.,19,1990-04-19,29,Richmond,VA,USA,5' 10,200,True,8,JBJ,M,True,True,2011,2013-04-01,Left,Right
+598271,Brian Johnson,Christopher,Brian,Johnson,61,1990-12-07,28,Lakeland,FL,USA,6' 4,235,True,1,BJ,M,True,True,2012,2015-07-21,Left,Left
+598286,Nick Ramirez,Nicholas,Randolph,Ramirez,63,1989-08-01,30,Anaheim Hills,CA,USA,6' 3,240,True,1,Rammer,M,True,True,2011,2019-05-11,Left,Left
+598287,Noe Ramirez,Noe,---,Ramirez,24,1989-12-22,29,Los Angeles,CA,USA,6' 3,205,True,1,Otto,M,True,True,2011,2015-07-03,Right,Right
+600466,Raudy Read,Raudy,Miguel,Read,65,1993-10-29,25,San Jose de Ocoa,,Dominican Republic,6' 0,170,True,2,,M,True,True,---,2017-09-03,Right,Right
+600474,Pedro Severino,Pedro,---,Severino,28,1993-07-20,26,Bonao,,Dominican Republic,6' 1,219,True,2,Mercurio,M,True,True,---,2015-09-20,Right,Right
+600524,Renato Nunez,Renato,Rafael,Nunez,39,1994-04-04,25,Valencia,,Venezuela,6' 1,220,True,5,Rey,M,True,True,---,2016-09-12,Right,Right
+600858,Humberto Arteaga,Humberto,Jose,Arteaga,2,1994-01-23,25,Caracas,,Venezuela,6' 1,160,True,5,Arty,M,True,False,---,2019-06-20,Right,Right
+600887,Miguel Del Pozo,Miguel,Eduardo,Del Pozo,58,1992-10-14,26,Santo Domingo,,Dominican Republic,6' 1,180,True,1,,M,True,True,---,2019-08-20,Left,Left
+600917,Jose Leclerc,Jose,Ramon,Leclerc,25,1993-12-19,25,Esperanza,,Dominican Republic,6' 0,190,True,1,Pico,M,True,True,---,2016-07-06,Right,Right
+602074,Yonathan Daza,Yonathan,---,Daza,31,1994-02-28,25,Maracay,,Venezuela,6' 2,210,True,7,Canana,M,True,True,---,2019-04-09,Right,Right
+605113,Nick Ahmed,Nicholas,Mark,Ahmed,13,1990-03-15,29,Springfield,MA,USA,6' 2,195,True,6,Slick Nick,M,True,True,2011,2014-06-29,Right,Right
+605130,Scott Barlow,Scott,A.,Barlow,58,1992-12-18,26,New London,CT,USA,6' 3,215,True,1,Scoots McGoots,M,True,False,2011,2018-04-30,Right,Right
+605135,Chris Bassitt,Christopher,M.,Bassitt,40,1989-02-22,30,Toledo,OH,USA,6' 5,220,True,1,C Bass,M,True,True,2011,2014-08-30,Right,Right
+605137,Josh Bell,Joshua,Evan,Bell,55,1992-08-14,27,Irving,TX,USA,6' 4,240,True,3,JB,M,True,True,2011,2016-07-08,Switch,Right
+605141,Mookie Betts,Markus,Lynn,Betts,50,1992-10-07,26,Nashville,TN,USA,5' 9,180,True,9,,M,True,True,2011,2014-06-29,Right,Right
+605143,Ray Black,Raymond,Anthony,Black,50,1990-06-26,29,Wilkes-Barre,PA,USA,6' 5,225,True,1,Blackout,M,True,True,2011,2018-07-08,Right,Right
+605151,Archie Bradley,Archie,N.,Bradley,25,1992-08-10,27,Muskogee,OK,USA,6' 4,225,True,1,Crash Landing,M,True,True,2011,2015-04-11,Right,Right
+605154,John Brebbia,John,Fulboam,Brebbia,60,1990-05-30,29,Sharon,MA,USA,6' 1,185,True,1,,M,True,True,2011,2017-05-28,Left,Right
+605156,Aaron Brooks,Aaron,Lee,Brooks,38,1990-04-27,29,Montclair,CA,USA,6' 4,230,True,1,Brooksy,M,True,True,2011,2014-05-03,Right,Right
+605164,Dylan Bundy,Dylan,Matthew,Bundy,37,1992-11-15,26,Tulsa,OK,USA,6' 1,200,True,1,Dilly,M,True,True,2011,2012-09-23,Switch,Right
+605170,Victor Caratini,Victor,Manuel,Caratini,7,1993-08-17,26,Coamo,,Puerto Rico,6' 1,215,True,2,Vic,M,True,True,2013,2017-06-28,Switch,Right
+605177,Andrew Chafin,Andrew,Gregory,Chafin,40,1990-06-17,29,Kettering,OH,USA,6' 2,225,True,1,The Sheriff,M,True,True,2011,2014-08-13,Right,Left
+605182,Mike Clevinger,Michael,Anthony,Clevinger,52,1990-12-21,28,Jacksonville,FL,USA,6' 4,215,True,1,Sunshine,M,True,True,2011,2016-05-18,Right,Right
+605195,Kyle Crick,Kyle,Daniel,Crick,30,1992-11-30,26,Fort Worth,TX,USA,6' 4,220,True,1,Cricky,M,True,True,2011,2017-06-22,Left,Right
+605196,Kevin Cron,Kevin,Scott,Cron,32,1993-02-17,26,Placentia,CA,USA,6' 5,250,True,3,,M,True,True,2014,2019-05-24,Right,Right
+605200,Zach Davies,Zachary,Ryan,Davies,27,1993-02-07,26,Puyallup,WA,USA,6' 0,155,True,1,Bat Boy,M,True,True,2011,2015-09-02,Right,Right
+605204,J.D. Davis,Jonathan,Gregory,Davis,28,1993-04-27,26,Elk Grove,CA,USA,6' 3,225,True,5,Dizzle,M,True,True,2014,2017-08-05,Right,Right
+605233,Derek Fisher,Derek,Joseph,Fisher,20,1993-08-21,26,Lebanon,PA,USA,6' 3,205,True,9,,M,True,True,2014,2017-06-14,Left,Right
+605240,Jace Fry,Jace,H.,Fry,57,1993-07-09,26,Beaverton,OR,USA,6' 1,190,True,1,Frenchy,M,True,False,2014,2017-09-05,Left,Left
+605244,Aramis Garcia,Aramis,Michael,Garcia,16,1993-01-12,26,Hialeah,FL,USA,6' 2,220,True,2,,M,True,True,2014,2018-08-31,Right,Right
+605260,Taylor Guerrieri,Christopher,Taylor,Guerrieri,46,1992-12-01,26,Augusta,GA,USA,6' 2,210,True,1,Tee-Gee,M,True,True,2011,2018-09-01,Right,Right
+605280,Clay Holmes,Clayton,W.,Holmes,52,1993-03-27,26,Dothan,AL,USA,6' 5,225,True,1,,M,True,True,2011,2018-04-06,Right,Right
+605288,Adrian Houser,Adrian,David,Houser,37,1993-02-02,26,Tahlequah,OK,USA,6' 4,235,True,1,Doogy,M,True,True,2011,2015-09-26,Right,Right
+605309,Keone Kela,Keone,Cole,Kela,35,1993-04-16,26,Los Angeles,CA,USA,6' 1,210,True,1,Llave,M,True,True,2012,2015-04-07,Right,Right
+605347,Jorge Lopez,Jorge,Yabiel,Lopez,28,1993-02-10,26,Cayey,,Puerto Rico,6' 3,195,True,1,El Pichu,M,True,True,2011,2015-09-29,Right,Right
+605359,Evan Marshall,Evan,Patrick,Marshall,43,1990-04-18,29,Sunnyvale,CA,USA,6' 2,225,True,1,Forgetting Sarah,M,True,True,2011,2014-05-06,Right,Right
+605361,Nick Martini,Nicholas,Scott,Martini,2,1990-06-27,29,Crystal Lake,IL,USA,5' 11,205,True,7,Tini,M,True,False,2011,2018-06-06,Left,Left
+605397,Joe Musgrove,Joseph,Anthony,Musgrove,59,1992-12-04,26,El Cajon,CA,USA,6' 5,230,True,1,Moose,M,True,True,2011,2016-08-02,Right,Right
+605400,Aaron Nola,Aaron,Michael,Nola,27,1993-06-04,26,Baton Rouge,LA,USA,6' 2,195,True,1,Nols,M,True,True,2014,2015-07-21,Right,Right
+605412,Joe Panik,Joseph,Matthew,Panik,2,1990-10-30,28,Yonkers,NY,USA,6' 1,200,True,4,J.P.,M,True,True,2011,2014-05-22,Left,Right
+605421,Michael Perez,Michael,---,Perez,7,1992-08-07,27,Bayamon,,Puerto Rico,5' 10,195,True,2,Mykii,M,True,False,2011,2018-07-26,Left,Right
+605446,Dereck Rodriguez,Ivan,Dereck,Rodriguez,57,1992-06-05,27,Arlington,TX,USA,6' 1,215,True,1,D-Rod,M,True,True,2011,2018-05-29,Right,Right
+605447,Jordan Romano,Jordan,R.,Romano,68,1993-04-21,26,Markham,ON,Canada,6' 4,200,True,1,,M,True,False,2014,2019-06-12,Right,Right
+605452,Joe Ross,Joseph,Andrew,Ross,41,1993-05-21,26,Berkeley,CA,USA,6' 4,220,True,1,JR,M,True,True,2011,2015-06-06,Right,Right
+605474,Matt Skole,Matthew,Thomas,Skole,32,1989-07-30,30,Woodstock,GA,USA,6' 4,220,True,3,Baba,M,True,True,2011,2018-05-28,Left,Right
+605480,Mallex Smith,Mallex,Lydell,Smith,0,1993-05-06,26,Tallahassee,FL,USA,5' 10,180,True,8,Water,M,True,True,2012,2016-04-11,Left,Right
+605482,Cy Sneed,Cy,R.,Sneed,67,1992-10-01,26,Elko,NV,USA,6' 4,215,True,1,,M,True,False,2014,2019-06-27,Right,Right
+605486,Cory Spangenberg,Cory,Joseph,Spangenberg,5,1991-03-16,28,Clarks Summit,PA,USA,6' 0,195,True,5,Spangy,M,True,True,2011,2014-09-01,Left,Right
+605488,Jeffrey Springs,Jeffrey,Scott,Springs,54,1992-09-20,26,Belmont,NC,USA,6' 3,180,True,1,,M,True,True,2015,2018-07-31,Left,Left
+605490,Bubba Starling,Derek,---,Starling,11,1992-08-03,27,Gardner,KS,USA,6' 4,215,True,8,Bubs,M,True,True,2011,2019-07-12,Right,Right
+605498,Andrew Suarez,Andrew,Jose,Suarez,59,1992-09-11,26,Miami,FL,USA,6' 0,187,True,1,Eddy,M,True,True,2015,2018-04-11,Left,Left
+605513,Spencer Turnbull,Spencer,Ketcham,Turnbull,56,1992-09-18,26,Demopolis,AL,USA,6' 3,215,True,1,Orange Bull,M,True,True,2014,2018-09-14,Right,Right
+605538,Matt Wisler,Matthew,Robert,Wisler,44,1992-09-12,26,Bryan,OH,USA,6' 3,215,True,1,Wis,M,True,True,2011,2015-06-19,Right,Right
+605612,Harold Castro,Harold,Arnaldo,Castro,30,1993-11-30,25,Caracas,,Venezuela,6' 0,180,True,5,Casty,M,True,True,---,2018-09-23,Left,Right
+606115,Orlando Arcia,Orlando,Jesus,Arcia,3,1994-08-04,25,Anaco,,Venezuela,6' 0,165,True,6,El Nino,M,True,True,---,2016-08-02,Right,Right
+606131,Luis Perdomo,Luis,David,Perdomo,61,1993-05-09,26,Santo Domingo,,Dominican Republic,6' 2,185,True,1,El Chamaquito,M,True,True,---,2016-04-04,Right,Right
+606149,Giovanny Gallegos,Giovanny,---,Gallegos,65,1991-08-14,28,Obregon,,Mexico,6' 2,210,True,1,El Yaqui,M,True,True,---,2017-05-12,Right,Right
+606157,Aristides Aquino,Aristides,---,Aquino,44,1994-04-22,25,Santo Domingo,,Dominican Republic,6' 4,220,True,9,PJ,M,True,True,---,2018-08-19,Right,Right
+606160,Rafael Montero,Rafael,---,Montero,48,1990-10-17,28,Higuerito,,Dominican Republic,6' 0,185,True,1,Monte,M,True,True,---,2014-05-14,Right,Right
+606167,Adalberto Mejia,Adalberto,---,Mejia,49,1993-06-20,26,Bonao,,Dominican Republic,6' 3,195,True,1,Volador,M,True,True,---,2016-08-20,Right,Left
+606192,Teoscar Hernandez,Teoscar,Jose,Hernandez,37,1992-10-15,26,Cotui,,Dominican Republic,6' 2,205,True,7,Mr. Seeds,M,True,True,---,2016-08-12,Right,Right
+606273,Roenis Elias,Roenis,---,Elias,29,1988-08-01,31,Guantanamo,,Cuba,6' 1,205,True,1,Cubiche,M,True,True,---,2014-04-03,Left,Left
+606424,Jarlin Garcia,Jarlin,Emmanuel,Garcia,66,1993-01-18,26,Santo Domingo,,Dominican Republic,6' 3,215,True,1,The Elephant,M,True,True,---,2017-04-14,Left,Left
+606466,Ketel Marte,Ketel,Ricardo,Marte,4,1993-10-12,25,Nizao,,Dominican Republic,6' 1,165,True,8,El Nino,M,True,True,---,2015-07-31,Switch,Right
+606625,Reyes Moronta,Reyes,---,Moronta,54,1993-01-06,26,Santiago,,Dominican Republic,5' 11,241,True,1,El Tibu,M,True,False,---,2017-09-05,Right,Right
+606930,Jacob Barnes,Jacob,Andrew,Barnes,50,1990-04-14,29,St. Petersburg,FL,USA,6' 2,220,True,1,King Cobra,M,True,True,2011,2016-06-03,Right,Right
+606956,Ryan Court,Ryan,A.,Court,12,1988-05-28,31,Elgin,IL,USA,6' 2,210,True,6,Courthouse,M,True,True,2011,2019-07-26,Right,Right
+606965,Chris Devenski,Christopher,Michael,Devenski,47,1990-11-13,28,Cerritos,CA,USA,6' 3,210,True,1,Devo,M,True,True,2011,2016-04-08,Right,Right
+606992,Eric Haase,Eric,Michael,Haase,38,1992-12-18,26,Westland,MI,USA,5' 10,210,True,2,,M,True,True,2011,2018-09-02,Right,Right
+607043,Brandon Nimmo,Brandon,Tate,Nimmo,9,1993-03-27,26,Cheyenne,WY,USA,6' 3,207,True,8,Tater,M,True,True,2011,2016-06-26,Left,Right
+607054,Jace Peterson,Jace,Ryan,Peterson,23,1990-05-09,29,Lake Charles,LA,USA,6' 0,215,True,5,Petey,M,True,True,2011,2014-04-25,Left,Right
+607188,Jake Faria,Jacob,Daniel,Faria,36,1993-07-30,26,La Palma,CA,USA,6' 4,225,True,1,Fuh-Ree-Uh,M,True,True,2011,2017-06-07,Right,Right
+607200,Erick Fedde,Erick,James,Fedde,23,1993-02-25,26,Las Vegas,NV,USA,6' 4,195,True,1,Feddeccini,M,True,True,2014,2017-07-30,Right,Right
+607208,Trea Turner,Trea,Vance,Turner,7,1993-06-30,26,Boynton Beach,FL,USA,6' 2,185,True,6,T2,M,True,True,2014,2015-08-21,Right,Right
+607215,Eric Skoglund,Eric,L.,Skoglund,53,1992-10-26,26,Sarasota,FL,USA,6' 7,210,True,1,Skogs,M,True,True,2014,2017-05-30,Left,Left
+607219,Sal Romano,Salvatore,J.,Romano,47,1993-10-12,25,Syosset,NY,USA,6' 5,255,True,1,Big Sally,M,True,True,2011,2017-04-16,Left,Right
+607231,John Gant,John,Michael,Gant,53,1992-08-06,27,Savannah,GA,USA,6' 3,200,True,1,Johnny G,M,True,True,2011,2016-04-06,Right,Right
+607237,Amir Garrett,Amir,Jamal,Garrett,50,1992-05-03,27,Victorville,CA,USA,6' 5,228,True,1,Count On AG,M,True,True,2011,2017-04-07,Right,Left
+607333,Beau Taylor,Beau,Ritchie,Taylor,0,1990-02-13,29,Rockledge,FL,USA,5' 11,205,True,2,,M,True,True,2011,2018-09-01,Left,Right
+607345,Kevan Smith,Kevan,Alan,Smith,44,1988-06-28,31,Pittsburgh,PA,USA,6' 4,240,True,2,Smitty,M,True,True,2011,2016-09-01,Right,Right
+607352,Joe Biagini,Joseph,Carlo,Biagini,29,1990-05-29,29,Menlo Park,CA,USA,6' 5,235,True,1,Jeffrey,M,True,True,2011,2016-04-08,Right,Right
+607455,Anthony Banda,Frank,Anthony,Banda,53,1993-08-10,26,Corpus Christi,TX,USA,6' 2,225,True,1,,M,True,True,2012,2017-07-22,Left,Left
+607457,Kyle Barraclough,Kyle,David,Barraclough,45,1990-05-23,29,Santa Clara,CA,USA,6' 3,225,True,1,Bear,M,True,True,2012,2015-08-07,Right,Right
+607461,Matt Beaty,Matthew,Thomas,Beaty,45,1993-04-28,26,Snellville,GA,USA,6' 0,215,True,3,Baters Taters,M,True,False,2015,2019-04-30,Left,Right
+607468,Alex Blandino,Alessandre,---,Blandino,2,1992-11-06,26,Palo Alto,CA,USA,6' 0,190,True,4,Blandy,M,True,True,2014,2018-04-10,Right,Right
+607481,Aaron Bummer,Aaron,James,Bummer,39,1993-09-21,25,Valencia,CA,USA,6' 3,200,True,1,Bum,M,True,False,2014,2017-07-27,Left,Left
+607555,Taylor Guilbeau,Taylor,Michael,Guilbeau,45,1993-05-12,26,Baton Rouge,LA,USA,6' 4,180,True,1,,M,True,True,2015,2019-08-17,Left,Left
+607572,Sam Howard,Sam,---,Howard,61,1993-03-05,26,Cartersville,GA,USA,6' 3,170,True,1,Sammy,M,True,False,2014,2018-06-10,Right,Left
+607625,Seth Lugo,Jacob,Seth,Lugo,67,1989-11-17,29,Shreveport,LA,USA,6' 4,225,True,1,Quarterrican,M,True,True,2011,2016-07-01,Right,Right
+607644,John Means,John,Alan,Means,67,1993-04-24,26,Olathe,KS,USA,6' 3,230,True,1,Meansy,M,True,False,2014,2018-09-26,Left,Left
+607680,Kevin Pillar,Kevin,Andrew,Pillar,1,1989-01-04,30,West Hills,CA,USA,6' 0,210,True,8,KP,M,True,True,2011,2013-08-14,Right,Right
+607732,Jacob Stallings,Jacob,Daniel,Stallings,58,1989-12-22,29,Lawrence,KS,USA,6' 4,220,True,2,Stalls,M,True,True,2012,2016-06-19,Right,Right
+607752,Sam Travis,Samuel,John,Travis,59,1993-08-27,26,Chicago,IL,USA,6' 0,205,True,3,Dr. Chill,M,True,True,2014,2017-05-24,Right,Right
+608032,Carlos Estevez,Carlos,Samuel,Estevez,54,1992-12-28,26,Santo Domingo,,Dominican Republic,6' 6,275,True,1,Este,M,True,True,---,2016-04-23,Right,Right
+608324,Alex Bregman,Alexander,David,Bregman,2,1994-03-30,25,Albuquerque,NM,USA,6' 0,180,True,5,A-Breg,M,True,True,2015,2016-07-25,Right,Right
+608331,Max Fried,Max,Dorian,Fried,54,1994-01-18,25,Santa Monica,CA,USA,6' 4,190,True,1,Maximus,M,True,True,2012,2017-08-08,Left,Left
+608334,Carson Fulmer,Carson,Springer,Fulmer,51,1993-12-13,25,Lakeland,FL,USA,6' 0,195,True,1,,M,True,True,2015,2016-07-17,Right,Right
+608337,Lucas Giolito,Lucas,F.,Giolito,27,1994-07-14,25,Santa Monica,CA,USA,6' 6,245,True,1,Big Foot,M,True,True,2012,2016-06-28,Right,Right
+608344,Cole Irvin,Cole,R.,Irvin,47,1994-01-31,25,Yorba Linda,CA,USA,6' 4,180,True,1,,M,True,True,2016,2019-05-12,Left,Left
+608348,Carson Kelly,Carson,Franklin,Kelly,18,1994-07-14,25,Chicago,IL,USA,6' 2,220,True,2,Cars,M,True,True,2012,2016-09-05,Right,Right
+608365,Addison Russell,Addison,W.,Russell,27,1994-01-23,25,Pensacola,FL,USA,6' 0,200,True,4,Addy,M,True,True,2012,2015-04-21,Right,Right
+608369,Corey Seager,Corey,Drew,Seager,5,1994-04-27,25,Charlotte,NC,USA,6' 4,215,True,6,Seags,M,True,True,2012,2015-09-03,Left,Right
+608371,Lucas Sims,Lucas,Sundberg,Sims,39,1994-05-10,25,Lawrenceville,GA,USA,6' 2,225,True,1,Loosh,M,True,True,2012,2017-08-01,Right,Right
+608379,Michael Wacha,Michael,Joseph,Wacha,52,1991-07-01,28,Iowa City,IA,USA,6' 6,215,True,1,Wachamole,M,True,True,2012,2013-05-30,Right,Right
+608384,Nick Williams,Billy,Nicholas,Williams,5,1993-09-08,25,Galveston,TX,USA,6' 3,195,True,7,Nicky Dubs,M,True,True,2012,2017-06-30,Left,Left
+608475,Dawel Lugo,Dawel,Leoner,Lugo,18,1994-12-31,24,Bani,,Dominican Republic,6' 0,220,True,5,,M,True,True,---,2018-08-30,Right,Right
+608577,Nomar Mazara,Nomar,Shamir,Mazara,30,1995-04-26,24,Santo Domingo,,Dominican Republic,6' 4,215,True,9,Big Chill,M,True,False,---,2016-04-10,Left,Left
+608596,Tom Murphy,Thomas,James,Murphy,2,1991-04-03,28,West Monroe,NY,USA,6' 1,218,True,2,Stashu,M,True,True,2012,2015-09-12,Right,Right
+608597,Ronald Guzman,Ronald,Enmanuel,Guzman,11,1994-10-20,24,La Vega,,Dominican Republic,6' 5,225,True,3,Cepeda,M,True,False,---,2018-04-13,Left,Left
+608648,Tyler Duffey,Tyler,Blinn,Duffey,21,1990-12-27,28,Houston,TX,USA,6' 3,220,True,1,The Doof,M,True,True,2012,2015-08-05,Right,Right
+608652,Luke Farrell,Luke,T,Farrell,60,1991-06-07,28,Westlake,OH,USA,6' 6,210,True,1,,M,True,False,2013,2017-07-01,Left,Right
+608671,Travis Jankowski,Travis,Paul,Jankowski,16,1991-06-15,28,Lancaster,PA,USA,6' 2,185,True,9,Fred,M,True,True,2012,2015-08-21,Left,Right
+608678,Dominic Leone,Dominic,Joseph,Leone,55,1991-10-26,27,Norwich,CT,USA,5' 11,210,True,1,Dominator,M,True,True,2012,2014-04-06,Right,Right
+608700,Kevin Plawecki,Kevin,Jeffrey,Plawecki,27,1991-02-26,28,Hinsdale,IL,USA,6' 2,220,True,2,Plaw Dawg,M,True,True,2012,2015-04-21,Right,Right
+608718,Brent Suter,Brent,Michael,Suter,35,1989-08-29,30,Chicago,IL,USA,6' 5,195,True,1,The Raptor,M,True,True,2012,2016-08-19,Left,Left
+608723,Austin Voth,Austin,Lee,Voth,50,1992-06-26,27,Redmond,WA,USA,6' 2,201,True,1,,M,True,True,2013,2018-07-14,Right,Right
+609275,Adalberto Mondesi,Raul,Adalberto,Mondesi,27,1995-07-27,24,Los Angeles,CA,USA,6' 1,190,True,6,Ace,M,True,True,---,2016-07-26,Switch,Right
+612434,Miguel Castro,Miguel,Angel,Castro,50,1994-12-24,24,La Romana,,Dominican Republic,6' 7,205,True,1,Villa Hermosa,M,True,True,---,2015-04-06,Right,Right
+612672,Wei-Yin Chen,Wei-Yin,---,Chen,20,1985-07-21,34,Kaohsiung City,,Taiwan,6' 0,200,True,1,Weigh-In,M,True,True,---,2012-04-10,Right,Left
+613534,Austin Adams,Austin,Lance,Adams,63,1991-05-05,28,Tampa,FL,USA,6' 3,225,True,1,A2,M,True,True,2012,2017-07-15,Right,Right
+614177,Franmil Reyes,Franmil,Federico,Reyes,32,1995-07-07,24,Palenque,,Dominican Republic,6' 5,275,True,9,La Mole,M,True,True,---,2018-05-14,Right,Right
+615698,Cal Quantrill,Cal,Paul,Quantrill,40,1995-02-10,24,Port Hope,ON,Canada,6' 3,208,True,1,Quan,M,True,False,2016,2019-05-01,Left,Right
+620439,Franklin Barreto,Franklin,Jose,Barreto,1,1996-02-27,23,Caracas,,Venezuela,5' 10,200,True,4,Kaki,M,True,True,---,2017-06-24,Right,Right
+620453,Deivy Grullon,Deivy,Wilfin,Grullon,73,1996-02-17,23,Bonao,,Dominican Republic,6' 1,180,True,2,,M,True,False,---,,Right,Right
+620982,Ricardo Pinto,Ricardo,Antonio,Pinto,67,1994-01-20,25,Guacara Carabobo,,Venezuela,6' 0,195,True,1,Pinto Bean,M,True,False,---,2017-05-31,Right,Right
+621002,Daniel Robertson,Daniel,Ray,Robertson,28,1994-03-22,25,Upland,CA,USA,5' 11,200,True,5,D-Rob,M,True,True,2012,2017-04-04,Right,Right
+621005,Tim Lopes,Timothy,A.,Lopes,10,1994-06-24,25,Los Angeles,CA,USA,5' 11,180,True,4,,M,True,True,2012,2019-07-24,Right,Right
+621006,Richie Martin,Richard,Allen,Martin,1,1994-12-22,24,Detroit,MI,USA,5' 11,190,True,6,Rich Boy,M,True,True,2015,2019-03-28,Right,Right
+621020,Dansby Swanson,James,Dansby,Swanson,7,1994-02-11,25,Kennesaw,GA,USA,6' 1,190,True,6,Dans,M,True,True,2015,2016-08-17,Right,Right
+621028,Kevin Newman,Kevin,Bradley,Newman,27,1993-08-04,26,Poway,CA,USA,6' 0,195,True,6,Newms,M,True,True,2015,2018-08-16,Right,Right
+621035,Chris Taylor,Christopher,Armand,Taylor,3,1990-08-29,29,Virginia Beach,VA,USA,6' 1,196,True,7,CT3,M,True,True,2012,2014-07-24,Right,Right
+621056,Hunter Wood,Hunter,Blake,Wood,54,1993-08-12,26,Rogers,AR,USA,6' 1,175,True,1,Woody,M,True,True,2013,2017-05-30,Right,Right
+621097,Jacob Waguespack,Jacob,Daniel,Waguespack,62,1993-11-05,25,Prairieville,LA,USA,6' 6,235,True,1,Waguespack,M,True,True,2012,2019-05-27,Right,Right
+621107,Zach Eflin,Zachary,Adams,Eflin,56,1994-04-08,25,Orlando,FL,USA,6' 6,215,True,1,Ef,M,True,True,2012,2016-06-14,Right,Right
+621111,Walker Buehler,Walker,Anthony,Buehler,21,1994-07-28,25,Lexington,KY,USA,6' 2,185,True,1,Buetane,M,True,True,2015,2017-09-07,Right,Right
+621112,Paul Blackburn,Paul,---,Blackburn,58,1993-12-04,25,Antioch,CA,USA,6' 1,200,True,1,Blackie,M,True,True,2012,2017-07-01,Right,Right
+621141,Walker Lockett,Andrew,Walker,Lockett,61,1994-05-03,25,Jacksonville,FL,USA,6' 5,225,True,1,Lock,M,True,True,2012,2018-06-01,Right,Right
+621142,Ty Buttrey,Ty,Douglas,Buttrey,31,1993-03-31,26,Matthews,NC,USA,6' 6,240,True,1,,M,True,True,2012,2018-08-16,Left,Right
+621199,Matt Bowman,Matthew,Chou,Bowman,67,1991-05-31,28,Chevy Chase,MD,USA,6' 0,185,True,1,,M,True,True,2012,2016-04-06,Right,Right
+621219,Alec Mills,Alec,Thomas,Mills,30,1991-11-30,27,Clarksville,TN,USA,6' 4,190,True,1,,M,True,True,2012,2016-05-18,Right,Right
+621242,Edwin Diaz,Edwin,Orlando,Diaz,39,1994-03-22,25,Naguabo,,Puerto Rico,6' 3,165,True,1,Sugar,M,True,True,2012,2016-06-06,Right,Right
+621244,Jose Berrios,Jose,Orlando,Berrios,17,1994-05-27,25,Bayamon,,Puerto Rico,6' 0,205,True,1,La Makina,M,True,True,2012,2016-04-27,Right,Right
+621249,Duane Underwood Jr.,Duane,Lee,Underwood,51,1994-07-20,25,Raleigh,NC,USA,6' 2,210,True,1,,M,True,True,2012,2018-06-25,Right,Right
+621295,Nick Wittgren,Nicholas,James,Wittgren,62,1991-05-29,28,Torrance,CA,USA,6' 2,216,True,1,Witty,M,True,True,2012,2016-04-19,Right,Right
+621363,Colin Poche,Colin,Michael,Poche,38,1994-01-17,25,Flower Mound,TX,USA,6' 3,235,True,1,Po,M,True,True,2016,2019-06-08,Left,Left
+621381,Matt Strahm,Matthew,Scott,Strahm,55,1991-11-12,27,West Fargo,ND,USA,6' 3,185,True,1,Strahmy,M,True,True,2012,2016-07-31,Right,Left
+621433,Brett Phillips,Brett,Maverick,Phillips,14,1994-05-30,25,Seminole,FL,USA,6' 0,185,True,9,Maverick,M,True,True,2012,2017-06-05,Left,Right
+621439,Byron Buxton,Byron,Keiron,Buxton,25,1993-12-18,25,Baxley,GA,USA,6' 2,190,True,8,Buck,M,True,True,2012,2015-06-14,Right,Right
+621446,Lewis Brinson,Lewis,Lamont,Brinson,9,1994-05-08,25,Fort Lauderdale,FL,USA,6' 3,195,True,8,Sweet Lew,M,True,True,2012,2017-06-11,Right,Right
+621466,DJ Stewart,Demetrius,Jerome,Stewart,24,1993-11-30,25,Gainesville,FL,USA,6' 0,230,True,9,,M,True,True,2015,2018-09-12,Left,Right
+621493,Taylor Ward,Joseph,Taylor,Ward,3,1993-12-14,25,Dayton,OH,USA,6' 1,200,True,5,,M,True,True,2015,2018-08-14,Right,Right
+621512,Tomas Nido,Tomas,E.,Nido,3,1994-04-12,25,Guaynabo,,Puerto Rico,6' 0,210,True,2,Needz,M,True,True,2012,2017-09-13,Right,Right
+621529,Joe Hudson,Joseph,Thaddeus,Hudson,78,1991-05-21,28,Tampa,FL,USA,6' 0,210,True,2,,M,True,True,2012,2018-09-08,Right,Right
+621563,Joey Wendle,Joseph,Patrick,Wendle,18,1990-04-26,29,Wilmington,DE,USA,6' 1,200,True,4,Mendle,M,True,True,2012,2016-08-31,Left,Right
+621566,Matt Olson,Matthew,Kent,Olson,28,1994-03-29,25,Atlanta,GA,USA,6' 5,230,True,3,Oly,M,True,True,2012,2016-09-12,Left,Right
+621573,Austin Dean,Austin,James,Dean,44,1993-10-14,25,Spring,TX,USA,6' 1,190,True,7,,M,True,True,2012,2018-08-15,Right,Right
+622046,Chris Shaw,Christopher,James,Shaw,26,1993-10-20,25,Stoneham,MA,USA,6' 3,226,True,7,,M,True,True,2015,2018-08-31,Left,Right
+622065,Alex Young,Alexander,Edward,Young,49,1993-09-09,25,Hawthorn Woods,IL,USA,6' 2,205,True,1,AY,M,True,True,2015,2019-06-27,Left,Left
+622072,Alex Wood,Robert,Alexander,Wood,40,1991-01-12,28,Charlotte,NC,USA,6' 4,215,True,1,A-Wood,M,True,True,2012,2013-05-30,Right,Left
+622075,Yency Almonte,Yency,---,Almonte,62,1994-06-04,25,Miami,FL,USA,6' 5,217,True,1,Showtime,M,True,True,2012,2018-06-21,Switch,Right
+622092,Kyle Zimmer,Kyle,Joseph,Zimmer,45,1991-09-13,27,San Francisco,CA,USA,6' 3,225,True,1,Zim,M,True,True,2012,2019-03-31,Right,Right
+622110,Matt Duffy,Matthew,Michael,Duffy,5,1991-01-15,28,Long Beach,CA,USA,6' 2,190,True,5,Duffman,M,True,True,2012,2014-05-22,Right,Right
+622168,Yairo Munoz,Yairo,---,Munoz,34,1995-01-23,24,Nagua,,Dominican Republic,6' 1,201,True,4,Palito,M,True,False,---,2018-03-29,Right,Right
+622250,Josh Sborz,Joshua,Alan,Sborz,76,1993-12-17,25,Washington,DC,USA,6' 3,215,True,1,,M,True,True,2015,2019-06-20,Right,Right
+622251,Josh Staumont,Joshua,Tyler,Staumont,63,1993-12-21,25,La Habra,CA,USA,6' 3,200,True,1,,M,True,True,2015,2019-07-25,Right,Right
+622253,Dillon Tate,Dillon,Michael,Tate,55,1994-05-01,25,Harbor City,CA,USA,6' 2,195,True,1,,M,True,True,2015,2019-07-29,Right,Right
+622491,Luis Castillo,Luis,Miguel,Castillo,58,1992-12-12,26,Bani,,Dominican Republic,6' 2,190,True,1,La Piedra,M,True,True,---,2017-06-23,Right,Right
+622534,Manuel Margot,Manuel,---,Margot,7,1994-09-28,24,San Cristobal,,Dominican Republic,5' 11,180,True,8,Yoandry,M,True,True,---,2016-09-21,Right,Right
+622569,Pablo Reyes,Pablo,---,Reyes,15,1993-09-05,25,Santo Domingo,,Dominican Republic,5' 8,175,True,7,Tomkim,M,True,False,---,2018-09-02,Right,Right
+622608,Antonio Senzatela,Antonio,---,Senzatela,49,1995-01-21,24,Valencia,,Venezuela,6' 1,246,True,1,Senze,M,True,True,---,2017-04-06,Right,Right
+622666,Johan Camargo,Johan,Valentin,Camargo,17,1993-12-13,25,Panama City,,Panama,6' 0,195,True,5,S.N.T.O,M,True,True,---,2017-04-11,Switch,Right
+622682,Victor Reyes,Victor,Jose,Reyes,22,1994-10-05,24,Barcelona,,Venezuela,6' 5,215,True,7,Vic,M,True,True,---,2018-04-01,Switch,Right
+622694,Elieser Hernandez,Elieser,Alexis,Hernandez,57,1995-05-03,24,Ocumare del Tuy,,Venezuela,6' 0,210,True,1,Lilo,M,True,False,---,2018-05-10,Right,Right
+622772,Jimmy Cordero,Jimmy,Gerard,Cordero,60,1991-10-19,27,San Cristobal,,Dominican Republic,6' 4,222,True,1,Gerard,M,True,True,---,2018-08-02,Right,Right
+622786,Jesus Tinoco,Jesus,Rafael,Tinoco,32,1995-04-30,24,San Antonio de Maturin,,Venezuela,6' 4,263,True,1,Tino,M,True,True,---,2019-05-31,Right,Right
+623149,Paul Sewald,Paul,Stanton,Sewald,51,1990-05-26,29,Las Vegas,NV,USA,6' 3,207,True,1,Paulie,M,True,True,2012,2017-04-08,Right,Right
+623323,Braden Bishop,Braden,Adam,Bishop,5,1993-08-22,26,Woodland,CA,USA,6' 1,190,True,8,,M,True,True,2015,2019-03-21,Right,Right
+623352,Josh Hader,Josh,Ronald,Hader,71,1994-04-07,25,Millersville,MD,USA,6' 3,185,True,1,Haderade,M,True,True,2012,2017-06-10,Left,Left
+623354,Daniel Zamora,Daniel,James,Zamora,73,1993-04-15,26,Loma Linda,CA,USA,6' 3,195,True,1,,M,True,True,2015,2018-08-17,Left,Left
+623364,Brad Wieck,Bradley,Michael,Wieck,38,1991-10-14,27,Amarillo,TX,USA,6' 9,255,True,1,,M,True,True,2014,2018-09-14,Left,Left
+623381,Thomas Pannone,Thomas,Edward,Pannone,45,1994-04-28,25,Cranston,RI,USA,6' 0,200,True,1,Lil G,M,True,True,2013,2018-08-10,Left,Left
+623430,Ryan Dull,Ryan,Christopher,Dull,73,1989-10-02,29,Winston-Salem,NC,USA,5' 9,185,True,1,Dullsnacks,M,True,True,2012,2015-09-01,Right,Right
+623433,Nick Anderson,Nick,Paul,Anderson,70,1990-07-05,29,Crosby,MN,USA,6' 5,195,True,1,Ando,M,True,True,2012,2019-03-28,Right,Right
+623912,Harold Ramirez,Harold,Andres,Ramirez,47,1994-09-06,24,Cartagena,,Colombia,5' 10,220,True,8,El Pri,M,True,True,---,2019-05-11,Right,Right
+623993,Anthony Santander,Anthony,Roger,Santander,25,1994-10-19,24,Margarita,,Venezuela,6' 2,190,True,7,Agua Blanca,M,True,True,---,2017-08-18,Switch,Right
+624133,Ranger Suarez,Ranger,---,Suarez,55,1995-08-26,24,Carora,,Venezuela,6' 1,180,True,1,,M,True,False,---,2018-07-26,Left,Left
+624413,Pete Alonso,Peter,Morgan,Alonso,20,1994-12-07,24,Tampa,FL,USA,6' 3,245,True,3,Polar Bear,M,True,True,2016,2019-03-28,Right,Right
+624415,Cavan Biggio,Cavan,Thomas,Biggio,8,1995-04-11,24,Houston,TX,USA,6' 2,200,True,4,Biggy,M,True,False,2016,2019-05-24,Left,Right
+624424,Michael Conforto,Michael,Thomas,Conforto,30,1993-03-01,26,Seattle,WA,USA,6' 1,215,True,9,Forto,M,True,True,2014,2015-07-24,Left,Right
+624428,Adam Frazier,Adam,Timothy,Frazier,26,1991-12-14,27,Athens,GA,USA,5' 10,180,True,4,Fraz,M,True,True,2013,2016-06-24,Left,Right
+624431,Jose Trevino,Jose,---,Trevino,56,1992-11-28,26,Corpus Christi,TX,USA,5' 11,211,True,2,Trevi,M,True,False,2014,2018-06-15,Right,Right
+624512,Reese McGuire,Reese,Jackson,McGuire,10,1995-03-02,24,Seattle,WA,USA,6' 0,215,True,2,Pieces,M,True,True,2013,2018-09-06,Left,Right
+624513,Dom Nunez,Dominic,Manuel,Nunez,58,1995-01-17,24,Elk Grove,CA,USA,6' 0,175,True,2,,M,True,True,2013,2019-08-13,Left,Right
+624577,Yasiel Puig,Yasiel,---,Puig,66,1990-12-07,28,Cienfuegos,,Cuba,6' 2,240,True,9,Wild Horse,M,True,True,---,2013-06-03,Right,Right
+624585,Jorge Soler,Jorge,Carlos,Soler,12,1992-02-25,27,Havana,,Cuba,6' 4,230,True,9,El Crudo,M,True,True,---,2014-08-27,Right,Right
+624586,James Hoyt,James,Allen,Hoyt,50,1986-09-30,32,Boise,ID,USA,6' 6,230,True,1,Hoyter,M,True,True,---,2016-08-03,Right,Right
+624641,Edmundo Sosa,Edmundo,---,Sosa,63,1996-03-06,23,Panama City,,Panama,5' 11,170,True,6,,M,True,False,---,2018-09-23,Right,Right
+625643,Reynaldo Lopez,Reynaldo,Starling,Lopez,40,1994-01-04,25,San Pedro de Macoris,,Dominican Republic,6' 1,200,True,1,Rey,M,True,True,---,2016-07-19,Right,Right
+626929,Lewis Thorpe,Lewis,---,Thorpe,43,1995-11-23,23,Melbourne,Victoria,Australia,6' 1,218,True,1,,M,True,False,---,2019-06-30,Right,Left
+628317,Kenta Maeda,Kenta,---,Maeda,18,1988-04-11,31,Osaka,,Japan,6' 1,184,True,1,Maeken,M,True,True,---,2016-04-06,Right,Right
+628452,Raisel Iglesias,Raisel,---,Iglesias,26,1990-01-04,29,Isla de la Juventud,,Cuba,6' 2,188,True,1,Oliver,M,True,True,---,2015-04-12,Right,Right
+628711,Julio Urias,Julio,Cesar,Urias,7,1996-08-12,23,Culiacan Rosales,Sinaloa,Mexico,6' 0,225,True,1,El Culichi,M,True,True,---,2016-05-27,Left,Left
+640447,Phillip Ervin,Phillip,S,Ervin,6,1992-07-15,27,Mobile,AL,USA,5' 10,207,True,9,Magic,M,True,True,2013,2017-04-22,Right,Right
+640449,Clint Frazier,Clint,Jackson,Frazier,77,1994-09-06,24,Decatur,GA,USA,6' 1,190,True,9,El Rojo,M,True,True,2013,2017-07-01,Right,Right
+640451,Hunter Harvey,Hunter,Luke,Harvey,56,1994-12-09,24,Catawba,NC,USA,6' 3,175,True,1,,M,True,True,2013,2019-08-17,Right,Right
+640455,Sean Manaea,Sean,Anthony,Manaea,55,1992-02-01,27,Valparaiso,IN,USA,6' 5,245,True,1,The Manaealator,M,True,True,2013,2016-04-29,Right,Left
+640457,Austin Meadows,Austin,Wade,Meadows,17,1995-05-03,24,Atlanta,GA,USA,6' 3,220,True,9,Meads,M,True,True,2013,2018-05-18,Left,Left
+640458,Oscar Mercado,Oscar,M.,Mercado,35,1994-12-16,24,Tampa,FL,USA,6' 2,197,True,9,Merc,M,True,False,2013,2019-05-14,Right,Right
+640461,Chad Pinder,Chadwick,Hudson,Pinder,18,1992-03-29,27,Richmond,VA,USA,6' 2,207,True,7,Chi,M,True,True,2013,2016-08-20,Right,Right
+640462,A.J. Puk,Andrew,Jacob,Puk,31,1995-04-25,24,Cedar Rapids,IA,USA,6' 7,238,True,1,,M,True,False,2016,2019-08-21,Left,Left
+640464,Kohl Stewart,Kohl,Robert,Stewart,53,1994-10-07,24,Houston,TX,USA,6' 3,195,True,1,,M,True,True,2013,2018-08-12,Right,Right
+640470,Adbert Alzolay,Adbert,---,Alzolay,73,1995-03-01,24,Pto. Ordaz,,Venezuela,6' 0,179,True,1,,M,True,False,---,2019-06-20,Right,Right
+641149,Wes Parsons,Arthur,Wesley,Parsons,18,1992-09-06,26,Clarksville,TN,USA,6' 5,204,True,1,,M,True,True,---,2018-08-09,Right,Right
+641154,Pablo Lopez,Pablo,Jose,Lopez,49,1996-03-07,23,Cabimas,,Venezuela,6' 3,200,True,1,Pache,M,True,True,---,2018-06-30,Left,Right
+641312,Shaun Anderson,Shaun,---,Anderson,64,1994-10-29,24,Coral Springs,FL,USA,6' 4,225,True,1,Bigg Shaun,M,True,False,2016,2019-05-15,Right,Right
+641313,Tim Anderson,Timothy,Devon,Anderson,7,1993-06-23,26,Tuscaloosa,AL,USA,6' 1,185,True,6,TA7,M,True,True,2013,2016-06-10,Right,Right
+641341,Tyler Bashlor,Tyler,Morris,Bashlor,49,1993-04-16,26,Springfield,GA,USA,6' 0,195,True,1,Bash,M,True,False,2013,2018-06-25,Right,Right
+641343,Jake Bauers,Jakob,Christopher,Bauers,10,1995-10-06,23,Newport Beach,CA,USA,6' 1,195,True,7,JB,M,True,True,2013,2018-06-07,Left,Left
+641355,Cody Bellinger,Cody,James,Bellinger,35,1995-07-13,24,Scottsdale,AZ,USA,6' 4,203,True,9,Belli,M,True,True,2013,2017-04-25,Left,Left
+641432,Willie Calhoun,Willie,Shawn Lamont,Calhoun,5,1994-11-04,24,Vallejo,CA,USA,5' 8,187,True,7,Osito,M,True,True,2015,2017-09-12,Left,Right
+641477,Ryan Cordell,Ryan,Thomas,Cordell,49,1992-03-31,27,San Diego,CA,USA,6' 4,195,True,9,Cordy,M,True,True,2013,2018-09-03,Right,Right
+641482,Nestor Cortes Jr.,Nestor,---,Cortes Jr.,67,1994-12-10,24,Surgidero de Batabano,,Cuba,5' 11,210,True,1,Hialeah Kid,M,True,False,2013,2018-03-31,Right,Left
+641487,J.P. Crawford,John,P.,Crawford,3,1995-01-11,24,Long Beach,CA,USA,6' 2,180,True,6,Crawdaddy,M,True,True,2013,2017-09-05,Left,Right
+641513,Travis Demeritte,Travis,Timothy,Demeritte,50,1994-09-30,24,New York,NY,USA,6' 0,180,True,7,,M,True,True,2013,2019-08-02,Right,Right
+641525,Brandon Dixon,Brandon,Allen,Dixon,12,1992-01-29,27,La Jolla,CA,USA,6' 2,215,True,3,Bandit,M,True,False,2013,2018-05-22,Right,Right
+641531,Hunter Dozier,Hunter,William,Dozier,17,1991-08-22,28,Wichita Falls,TX,USA,6' 4,220,True,5,Bulldoz,M,True,True,2013,2016-09-12,Right,Right
+641541,Jon Duplantier,Jon,Christopher,Duplantier,57,1994-07-11,25,Newark,DE,USA,6' 4,225,True,1,,M,True,True,2016,2019-04-01,Left,Right
+641553,Adam Engel,Adam,Trevor,Engel,15,1991-12-09,27,Cincinnati,OH,USA,6' 2,210,True,8,Man of Steal,M,True,True,2013,2017-05-27,Right,Right
+641571,Heath Fillmyer,Heath,Devon,Fillmyer,49,1994-05-16,25,Roebling,NJ,USA,6' 1,195,True,1,Filly,M,True,False,2014,2018-06-24,Right,Right
+641584,Jake Fraley,Jake,Arnold,Fraley,8,1995-05-25,24,Frederick,MD,USA,6' 0,195,True,8,,M,True,False,2016,2019-08-21,Left,Left
+641598,Mitch Garver,Mitchell,Lynn,Garver,18,1991-01-15,28,Albuquerque,NM,USA,6' 1,220,True,2,Garv Sauce,M,True,True,2013,2017-08-19,Right,Right
+641645,Luis Guillorme,Luis,Miguel,Guillorme,13,1994-09-27,24,Davie,FL,USA,5' 10,195,True,6,Luismi,M,True,True,2013,2018-05-11,Left,Right
+641658,Garrett Hampson,Garrett,Reese,Hampson,1,1994-10-10,24,Reno,NV,USA,5' 11,188,True,4,G Hamp,M,True,False,2016,2018-07-21,Right,Right
+641684,Michael Hermosillo,Michael,---,Hermosillo,21,1995-01-17,24,Mesa,AZ,USA,6' 0,205,True,8,,M,True,True,2013,2018-05-18,Right,Right
+641712,Dakota Hudson,Dakota,Ryan,Hudson,43,1994-09-15,24,Chattanooga,TN,USA,6' 5,215,True,1,Dak,M,True,False,2016,2018-07-28,Right,Right
+641729,Joe Jimenez,Joe,Alexander,Jimenez,77,1995-01-17,24,San Juan,,Puerto Rico,6' 3,272,True,1,Jo Jo,M,True,True,---,2017-04-13,Right,Right
+641745,Brad Keller,Brad,Michael,Keller,56,1995-07-27,24,Flowery Branch,GA,USA,6' 5,230,True,1,Yeldarb,M,True,False,2013,2018-03-29,Right,Right
+641755,Tyler Kinley,Tyler,Harrison,Kinley,39,1991-01-31,28,Plantation,FL,USA,6' 4,205,True,1,TK,M,True,True,2013,2018-04-07,Right,Right
+641778,Eric Lauer,Eric,Lance,Lauer,46,1995-06-03,24,Elyria,OH,USA,6' 3,205,True,1,Gomer,M,True,False,2016,2018-04-24,Right,Left
+641793,Zack Littell,Zack,Stuart,Littell,52,1995-10-05,23,Mebane,NC,USA,6' 4,220,True,1,Lit,M,True,False,2013,2018-06-05,Right,Right
+641796,Tim Locastro,Timothy,Donald,Locastro,16,1992-07-14,27,Auburn,NY,USA,6' 1,200,True,7,Timmylo,M,True,True,2013,2017-09-29,Right,Right
+641816,Tyler Mahle,Tyler,F.,Mahle,30,1994-09-29,24,Newport Beach,CA,USA,6' 3,210,True,1,Mal,M,True,True,2013,2017-08-27,Right,Right
+641820,Trey Mancini,Joseph,Anthony,Mancini,16,1992-03-18,27,Winter Haven,FL,USA,6' 4,215,True,9,Boomer,M,True,True,2013,2016-09-20,Right,Right
+641835,Tim Mayza,Timothy,Gerard,Mayza,58,1992-01-15,27,Allentown,PA,USA,6' 3,220,True,1,Mayz,M,True,True,2013,2017-08-15,Left,Left
+641838,Kevin McCarthy,Kevin,Edward,McCarthy,61,1992-02-22,27,Rockville Centre,NY,USA,6' 3,215,True,1,Mac,M,True,True,2013,2016-09-09,Right,Right
+641853,David McKay,David,Armstrong,McKay,62,1995-03-31,24,Melbourne,FL,USA,6' 3,205,True,1,,M,True,False,2016,2019-05-20,Right,Right
+641856,Billy McKinney,William,Landis,McKinney,28,1994-08-23,25,Dallas,TX,USA,6' 1,205,True,7,,M,True,True,2013,2018-03-30,Left,Left
+641857,Ryan McMahon,Ryan,Patrick,McMahon,24,1994-12-14,24,Yorba Linda,CA,USA,6' 2,208,True,4,Ry Mac,M,True,True,2013,2017-08-12,Left,Right
+641871,Keynan Middleton,Keynan,Anthony,Middleton,99,1993-09-12,25,Portland,OR,USA,6' 3,215,True,1,Major Key,M,True,True,2013,2017-05-05,Right,Right
+641878,Ian Miller,Ian,Andrew,Miller,0,1992-02-21,27,Philadelphia,PA,USA,6' 0,175,True,8,,M,True,True,2013,,Left,Right
+641914,Sheldon Neuse,Sheldon,Lynn,Neuse,64,1994-12-10,24,Fort Worth,TX,USA,6' 0,218,True,5,,M,True,False,2016,2019-08-30,Right,Right
+641933,Tyler O'Neill,Tyler,Alan,O'Neill,41,1995-06-22,24,Burnaby,BC,Canada,5' 11,210,True,7,,M,True,True,2013,2018-04-19,Right,Right
+641941,Emilio Pagan,Emilio,Enrique,Pagan,15,1991-05-07,28,Simpsonville,SC,USA,6' 3,205,True,1,Emiliooooo,M,True,True,2013,2017-05-03,Left,Right
+642073,Jimmie Sherfy,Jimmie,H.,Sherfy,54,1991-12-27,27,Camarillo,CA,USA,6' 0,175,True,1,,M,True,False,2013,2017-08-20,Right,Right
+642082,Chance Sisco,Chance,Thomas Leo,Sisco,15,1995-02-24,24,Corona,CA,USA,6' 2,195,True,2,Sisco Kid,M,True,True,2013,2017-09-02,Left,Right
+642098,Glenn Sparkman,Glenn,Michael,Sparkman,57,1992-05-11,27,Ganado,TX,USA,6' 2,210,True,1,Sparky,M,True,True,2013,2017-06-30,Right,Right
+642121,Cole Sulser,Cole,Young,Sulser,74,1990-03-12,29,Poway,CA,USA,6' 1,190,True,1,,M,True,True,2013,,Right,Right
+642133,Rowdy Tellez,Ryan,John,Tellez,44,1995-03-16,24,Sacramento,CA,USA,6' 4,255,True,3,,M,True,True,2013,2018-09-05,Left,Left
+642136,Matt Thaiss,Matthew,Kevin,Thaiss,23,1995-05-06,24,Jackson,NJ,USA,6' 0,215,True,3,Matty,M,True,False,2016,2019-07-03,Left,Right
+642152,Lou Trivino,Lou,Albert,Trivino,62,1991-10-01,27,Green Lane,PA,USA,6' 5,240,True,1,Sweet Lou,M,True,False,2013,2018-04-17,Right,Right
+642162,Pat Valaika,Patrick,Ryne,Valaika,4,1992-09-09,26,Valencia,CA,USA,5' 11,208,True,5,Barrels,M,True,True,2013,2016-09-06,Right,Right
+642165,Josh VanMeter,Josh,Michael,VanMeter,17,1995-03-10,24,Ossian,IN,USA,5' 11,165,True,7,Meat Sauce,M,True,False,2013,2019-05-05,Left,Right
+642180,Tyler Wade,Tyler,Dean,Wade,14,1994-11-23,24,Murrieta,CA,USA,6' 1,185,True,6,T-Wade,M,True,False,2013,2017-06-27,Left,Right
+642232,Ryan Yarbrough,Ryan,Christian,Yarbrough,48,1991-12-31,27,Lakeland,FL,USA,6' 5,210,True,1,Yarbs,M,True,True,2014,2018-03-31,Right,Left
+642397,Gregory Soto,Gregory,---,Soto,65,1995-02-11,24,Haina,,Dominican Republic,6' 1,240,True,1,Capiro,M,True,False,---,2019-05-11,Left,Left
+642528,Jonathan Loaisiga,Jonathan,Stanley,Loaisiga,43,1994-11-02,24,Managua,,Nicaragua,5' 11,165,True,1,,M,True,True,---,2018-06-15,Right,Right
+642545,Jaime Barria,Jaime,Jonathan,Barria,51,1996-07-18,23,Panama City,,Panama,6' 1,210,True,1,El Pana,M,True,True,---,2018-04-11,Right,Right
+642546,Jonathan Hernandez,Jonathan,---,Hernandez,72,1996-07-06,23,Memphis,TN,USA,6' 2,175,True,1,,M,True,True,---,2019-08-21,Right,Right
+642547,Freddy Peralta,Freddy,---,Peralta,51,1996-06-04,23,Moca,,Dominican Republic,5' 11,175,True,1,Kacike,M,True,False,---,2018-05-13,Right,Right
+642558,Ariel Jurado,Ariel,Bolivar,Jurado,57,1996-01-30,23,Aguadulce,,Panama,6' 1,180,True,1,Bartolito,M,True,True,---,2018-05-19,Right,Right
+642578,Jose Rodriguez,Jose,Daniel,Rodriguez,63,1995-08-29,24,Bolivar,,Venezuela,6' 2,175,True,1,,M,True,True,---,2019-07-27,Right,Right
+642607,Dario Agrazal,Dario,Abdiel,Agrazal,67,1994-12-28,24,Aguadulce,,Panama,6' 2,240,True,1,Rey,M,True,True,---,2019-06-15,Right,Right
+642708,Amed Rosario,German,Amed,Rosario,1,1995-11-20,23,Santo Domingo Centro,,Dominican Republic,6' 2,189,True,6,Rosie,M,True,True,---,2017-08-01,Right,Right
+642715,Willy Adames,Willy,Rafael,Adames,1,1995-09-02,24,Santiago,,Dominican Republic,6' 0,205,True,6,The Kid,M,True,True,---,2018-05-22,Right,Right
+642770,Javy Guerra,Javier,Alexis,Guerra,8,1995-09-25,23,David,,Panama,5' 11,155,True,1,,M,True,True,---,2018-05-04,Left,Right
+643217,Andrew Benintendi,Andrew,S.,Benintendi,16,1994-07-06,25,Cincinnati,OH,USA,5' 10,170,True,7,Benny,M,True,True,2015,2016-08-02,Left,Left
+643230,Steven Brault,Steven,Joseph,Brault,43,1992-04-29,27,La Mesa,CA,USA,6' 0,195,True,1,,M,True,True,2013,2016-07-05,Left,Left
+643256,Adam Cimber,Adam,Christian,Cimber,90,1990-08-15,29,Portland,OR,USA,6' 4,195,True,1,Cimdog Millionaire,M,True,True,2013,2018-03-29,Right,Right
+643265,Garrett Cooper,Garrett,N.,Cooper,26,1990-12-25,28,Torrance,CA,USA,6' 6,230,True,9,Coopaloop,M,True,False,2013,2017-07-14,Right,Right
+643289,Mauricio Dubon,Mauricio,Andre,Dubon,19,1994-07-19,25,San Pedro Sula,,Honduras,6' 0,160,True,6,,M,True,True,2013,2019-07-07,Right,Right
+643316,Paul Fry,Paul,Raymond,Fry,51,1992-07-26,27,Pontiac,MI,USA,6' 0,190,True,1,Papa Frita,M,True,True,2013,2018-06-29,Left,Left
+643327,Zack Godley,Zachary,Thomas,Godley,46,1990-04-21,29,Bamberg,SC,USA,6' 3,240,True,1,Bull,M,True,True,2013,2015-07-23,Right,Right
+643338,Chad Green,Chad,Keith,Green,57,1991-05-24,28,Greenville,SC,USA,6' 3,210,True,1,Greeny,M,True,True,2013,2016-05-16,Left,Right
+643376,Danny Jansen,Daniel,Robert,Jansen,9,1995-04-15,24,Elmhurst,IL,USA,6' 2,230,True,2,Jano,M,True,True,2013,2018-08-13,Right,Right
+643393,Tony Kemp,Anthony,Allen,Kemp,4,1991-10-31,27,Franklin,TN,USA,5' 6,165,True,8,Chieng,M,True,True,2013,2016-05-17,Left,Right
+643396,Isiah Kiner-Falefa,Isiah,---,Kiner-Falefa,9,1995-03-23,24,Honolulu,HI,USA,5' 10,176,True,5,Izzy,M,True,False,2013,2018-04-10,Right,Right
+643446,Jeff McNeil,Jeff,---,McNeil,6,1992-04-08,27,Santa Barbara,CA,USA,6' 1,195,True,7,Flying Squirrel,M,True,True,2013,2018-07-24,Left,Right
+643493,Austin Pruitt,Austin,Daniel,Pruitt,45,1989-08-31,30,The Woodlands,TX,USA,5' 10,185,True,1,Pruman,M,True,False,2013,2017-04-02,Right,Right
+643511,Tyler Rogers,Tyler,S.,Rogers,71,1990-12-17,28,Littleton,CO,USA,6' 5,187,True,1,,M,True,False,2013,2019-08-27,Right,Right
+643565,Mike Tauchman,Michael,Robert,Tauchman,39,1990-12-03,28,Palatine,IL,USA,6' 2,220,True,8,Tauch,M,True,True,2013,2017-06-27,Left,Left
+643778,Tyler Webb,Jon,Tyler,Webb,30,1990-07-20,29,Nassawdox,VA,USA,6' 5,230,True,1,Webby,M,True,True,2013,2017-06-24,Left,Left
+644374,Yu Chang,Yu-Cheng,---,Chang,2,1995-08-18,24,Taitung,,Taiwan,6' 1,180,True,6,,M,True,False,---,2019-06-28,Right,Right
+645261,Sandy Alcantara,Sandy,---,Alcantara,22,1995-09-07,23,Azua,,Dominican Republic,6' 4,170,True,1,Sandman,M,True,True,---,2017-09-03,Right,Right
+645277,Ozzie Albies,Ozhaino,Jurdy Jiandro,Albies,1,1997-01-07,22,Willemstad,,Curacao,5' 8,165,True,4,Bolly,M,True,True,---,2017-08-01,Switch,Right
+645302,Victor Robles,Victor,Enrique,Robles,16,1997-05-19,22,Santo Domingo Este,,Dominican Republic,6' 0,190,True,8,Vic,M,True,True,---,2017-09-07,Right,Right
+645801,Mike Ford,Michael,---,Ford,36,1992-07-04,27,Belle Mead,NJ,USA,6' 0,225,True,3,,M,True,True,---,2019-04-18,Left,Right
+646240,Rafael Devers,Rafael,Calcano,Devers,11,1996-10-24,22,Sanchez,,Dominican Republic,6' 0,237,True,5,Carita,M,True,True,---,2017-07-25,Left,Right
+647304,Josh Naylor,Joshua-Douglas,James,Naylor,22,1997-06-22,22,Mississauga,ON,Canada,5' 11,250,True,9,Naylz,M,True,True,2015,2019-05-24,Left,Left
+647336,Mike Soroka,Michael,John Graydon,Soroka,40,1997-08-04,22,Calgary,AB,Canada,6' 5,225,True,1,Rock,M,True,True,2015,2018-05-01,Right,Right
+647351,Abraham Toro,Abraham,Josue,Toro,13,1996-12-20,22,Longueuil,QC,Canada,6' 1,190,True,5,,M,True,False,2016,2019-08-22,Switch,Right
+649557,Aledmys Diaz,Aledmys,---,Diaz,16,1990-08-01,29,Santa Clara,,Cuba,6' 1,195,True,4,Papito,M,True,True,---,2016-04-05,Right,Right
+649966,Luis Urias,Luis,Fernando,Urias,9,1997-06-03,22,Magdalena de Kino,Sonora,Mexico,5' 9,185,True,4,Wicho,M,True,True,---,2018-08-28,Right,Right
+650333,Luis Arraez,Luis,Sangel,Arraez,2,1997-04-09,22,San Felipe,,Venezuela,5' 10,177,True,4,La Regadera,M,True,True,---,2019-05-18,Left,Right
+650382,Darwinzon Hernandez,Darwinzon,David,Hernandez,63,1996-12-17,22,Ciudad Bolivar,,Venezuela,6' 2,245,True,1,Hernandez,M,True,True,---,2019-04-23,Left,Left
+650391,Eloy Jimenez,Eloy,Arturo,Jimenez,74,1996-11-27,22,Santo Domingo Centro,,Dominican Republic,6' 4,205,True,7,The Big Baby,M,True,True,---,2019-03-28,Right,Right
+650402,Gleyber Torres,Gleyber,David,Torres,25,1996-12-13,22,Caracas,,Venezuela,6' 1,200,True,6,De Caracas,M,True,True,---,2018-04-22,Right,Right
+650489,Willi Castro,Willi,Rafael,Castro,49,1997-04-24,22,Rio Piedras,,Puerto Rico,6' 1,205,True,6,,M,True,False,---,2019-08-24,Switch,Right
+650530,Bryan Garcia,Bryan,---,Garcia,33,1995-04-19,24,Miami,FL,USA,6' 1,203,True,1,,M,True,False,2016,2019-09-02,Right,Right
+650619,Meibrys Viloria,Meibrys,John,Viloria,72,1997-02-15,22,Cartagena,,Colombia,5' 11,220,True,2,El Fresco,M,True,True,---,2018-09-02,Left,Right
+650644,Aaron Civale,Aaron,James,Civale,67,1995-06-12,24,East Windsor,CT,USA,6' 2,215,True,1,,M,True,False,2016,2019-06-22,Right,Right
+650859,Luis Rengifo,Luis,Jose,Rengifo,4,1997-02-26,22,Naguanagua,,Venezuela,5' 10,195,True,4,Fifo,M,True,True,---,2019-04-25,Switch,Right
+650893,Genesis Cabrera,Genesis,---,Cabrera,61,1996-10-10,22,Santo Domingo,,Dominican Republic,6' 2,190,True,1,,M,True,True,---,2019-05-29,Left,Left
+650895,Diego Castillo,Diego,---,Castillo,63,1994-01-18,25,Cabrera,,Dominican Republic,6' 3,250,True,1,Samana,M,True,False,---,2018-06-06,Right,Right
+656185,Greg Allen,Greg,Lomack,Allen,1,1993-03-15,26,San Diego,CA,USA,6' 0,185,True,7,,M,True,True,2014,2017-09-01,Switch,Right
+656186,Dan Altavilla,Daniel,---,Altavilla,53,1992-09-08,26,McKeesport,PA,USA,5' 11,200,True,1,Buzzy,M,True,True,2014,2016-08-27,Right,Right
+656222,Jalen Beeks,Jalen,Christopher,Beeks,68,1993-07-10,26,Fayetteville,AR,USA,5' 11,200,True,1,Beeker,M,True,True,2014,2018-06-07,Left,Left
+656257,Jeff Brigham,Jeff,John,Brigham,43,1992-02-16,27,Federal Way,WA,USA,6' 0,200,True,1,,M,True,True,2014,2018-09-02,Right,Right
+656271,Brock Burke,Brock,---,Burke,70,1996-08-04,23,Chicago,IL,USA,6' 4,180,True,1,,M,True,True,2014,2019-08-20,Left,Left
+656302,Dylan Cease,Dylan,Edward,Cease,84,1995-12-28,23,Milton,GA,USA,6' 2,190,True,1,Cease,M,True,True,2014,2019-07-03,Right,Right
+656305,Matt Chapman,Matt,James,Chapman,26,1993-04-28,26,Victorville,CA,USA,6' 0,220,True,5,Hurtado,M,True,True,2014,2017-06-15,Right,Right
+656322,Sam Coonrod,Samuel,Timothy,Coonrod,65,1992-09-22,26,St. Louis,MO,USA,6' 2,225,True,1,Coach,M,True,True,2014,2019-05-26,Right,Right
+656354,Austin Davis,Austin,Richard,Davis,54,1993-02-03,26,Scottsdale,AZ,USA,6' 4,245,True,1,Big Fudge,M,True,True,2014,2018-06-20,Left,Left
+656371,Isan Diaz,Isan,Xavier,Diaz,1,1996-05-27,23,Bayamon,,Puerto Rico,5' 10,185,True,4,,M,True,True,2014,2019-08-05,Left,Right
+656427,Jack Flaherty,Jack,---,Flaherty,22,1995-10-15,23,Burbank,CA,USA,6' 4,205,True,1,Flare,M,True,True,2014,2017-09-01,Right,Right
+656464,Kevin Ginkel,Kevin,Andrew,Ginkel,37,1994-03-24,25,San Diego,CA,USA,6' 4,210,True,1,,M,True,True,2016,2019-08-05,Left,Right
+656514,Adam Haseley,Adam,Donald,Haseley,40,1996-04-12,23,Orlando,FL,USA,6' 1,195,True,8,,M,True,True,2017,2019-06-04,Left,Left
+656541,Sam Hilliard,Samuel,Beauman,Hilliard,43,1994-02-21,25,Mansfield,TX,USA,6' 5,238,True,9,,M,True,True,2015,2019-08-27,Left,Left
+656546,Jeff Hoffman,Jeffrey,Robert,Hoffman,34,1993-01-08,26,Latham,NY,USA,6' 5,227,True,1,Hoff,M,True,True,2014,2016-08-20,Right,Right
+656555,Rhys Hoskins,Rhys,Dean,Hoskins,17,1993-03-17,26,Sacramento,CA,USA,6' 4,225,True,3,Big Fella,M,True,True,2014,2017-08-10,Right,Right
+656605,Mitch Keller,Mitch,Thomas,Keller,23,1996-04-04,23,Cedar Rapids,IA,USA,6' 2,210,True,1,,M,True,True,2014,2019-05-27,Right,Right
+656669,Jordan Luplow,Jordan,T.,Luplow,8,1993-09-26,25,Visalia,CA,USA,6' 1,195,True,9,Loop,M,True,True,2014,2017-07-28,Right,Right
+656685,Brett Martin,Brett,Ryan,Martin,59,1995-04-28,24,Morristown,TN,USA,6' 4,190,True,1,Joey Seaves,M,True,True,2014,2019-04-19,Left,Left
+656794,Sean Newcomb,Sean,William,Newcomb,15,1993-06-12,26,Brockton,MA,USA,6' 5,255,True,1,Newk,M,True,True,2014,2017-06-10,Left,Left
+656811,Ryan O'Hearn,Ryan,Patrick,O'Hearn,66,1993-07-26,26,Frisco,TX,USA,6' 3,200,True,3,Brohearn,M,True,True,2014,2018-07-31,Left,Left
+656941,Kyle Schwarber,Kyle,Joseph,Schwarber,12,1993-03-05,26,Middletown,OH,USA,6' 0,235,True,7,Schwarbs,M,True,True,2014,2015-06-16,Left,Right
+656945,Tanner Scott,Tanner,Alexander,Scott,66,1994-07-22,25,Mogadore,OH,USA,6' 2,220,True,1,Scottie,M,True,True,2014,2017-09-20,Right,Left
+656954,Justus Sheffield,Justus,Kane,Sheffield,33,1996-05-13,23,Tullahoma,TN,USA,6' 0,200,True,1,,M,True,True,2014,2018-09-19,Left,Left
+656970,Devin Smeltzer,Devin,Paul,Smeltzer,31,1995-09-07,23,Voorhees,NJ,USA,6' 3,195,True,1,#Catchcancerlooking,M,True,True,2016,2019-05-28,Right,Left
+656977,Chad Sobotka,Chad,Nicholas,Sobotka,61,1993-07-10,26,Sarasota,FL,USA,6' 7,225,True,1,,M,True,True,2014,2018-08-10,Right,Right
+657024,Erik Swanson,Erik,---,Swanson,50,1993-09-04,25,Terrace Park,OH,USA,6' 3,235,True,1,Swanny Pops,M,True,True,2014,2019-04-11,Right,Right
+657031,Josh Taylor,Josh,Earl,Taylor,72,1993-03-02,26,Phoenix,AZ,USA,6' 5,225,True,1,,M,True,True,---,2019-05-29,Left,Left
+657228,Jake Jewell,Jake,R.,Jewell,65,1993-05-16,26,Norman,OK,USA,6' 3,200,True,1,Bob,M,True,True,2014,2018-06-16,Right,Right
+657277,Logan Webb,Logan,T.,Webb,62,1996-11-18,22,Rocklin,CA,USA,6' 2,220,True,1,,M,True,True,2014,2019-08-17,Right,Right
+657557,Paul DeJong,Paul,Sterling,DeJong,12,1993-08-02,26,Orlando,FL,USA,6' 0,200,True,6,Pauly,M,True,True,2015,2017-05-28,Right,Right
+657571,Caleb Ferguson,Caleb,Paul,Ferguson,64,1996-07-02,23,Columbus,OH,USA,6' 3,226,True,1,,M,True,True,2014,2018-06-06,Right,Left
+657612,Tim Hill,Timothy,---,Hill,54,1990-02-10,29,Sylmar,CA,USA,6' 2,200,True,1,Tim Jim,M,True,True,2014,2018-03-29,Right,Left
+657624,Josh James,Joshua,---,James,39,1993-03-08,26,Hollywood,FL,USA,6' 3,206,True,1,,M,True,True,2014,2018-09-01,Right,Right
+658305,Edgar Garcia,Edgar,Ernesto,Garcia,66,1996-10-04,22,Palenque,,Dominican Republic,6' 1,180,True,1,,M,True,True,---,2019-05-06,Right,Right
+658551,Junior Fernandez,Junior,Fabio,Fernandez,44,1997-03-02,22,Santo Domingo,,Dominican Republic,6' 1,180,True,1,,M,True,True,---,2019-08-11,Right,Right
+659275,Dinelson Lamet,Dinelson,---,Lamet,29,1992-07-18,27,Santiago,,Dominican Republic,6' 4,187,True,1,El Flaco,M,True,False,---,2017-05-25,Right,Right
+660162,Yoan Moncada,Yoan,Manuel,Moncada,10,1995-05-27,24,Abreus,,Cuba,6' 2,205,True,5,Yoyo,M,True,True,---,2016-09-02,Switch,Right
+660271,Shohei Ohtani,Shohei,---,Ohtani,17,1994-07-05,25,Oshu,,Japan,6' 4,210,True,10,Showtime,M,True,False,---,2018-03-29,Left,Right
+660670,Ronald Acuna Jr.,Ronald,Jose,Acuna,13,1997-12-18,21,La Guaira,,Venezuela,6' 0,180,True,7,El De La Sabana,M,True,False,---,2018-04-25,Right,Right
+660761,Jose Suarez,Jose,Rances,Suarez,54,1998-01-03,21,Naguanagua,,Venezuela,5' 10,225,True,1,Ranciss,M,True,False,---,2019-06-02,Left,Left
+660813,Brusdar Graterol,Brusdar,Javier,Graterol,51,1998-08-26,21,Calobozo,,Venezuela,6' 1,265,True,1,,M,True,False,---,2019-09-01,Right,Right
+661255,Yoan Lopez,Yoan,---,Lopez,50,1993-01-02,26,Nueva Gerona,,Cuba,6' 3,185,True,1,El Asere,M,True,True,---,2018-09-09,Right,Right
+661403,Emmanuel Clase,Emmanuel,---,Clase,43,1998-03-18,21,Rio San Juan,,Dominican Republic,6' 2,206,True,1,,M,True,True,---,2019-08-04,Right,Right
+662253,Andres Munoz,Andres,Clemente,Munoz,52,1999-01-16,20,Los Mochis,Sinaloa,Mexico,6' 2,165,True,1,El Plebe,M,True,True,---,2019-07-12,Right,Right
+663423,Trent Thornton,Trent,Edward,Thornton,57,1993-09-30,25,Pittsburgh,PA,USA,6' 0,195,True,1,Butters,M,True,True,2015,2019-03-31,Right,Right
+663432,Tanner Rainey,Tanner,Scott,Rainey,21,1992-12-25,26,Folsom,LA,USA,6' 2,235,True,1,Rainman,M,True,True,2015,2018-04-10,Right,Right
+663465,Kolby Allard,Kolby,Kenneth,Allard,39,1997-08-13,22,Anaheim,CA,USA,6' 1,190,True,1,,M,True,True,2015,2018-07-31,Left,Left
+663567,Peter Lambert,Peter,Joseph,Lambert,23,1997-04-18,22,San Dimas,CA,USA,6' 2,185,True,1,Lambo,M,True,True,2015,2019-06-06,Right,Right
+663656,Kyle Tucker,Kyle,Daniel,Tucker,3,1997-01-17,22,Tampa,FL,USA,6' 4,190,True,9,,M,True,True,2015,2018-07-07,Left,Right
+663757,Trent Grisham,Trenton,Marcus,Grisham,2,1996-11-01,22,Fort Worth,TX,USA,6' 0,205,True,9,Grish,M,True,True,2015,2019-08-01,Left,Left
+663776,Patrick Sandoval,Patrick,Jordan,Sandoval,43,1996-10-18,22,Mission Viejo,CA,USA,6' 3,190,True,1,,M,True,True,2015,2019-08-05,Left,Left
+663978,Chris Paddack,Christopher,Joseph,Paddack,59,1996-01-08,23,Austin,TX,USA,6' 4,195,True,1,Sheriff,M,True,True,2015,2019-03-31,Right,Right
+663993,Nate Lowe,David,Nathaniel,Lowe,35,1995-07-07,24,Norfolk,VA,USA,6' 4,245,True,3,,M,True,True,2016,2019-04-29,Left,Right
+664023,Ian Happ,Ian,Edward,Happ,8,1994-08-12,25,Pittsburgh,PA,USA,6' 0,205,True,8,Happer,M,True,True,2015,2017-05-13,Switch,Right
+664034,Ty France,Tyler,Lawrence,France,11,1994-07-13,25,Downey,CA,USA,6' 0,205,True,5,,M,True,True,2015,2019-04-26,Right,Right
+664042,Travis Lakins,Travis,Clay,Lakins,56,1994-06-29,25,Franklin,OH,USA,6' 1,180,True,1,,M,True,True,2015,2019-04-23,Right,Right
+664054,Cody Stashak,Cody,William,Stashak,61,1994-06-04,25,Somers Point,NJ,USA,6' 2,169,True,1,,M,True,True,2015,2019-07-23,Right,Right
+664056,Harrison Bader,Harrison,Joseph,Bader,48,1994-06-03,25,Bronxville,NY,USA,6' 0,195,True,8,Tots,M,True,True,2015,2017-07-25,Right,Right
+664057,Andrew Stevenson,Andrew,Patrick,Stevenson,17,1994-06-01,25,Lafayette,LA,USA,6' 0,192,True,7,Stevo,M,True,True,2015,2017-07-23,Left,Left
+664058,David Fletcher,David,Owen,Fletcher,6,1994-05-31,25,Orange,CA,USA,5' 9,185,True,5,Fletch,M,True,True,2015,2018-06-13,Right,Right
+664059,Sam Haggerty,Samuel,Onofrio,Haggerty,88,1994-05-26,25,Phoenix,AZ,USA,5' 11,175,True,4,,M,True,True,2015,,Switch,Right
+664062,Tony Gonsolin,Anthony,D.,Gonsolin,46,1994-05-14,25,Vacaville,CA,USA,6' 3,205,True,1,Goooose,M,True,True,2016,2019-06-26,Right,Right
+664068,Scott Kingery,Scott,M.,Kingery,4,1994-04-29,25,Phoenix,AZ,USA,5' 10,180,True,8,Jetpax,M,True,True,2015,2018-03-30,Right,Right
+664119,Austin Allen,Austin,Michael,Allen,62,1994-01-16,25,St. Louis,MO,USA,6' 2,220,True,2,Double AA,M,True,True,2015,2019-05-11,Left,Right
+664126,Peter Fairbanks,Peter,Anderson,Fairbanks,44,1993-12-16,25,St. Louis,MO,USA,6' 6,219,True,1,,M,True,True,2015,2019-06-09,Right,Right
+664129,Geoff Hartlieb,Geoffery,Thomas,Hartlieb,72,1993-12-09,25,Highland,IL,USA,6' 5,235,True,1,Hart,M,True,True,2016,2019-05-18,Right,Right
+664139,Ian Gibaut,Ian,Philip,Gibaut,63,1993-11-19,25,Houston,TX,USA,6' 3,250,True,1,,M,True,True,2015,2019-07-12,Right,Right
+664180,Matt Hall,Matthew,Thomas,Hall,64,1993-07-23,26,Independence,MO,USA,6' 0,200,True,1,,M,True,True,2015,2018-09-15,Left,Left
+664192,Joey Lucchesi,Joseph,George,Lucchesi,37,1993-06-06,26,Newark,CA,USA,6' 5,204,True,1,Joey Fuego,M,True,True,2016,2018-03-30,Left,Left
+664199,Taylor Clarke,Taylor,James,Clarke,45,1993-05-13,26,Ashburn,VA,USA,6' 4,200,True,1,Clarkey,M,True,True,2015,2019-04-20,Right,Right
+664208,Phil Maton,Phillip,Louis,Maton,88,1993-03-25,26,Paducah,KY,USA,6' 3,220,True,1,Spin Rate,M,True,True,2015,2017-06-11,Right,Right
+664238,Dylan Moore,Dylan,---,Moore,25,1992-08-02,27,Newport Beach,CA,USA,6' 0,200,True,5,D Mo,M,True,True,2015,2019-03-20,Right,Right
+664285,Framber Valdez,Framber,---,Valdez,59,1993-11-19,25,Palenque,,Dominican Republic,5' 11,170,True,1,,M,True,True,---,2018-08-21,Left,Left
+664353,Jose Urquidy,Jose,Luis,Urquidy,65,1995-05-01,24,Mazatlan,Sinaloa,Mexico,6' 0,180,True,1,,M,True,True,---,2019-07-02,Right,Right
+664774,LaMonte Wade Jr,LaMonte,Aaron,Wade,30,1994-01-01,25,Baltimore,MD,USA,6' 1,205,True,7,,M,True,True,2015,2019-06-28,Left,Left
+664854,Ryan Helsley,Ryan,Dalton,Helsley,56,1994-07-18,25,Tahlequah,OK,USA,6' 1,195,True,1,Hellz Bellz,M,True,True,2015,2019-04-16,Right,Right
+664856,Chance Adams,Chance,---,Adams,72,1994-08-10,25,Scottsdale,AZ,USA,6' 1,225,True,1,,M,True,False,2015,2018-08-04,Right,Right
+664913,Seth Brown,Seth,William,Brown,65,1992-07-13,27,Klamath Falls,OR,USA,6' 3,220,True,3,,M,True,True,2015,2019-08-26,Left,Left
+664918,Kyle Keller,Kyle,Robert,Keller,72,1993-04-28,26,Metairie,LA,USA,6' 4,200,True,1,,M,True,True,2015,2019-08-04,Right,Right
+664926,Nick Dini,Nicholas,Carl,Dini,33,1993-07-27,26,Monroe,NJ,USA,5' 8,180,True,2,,M,True,True,2015,2019-08-07,Right,Right
+665120,Jared Walsh,Jared,James,Walsh,25,1993-07-30,26,Brookfield,WI,USA,6' 0,210,True,3,Walshy,M,True,True,2015,2019-05-15,Left,Left
+665489,Vladimir Guerrero Jr.,Vladimir,---,Guerrero Jr.,27,1999-03-16,20,Montreal,QC,Canada,6' 2,250,True,5,El K,M,True,False,---,2019-04-26,Right,Right
+665742,Juan Soto,Juan,Jose,Soto,22,1998-10-25,20,Santo Domingo,,Dominican Republic,6' 1,185,True,7,Soto Pacheco,M,True,True,---,2018-05-15,Left,Left
+666158,Gavin Lux,Gavin,Thomas,Lux,81,1997-11-23,21,Kenosha,WI,USA,6' 2,190,True,6,,M,True,False,2016,,Left,Right
+666182,Bo Bichette,Bo,Joseph,Bichette,11,1998-03-05,21,Orlando,FL,USA,6' 0,185,True,6,,M,True,False,2016,2019-07-29,Right,Right
+667498,Robert Dugger,Robert,Lee,Dugger,64,1995-07-03,24,Tucson,AZ,USA,6' 2,180,True,1,,M,True,False,2016,2019-08-05,Right,Right
+668670,Jake Rogers,Jacob,Ray,Rogers,34,1995-04-18,24,Canyon,TX,USA,6' 1,205,True,2,Rog,M,True,False,2016,2019-07-30,Right,Right
+668676,Zach Plesac,Zach,Robert,Plesac,65,1995-01-21,24,Crown Point,IN,USA,6' 3,220,True,1,Sac,M,True,False,2016,2019-05-28,Right,Right
+668678,Zac Gallen,Zachary,Peter,Gallen,59,1995-08-03,24,Gibbsboro,NJ,USA,6' 2,191,True,1,Galls,M,True,False,2016,2019-06-20,Right,Right
+668683,Jeremy Walker,Jeremy,Price,Walker,63,1995-06-12,24,Advance,NC,USA,6' 5,205,True,1,,M,True,False,2016,2019-07-26,Right,Right
+668800,Andrew Knizner,Andrew,Robert,Knizner,7,1995-02-03,24,Glen Allen,VA,USA,6' 1,200,True,2,Kiz,M,True,False,2016,2019-06-02,Right,Right
+668804,Bryan Reynolds,Bryan,Patrick,Reynolds,10,1995-01-27,24,Baltimore,MD,USA,6' 3,205,True,7,B-Rey,M,True,False,2016,2019-04-20,Switch,Right
+668942,Josh Rojas,Joshua,Luke,Rojas,9,1994-06-30,25,Glendale,AZ,USA,6' 1,185,True,5,Ro,M,True,False,2017,2019-08-12,Left,Right
+669160,Dustin May,Dustin,Jake,May,85,1997-09-06,21,Justin,TX,USA,6' 6,180,True,1,Big Red,M,True,False,2016,2019-08-02,Right,Right
+669214,Conner Menez,Conner,Scott,Menez,51,1995-05-29,24,Hollister,CA,USA,6' 3,205,True,1,,M,True,False,2016,2019-07-21,Left,Left
+669221,Sean Murphy,Sean,Michael,Murphy,12,1994-10-10,24,Peekskill,NY,USA,6' 3,232,True,2,,M,True,False,2016,,Right,Right
+669222,Nick Senzel,Nicholas,Peter,Senzel,15,1995-06-29,24,Atlanta,GA,USA,6' 1,205,True,8,Lil Senz,M,True,False,2016,2019-05-03,Right,Right
+669242,Tommy Edman,Thomas,Hyunsu,Edman,19,1995-05-09,24,San Diego,CA,USA,5' 10,180,True,6,Eddie,M,True,False,2016,2019-06-08,Switch,Right
+669256,Nick Solak,Nicholas,Blake,Solak,15,1995-01-11,24,Woodridge,IL,USA,5' 11,190,True,4,,M,True,False,2016,2019-08-20,Right,Right
+669257,Will Smith,William,Dills,Smith,16,1995-03-28,24,Louisville,KY,USA,5' 10,195,True,2,Smitty,M,True,False,2016,2019-05-28,Right,Right
+669270,Joel Kuhnel,Joel,Kenneth,Kuhnel,66,1995-02-19,24,Goldsboro,NC,USA,6' 5,260,True,1,,M,True,False,2016,2019-08-16,Right,Right
+669456,Shane Bieber,Shane,Robert,Bieber,57,1995-05-31,24,Orange,CA,USA,6' 3,200,True,1,Not Justin,M,True,False,2016,2018-05-31,Right,Right
+670032,Nicky Lopez,Nicholas,---,Lopez,1,1995-03-13,24,Naperville,IL,USA,5' 11,175,True,4,Shorts,M,True,False,2016,2019-05-14,Left,Right
+670167,John Schreiber,John,Robert,Schreiber,71,1994-03-05,25,Wyandotte,MI,USA,6' 3,220,True,1,,M,True,True,2016,2019-08-09,Right,Right
+670280,David Bednar,David,---,Bednar,67,1994-10-10,24,Pittsburgh,PA,USA,6' 1,220,True,1,,M,True,True,2016,2019-09-01,Left,Right
+670541,Yordan Alvarez,Yordan,Ruben,Alvarez,44,1997-06-27,22,Las Tunas,,Cuba,6' 5,225,True,3,Yordan,M,True,True,---,2019-06-09,Left,Right
+670950,Trevor Richards,Trevor,Michael,Richards,34,1993-05-15,26,Aviston,IL,USA,6' 2,190,True,1,Richie,M,True,True,---,2018-04-02,Right,Right
+671790,Ronald Bolanos,Ronald,---,Bolanos,0,1996-08-23,23,Santa Cruz del Norte,,Cuba,6' 3,220,True,1,,M,True,False,---,,Right,Right
+672335,Cionel Perez,Cionel,Felix,Perez,51,1996-04-21,23,La Habana,,Cuba,5' 11,170,True,1,,M,True,True,---,2018-07-11,Left,Left
+673258,Michel Baez,Michel,---,Baez,49,1996-01-21,23,Havana,,Cuba,6' 8,220,True,1,Papaso,M,True,True,---,2019-07-23,Right,Right
+676606,Nick Margevicius,Nicholas,---,Margevicius,25,1996-06-18,23,Cleveland,OH,USA,6' 5,220,True,1,,M,True,True,2017,2019-03-30,Left,Left
+677976,Randy Dobnak,Randy,---,Dobnak,68,1995-01-17,24,South Park,PA,USA,6' 1,230,True,1,,M,True,False,---,2019-08-09,Right,Right

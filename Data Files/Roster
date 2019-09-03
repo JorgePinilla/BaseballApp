@@ -1,0 +1,907 @@
+PersonId,TeamId,Season,FullName,JerseyNumber,BirthDate,BirthCountry,Height,Weight,PositionCode,StatGroup,Status
+405395,108,2019,Albert Pujols,5,1980-01-16,Dominican Republic,6' 3,235,3,hitting,Active
+407845,120,2019,Fernando Rodney,56,1977-03-18,Dominican Republic,5' 11,240,1,pitching,Active
+408234,116,2019,Miguel Cabrera,24,1983-04-18,Venezuela,6' 4,249,3,hitting,Active
+424144,114,2019,Oliver Perez,39,1981-08-15,Mexico,6' 3,225,1,pitching,Active
+425772,140,2019,Jeff Mathis,2,1983-03-31,USA,6' 0,205,2,hitting,Active
+425783,140,2019,Shin-Soo Choo,17,1982-07-13,South Korea,5' 11,210,7,hitting,Active
+425784,121,2019,Rene Rivera,44,1983-07-31,Puerto Rico,5' 10,215,2,hitting,Active
+425794,138,2019,Adam Wainwright,50,1981-08-30,USA,6' 7,235,1,pitching,Active
+425844,117,2019,Zack Greinke,21,1983-10-21,USA,6' 2,200,1,pitching,Active
+425877,138,2019,Yadier Molina,4,1982-07-13,Puerto Rico,5' 11,205,2,hitting,Active
+429719,116,2019,Edwin Jackson,19,1983-09-09,Germany,6' 2,215,1,pitching,Active
+430935,112,2019,Cole Hamels,35,1983-12-27,USA,6' 4,205,1,pitching,Active
+430945,109,2019,Adam Jones,10,1985-08-01,USA,6' 2,215,9,hitting,Active
+431145,119,2019,Russell Martin,55,1983-02-15,Canada,5' 10,215,2,hitting,Active
+433587,136,2019,Felix Hernandez,34,1986-04-08,Venezuela,6' 3,225,1,pitching,Active
+433589,133,2019,Yusmeiro Petit,36,1984-11-22,Venezuela,6' 1,255,1,pitching,Active
+434158,146,2019,Curtis Granderson,21,1981-03-16,USA,6' 1,200,7,hitting,Active
+434378,117,2019,Justin Verlander,35,1983-02-20,USA,6' 5,225,1,pitching,Active
+434538,134,2019,Francisco Liriano,47,1983-10-26,Dominican Republic,6' 3,218,1,pitching,Active
+434658,121,2019,Rajai Davis,18,1980-10-19,USA,5' 10,195,8,hitting,Active
+434671,120,2019,Anibal Sanchez,19,1984-02-27,Venezuela,6' 0,205,1,pitching,Active
+435062,120,2019,Howie Kendrick,47,1983-07-12,USA,5' 11,220,5,hitting,Active
+435263,144,2019,Brian McCann,16,1984-02-20,USA,6' 3,225,2,hitting,Active
+435522,146,2019,Neil Walker,18,1985-09-10,USA,6' 3,210,3,hitting,Active
+435559,120,2019,Kurt Suzuki,28,1983-10-04,USA,5' 11,210,2,hitting,Active
+435622,115,2019,Ian Desmond,20,1985-09-20,USA,6' 3,220,8,hitting,Active
+443558,142,2019,Nelson Cruz,23,1980-07-01,Dominican Republic,6' 2,230,10,hitting,Active
+444432,110,2019,Mark Trumbo,45,1986-01-16,USA,6' 4,225,10,hitting,Active
+444468,117,2019,Hector Rondon,30,1988-02-26,Venezuela,6' 3,230,1,pitching,Active
+444489,158,2019,Manny Pina,9,1987-06-05,Venezuela,6' 0,215,2,hitting,Active
+445213,112,2019,Brandon Kintzler,20,1984-08-01,USA,6' 0,194,1,pitching,Active
+445276,119,2019,Kenley Jansen,74,1987-09-30,Curacao,6' 5,265,1,pitching,Active
+445988,146,2019,Martin Prado,14,1983-10-27,Venezuela,6' 0,215,3,hitting,Active
+446308,138,2019,Matt Wieters,32,1986-05-21,USA,6' 5,235,2,hitting,Active
+446321,145,2019,Ross Detwiler,54,1986-03-06,USA,6' 5,210,1,pitching,Active
+446334,137,2019,Evan Longoria,10,1985-10-07,USA,6' 1,215,5,hitting,Active
+446481,143,2019,Sean Rodriguez,13,1985-04-26,USA,6' 0,200,6,hitting,Active
+448281,120,2019,Sean Doolittle,63,1986-09-26,USA,6' 2,204,1,pitching,Active
+448801,110,2019,Chris Davis,19,1986-03-17,USA,6' 3,230,3,hitting,Active
+448855,158,2019,Junior Guerra,41,1985-01-16,Venezuela,6' 0,205,1,pitching,Active
+450172,140,2019,Edinson Volquez,36,1983-07-03,Dominican Republic,6' 0,220,1,pitching,Active
+450203,139,2019,Charlie Morton,50,1983-11-12,USA,6' 5,215,1,pitching,Active
+450306,143,2019,Jason Vargas,44,1983-02-02,USA,6' 0,215,1,pitching,Active
+450314,112,2019,Ben Zobrist,18,1981-05-26,USA,6' 3,210,9,hitting,Active
+451584,115,2019,Wade Davis,71,1985-09-07,USA,6' 5,227,1,pitching,Active
+451594,138,2019,Dexter Fowler,25,1986-03-22,USA,6' 5,195,9,hitting,Active
+452095,144,2019,Tyler Flowers,25,1986-01-24,USA,6' 4,260,2,hitting,Active
+452657,112,2019,Jon Lester,34,1984-01-07,USA,6' 4,240,1,pitching,Active
+452678,120,2019,Asdrubal Cabrera,13,1985-11-13,Venezuela,6' 0,205,5,hitting,Active
+453172,143,2019,Jared Hughes,25,1985-07-04,USA,6' 7,240,1,pitching,Active
+453178,118,2019,Ian Kennedy,31,1984-12-19,USA,6' 0,205,1,pitching,Active
+453192,138,2019,Andrew Miller,21,1985-05-21,USA,6' 7,205,1,pitching,Active
+453265,137,2019,Tony Watson,56,1985-05-30,USA,6' 3,218,1,pitching,Active
+453281,136,2019,Wade LeBlanc,49,1984-08-07,USA,6' 3,205,1,pitching,Active
+453284,143,2019,Blake Parker,53,1985-06-19,USA,6' 3,225,1,pitching,Active
+453286,120,2019,Max Scherzer,31,1984-07-27,USA,6' 3,215,1,pitching,Active
+453329,141,2019,Clay Buchholz,36,1984-08-14,USA,6' 3,190,1,pitching,Active
+453343,144,2019,Mark Melancon,36,1985-03-28,USA,6' 2,215,1,pitching,Active
+453385,141,2019,Clayton Richard,2,1983-09-12,USA,6' 5,240,1,pitching,Active
+453568,115,2019,Charlie Blackmon,19,1986-07-01,USA,6' 3,220,9,hitting,Active
+453943,121,2019,Todd Frazier,21,1986-02-12,USA,6' 3,220,5,hitting,Active
+455117,117,2019,Martin Maldonado,12,1986-08-16,Puerto Rico,6' 0,230,2,hitting,Active
+455119,144,2019,Chris Martin,51,1986-06-02,USA,6' 8,215,1,pitching,Active
+455139,117,2019,Robinson Chirinos,28,1984-06-05,Venezuela,6' 1,210,2,hitting,Active
+456034,111,2019,David Price,10,1985-08-26,USA,6' 5,215,1,pitching,Active
+456051,146,2019,Hector Noesi,48,1987-01-26,Dominican Republic,6' 3,205,1,pitching,Active
+456078,145,2019,Welington Castillo,21,1987-04-24,Dominican Republic,5' 10,220,2,hitting,Active
+456701,133,2019,Homer Bailey,15,1986-05-03,USA,6' 4,223,1,pitching,Active
+456715,158,2019,Lorenzo Cain,6,1986-04-13,USA,6' 2,205,8,hitting,Active
+456781,137,2019,Donovan Solano,7,1987-12-17,Colombia,5' 10,205,6,hitting,Active
+457708,108,2019,Justin Upton,8,1987-08-25,USA,6' 1,215,7,hitting,Active
+457727,147,2019,Cameron Maybin,38,1987-04-04,USA,6' 3,215,7,hitting,Active
+457759,119,2019,Justin Turner,10,1984-11-23,USA,5' 11,202,5,hitting,Active
+457763,137,2019,Buster Posey,28,1987-03-27,USA,6' 1,210,2,hitting,Active
+457803,143,2019,Jay Bruce,23,1987-04-03,USA,6' 3,225,9,hitting,Active
+457915,120,2019,Javy Guerra,48,1985-10-31,USA,6' 1,216,1,pitching,Active
+457918,147,2019,J.A. Happ,34,1982-10-19,USA,6' 5,205,1,pitching,Active
+458006,158,2019,Matt Albers,43,1983-01-20,USA,6' 1,225,1,pitching,Active
+458015,113,2019,Joey Votto,19,1983-09-10,Canada,6' 2,220,3,hitting,Active
+458677,121,2019,Justin Wilson,38,1987-08-18,USA,6' 2,205,1,pitching,Active
+458681,140,2019,Lance Lynn,35,1987-05-12,USA,6' 5,280,1,pitching,Active
+458708,144,2019,Josh Tomlin,32,1984-10-19,USA,6' 1,190,1,pitching,Active
+458731,147,2019,Brett Gardner,11,1983-08-24,USA,5' 11,195,8,hitting,Active
+459429,115,2019,Jake McGee,51,1986-08-06,USA,6' 4,237,1,pitching,Active
+459964,144,2019,Matt Joyce,14,1984-08-03,USA,6' 2,200,7,hitting,Active
+460075,158,2019,Ryan Braun,8,1983-11-17,USA,6' 2,205,7,hitting,Active
+460086,118,2019,Alex Gordon,4,1984-02-10,USA,6' 1,225,7,hitting,Active
+460283,144,2019,Jerry Blevins,50,1983-09-06,USA,6' 6,190,1,pitching,Active
+461325,114,2019,Tyler Clippard,36,1985-02-14,USA,6' 3,200,1,pitching,Active
+461829,158,2019,Gio Gonzalez,47,1985-09-19,USA,6' 0,205,1,pitching,Active
+461872,144,2019,Anthony Swarzak,38,1985-09-10,USA,6' 4,215,1,pitching,Active
+462101,140,2019,Elvis Andrus,1,1988-08-26,Venezuela,6' 0,200,6,hitting,Active
+465041,144,2019,Francisco Cervelli,45,1986-03-06,Venezuela,6' 1,210,2,hitting,Active
+465657,133,2019,Joakim Soria,48,1984-05-18,Mexico,6' 3,200,1,pitching,Active
+466320,134,2019,Melky Cabrera,53,1984-08-11,Dominican Republic,5' 10,210,9,hitting,Active
+467008,112,2019,Pedro Strop,46,1985-06-13,Dominican Republic,6' 1,220,1,pitching,Active
+467055,137,2019,Pablo Sandoval,48,1986-08-11,Venezuela,5' 11,268,5,hitting,Active
+467092,121,2019,Wilson Ramos,40,1987-08-10,Venezuela,6' 1,245,2,hitting,Active
+467100,145,2019,Ivan Nova,46,1987-01-12,Dominican Republic,6' 5,250,1,pitching,Active
+467793,114,2019,Carlos Santana,41,1986-04-08,Dominican Republic,5' 11,210,3,hitting,Active
+467827,120,2019,Gerardo Parra,88,1987-05-06,Venezuela,5' 11,210,7,hitting,Active
+468504,111,,Jhoulys Chacin,43,1988-01-07,Venezuela,6' 3,215,1,,Active
+471911,114,2019,Carlos Carrasco,59,1987-03-21,Venezuela,6' 4,224,1,pitching,Active
+472551,137,2019,Fernando Abad,50,1985-12-17,Dominican Republic,6' 1,220,1,pitching,Active
+472610,108,2019,Luis Garcia,40,1987-01-30,Dominican Republic,6' 2,240,1,pitching,Active
+473879,142,2019,Sam Dyson,49,1988-05-07,USA,6' 1,212,1,pitching,Active
+474463,133,2019,Brett Anderson,30,1988-02-01,USA,6' 4,230,1,pitching,Active
+474568,116,2019,Jordy Mercer,7,1986-08-27,USA,6' 3,210,6,hitting,Active
+474832,137,2019,Brandon Belt,9,1988-04-20,USA,6' 4,235,3,hitting,Active
+475054,139,2019,Chaz Roe,52,1986-10-09,USA,6' 5,190,1,pitching,Active
+475174,115,2019,Yonder Alonso,13,1987-04-08,Cuba,6' 1,230,3,hitting,Active
+475247,114,,Ryan Flaherty,7,1986-07-27,USA,6' 3,205,5,,Active
+475253,141,2019,Justin Smoak,14,1986-12-05,USA,6' 4,220,3,hitting,Active
+475479,112,2019,David Phelps,37,1986-10-09,USA,6' 3,200,1,pitching,Active
+475582,120,2019,Ryan Zimmerman,11,1984-09-28,USA,6' 3,215,3,hitting,Active
+476451,120,2019,Jeremy Hellickson,58,1987-04-08,USA,6' 1,190,1,pitching,Active
+477132,119,2019,Clayton Kershaw,22,1988-03-19,USA,6' 4,226,1,pitching,Active
+488671,109,2019,Alex Avila,31,1987-01-29,USA,5' 11,210,2,hitting,Active
+488726,117,2019,Michael Brantley,23,1987-05-15,USA,6' 2,200,7,hitting,Active
+488748,133,2019,Ryan Buchter,52,1987-02-13,USA,6' 4,232,1,pitching,Active
+488768,111,2019,Andrew Cashner,48,1986-09-11,USA,6' 6,235,1,pitching,Active
+488771,142,2019,Jason Castro,15,1987-06-18,USA,6' 3,215,2,hitting,Active
+489119,117,2019,Wade Miley,20,1986-11-13,USA,6' 0,220,1,pitching,Active
+489149,143,2019,Logan Morrison,8,1987-08-25,USA,6' 3,245,3,hitting,Active
+489265,142,2019,Sergio Romo,54,1983-03-04,USA,5' 11,185,1,pitching,Active
+489334,135,2019,Craig Stammen,34,1984-03-09,USA,6' 4,230,1,pitching,Active
+489446,135,2019,Kirby Yates,39,1987-03-25,USA,5' 10,210,1,pitching,Active
+491676,111,2019,Gorkys Hernandez,47,1987-09-07,Venezuela,6' 1,196,8,hitting,Active
+493329,117,2019,Yuli Gurriel,10,1984-06-09,Cuba,6' 0,190,3,hitting,Active
+493596,116,2019,Gordon Beckham,29,1986-09-16,USA,6' 0,190,6,hitting,Active
+493603,147,2019,Adam Ottavino,0,1985-11-22,USA,6' 5,220,1,pitching,Active
+500135,116,2019,Ronny Rodriguez,60,1992-04-17,Dominican Republic,6' 0,200,6,hitting,Active
+500743,146,2019,Miguel Rojas,19,1989-02-24,Venezuela,5' 11,195,6,hitting,Active
+500779,112,2019,Jose Quintana,62,1989-01-24,Colombia,6' 1,220,1,pitching,Active
+500871,109,2019,Eduardo Escobar,5,1989-01-05,Venezuela,5' 10,185,5,hitting,Active
+500874,138,2019,Jose Martinez,38,1988-07-25,Venezuela,6' 6,215,9,hitting,Active
+501303,142,2019,Ehire Adrianza,13,1989-08-21,Venezuela,6' 1,195,5,hitting,Active
+501381,142,2019,Michael Pineda,35,1989-01-18,Dominican Republic,6' 7,280,1,pitching,Active
+501571,121,2019,Juan Lagares,12,1989-03-17,Dominican Republic,6' 1,215,8,hitting,Active
+501593,121,2019,Luis Avilan,43,1989-07-19,Venezuela,6' 2,220,1,pitching,Active
+501625,143,2019,Jose Alvarez,52,1989-05-06,Venezuela,5' 11,180,1,pitching,Active
+501659,109,2019,Abraham Almonte,48,1989-06-27,Dominican Republic,5' 9,210,O,hitting,Active
+501789,117,2019,Will Harris,36,1984-08-28,USA,6' 4,240,1,pitching,Active
+501896,119,2019,David Freese,25,1983-04-28,USA,6' 2,213,3,hitting,Active
+501925,117,2019,Joe Smith,38,1984-03-22,USA,6' 2,205,1,pitching,Active
+501981,133,2019,Khris Davis,2,1987-12-21,USA,5' 11,203,7,hitting,Active
+501985,140,2019,Mike Minor,23,1987-12-26,USA,6' 4,210,1,pitching,Active
+502054,139,2019,Tommy Pham,29,1988-03-08,USA,6' 1,215,7,hitting,Active
+502110,111,2019,J.D. Martinez,28,1987-08-21,USA,6' 3,220,7,hitting,Active
+502117,119,2019,Kristopher Negron,9,1986-02-01,USA,6' 0,190,4,hitting,Active
+502154,147,2019,Zack Britton,53,1987-12-22,USA,6' 3,195,1,pitching,Active
+502188,137,2019,Jeff Samardzija,29,1985-01-23,USA,6' 5,240,1,pitching,Active
+502190,109,2019,Mike Leake,8,1987-11-12,USA,5' 10,170,1,pitching,Active
+502210,117,2019,Josh Reddick,22,1987-02-19,USA,6' 2,195,9,hitting,Active
+502239,108,2019,Trevor Cahill,53,1988-03-01,USA,6' 4,230,1,pitching,Active
+502273,114,2019,Mike Freeman,6,1987-08-04,USA,6' 0,195,4,hitting,Active
+502327,145,2019,Hector Santiago,53,1987-12-16,USA,6' 0,215,1,pitching,Active
+502481,109,2019,Jarrod Dyson,1,1984-08-15,USA,5' 10,165,8,hitting,Active
+502517,115,2019,Daniel Murphy,9,1985-04-01,USA,6' 1,221,3,hitting,Active
+502624,158,2019,Chase Anderson,57,1987-11-30,USA,6' 1,200,1,pitching,Active
+502671,138,2019,Paul Goldschmidt,46,1987-09-10,USA,6' 3,225,3,hitting,Active
+503556,142,2019,Marwin Gonzalez,9,1989-03-14,Venezuela,6' 1,205,5,hitting,Active
+506433,112,2019,Yu Darvish,11,1986-08-16,Japan,6' 5,220,1,pitching,Active
+506702,111,2019,Sandy Leon,3,1989-03-13,Venezuela,5' 10,225,2,hitting,Active
+506703,120,2019,Adrian Sanchez,5,1990-08-16,Venezuela,6' 0,216,6,hitting,Active
+514888,117,2019,Jose Altuve,27,1990-05-06,Venezuela,5' 6,165,4,hitting,Active
+514917,143,2019,Cesar Hernandez,16,1990-05-23,Venezuela,5' 10,160,4,hitting,Active
+516416,143,2019,Jean Segura,2,1990-03-17,Dominican Republic,5' 10,205,6,hitting,Active
+516770,146,2019,Starlin Castro,13,1990-03-24,Dominican Republic,6' 2,230,4,hitting,Active
+516782,134,2019,Starling Marte,6,1988-10-09,Dominican Republic,6' 1,190,8,hitting,Active
+516969,145,2019,Kelvin Herrera,41,1989-12-31,Dominican Republic,5' 10,200,1,pitching,Active
+517008,145,2019,Alex Colome,48,1988-12-31,Dominican Republic,6' 1,220,1,pitching,Active
+518489,111,2019,Ryan Brasier,70,1987-08-26,USA,6' 0,225,1,pitching,Active
+518516,137,2019,Madison Bumgarner,40,1989-08-01,USA,6' 4,242,1,pitching,Active
+518542,111,,Juan Centeno,68,1989-11-16,Puerto Rico,5' 9,195,2,,Active
+518553,112,2019,Steve Cishek,41,1986-06-18,USA,6' 6,215,1,pitching,Active
+518586,144,2019,Charlie Culberson,8,1989-04-10,USA,6' 0,200,7,hitting,Active
+518595,139,2019,Travis d'Arnaud,37,1989-02-10,USA,6' 2,210,2,hitting,Active
+518614,112,2019,Daniel Descalso,3,1986-10-19,USA,5' 10,190,4,hitting,Active
+518617,133,2019,Jake Diekman,35,1987-01-21,USA,6' 4,200,1,pitching,Active
+518618,113,2019,Derek Dietrich,22,1989-07-18,USA,6' 0,205,4,hitting,Active
+518626,144,2019,Josh Donaldson,20,1985-12-08,USA,6' 1,210,5,hitting,Active
+518633,118,2019,Danny Duffy,41,1988-12-21,USA,6' 3,205,1,pitching,Active
+518692,144,2019,Freddie Freeman,5,1989-09-12,USA,6' 5,220,3,hitting,Active
+518715,147,2019,Cory Gearrin,35,1986-04-14,USA,6' 1,205,1,pitching,Active
+518735,158,2019,Yasmani Grandal,10,1988-11-08,Cuba,6' 1,235,2,hitting,Active
+518792,112,2019,Jason Heyward,22,1989-08-09,USA,6' 5,240,9,hitting,Active
+518875,140,2019,Shawn Kelley,27,1984-04-26,USA,6' 2,237,1,pitching,Active
+518876,109,2019,Merrill Kelly,29,1988-10-14,USA,6' 2,190,1,pitching,Active
+518886,112,2019,Craig Kimbrel,24,1988-05-28,USA,6' 0,210,1,pitching,Active
+518934,147,2019,DJ LeMahieu,26,1988-07-13,USA,6' 4,215,4,hitting,Active
+518960,112,2019,Jonathan Lucroy,25,1986-06-13,USA,6' 0,200,2,hitting,Active
+519008,109,2019,T.J. McFarland,30,1989-06-08,USA,6' 3,220,1,pitching,Active
+519048,111,2019,Mitch Moreland,18,1985-09-06,USA,6' 2,230,3,hitting,Active
+519058,158,2019,Mike Moustakas,11,1988-09-11,USA,6' 0,225,4,hitting,Active
+519076,158,2019,Jimmy Nelson,52,1989-06-05,USA,6' 6,250,1,pitching,Active
+519096,114,2019,Dan Otero,61,1985-02-19,USA,6' 3,205,1,pitching,Active
+519141,158,2019,Drew Pomeranz,15,1988-11-22,USA,6' 6,240,1,pitching,Active
+519144,111,2019,Rick Porcello,22,1988-12-27,USA,6' 5,205,1,pitching,Active
+519203,112,2019,Anthony Rizzo,44,1989-08-08,USA,6' 3,240,3,hitting,Active
+519222,147,2019,Austin Romine,28,1988-11-22,USA,6' 1,220,2,hitting,Active
+519293,137,2019,Will Smith,13,1989-07-10,USA,6' 5,248,1,pitching,Active
+519299,139,2019,Eric Sogard,9,1986-05-22,USA,5' 10,185,4,hitting,Active
+519326,120,2019,Hunter Strickland,60,1988-09-24,USA,6' 3,225,1,pitching,Active
+519346,158,2019,Eric Thames,7,1986-11-10,USA,6' 0,210,3,hitting,Active
+519390,137,2019,Stephen Vogt,21,1984-11-01,USA,6' 0,225,2,hitting,Active
+519393,111,2019,Marcus Walden,64,1988-09-13,USA,6' 0,195,1,pitching,Active
+519443,111,2019,Brandon Workman,44,1988-08-13,USA,6' 5,235,1,pitching,Active
+519455,116,2019,Jordan Zimmermann,27,1986-05-23,USA,6' 2,225,1,pitching,Active
+520471,113,2019,Freddy Galvis,3,1989-11-14,Venezuela,5' 10,185,6,hitting,Active
+520980,119,2019,Pedro Baez,52,1988-03-11,Dominican Republic,6' 0,232,1,pitching,Active
+521230,133,2019,Liam Hendriks,16,1989-02-10,Australia,6' 0,225,1,pitching,Active
+521655,141,2019,Wilmer Font,63,1990-05-24,Venezuela,6' 4,250,1,pitching,Active
+523253,140,2019,Logan Forsythe,41,1987-01-14,USA,6' 1,205,3,hitting,Active
+523260,119,2019,Joe Kelly,17,1988-06-09,USA,6' 1,174,1,pitching,Active
+527038,109,2019,Wilmer Flores,41,1991-08-06,Venezuela,6' 3,205,4,hitting,Active
+527048,142,2019,Martin Perez,33,1991-04-04,Venezuela,6' 0,200,1,pitching,Active
+527054,144,2019,Julio Teheran,49,1991-01-27,Colombia,6' 2,205,1,pitching,Active
+532077,117,2019,Roberto Osuna,54,1995-02-07,Mexico,6' 2,215,1,pitching,Active
+541645,139,2019,Avisail Garcia,24,1991-06-12,Venezuela,6' 4,250,9,hitting,Active
+541650,158,2019,Hernan Perez,14,1991-03-26,Venezuela,6' 1,215,4,hitting,Active
+542303,138,2019,Marcell Ozuna,23,1990-11-12,Dominican Republic,6' 1,225,7,hitting,Active
+542340,110,2019,Jonathan Villar,2,1991-05-02,Dominican Republic,6' 1,215,4,hitting,Active
+542364,144,2019,Rafael Ortega,18,1991-05-15,Venezuela,5' 11,160,7,hitting,Active
+542454,140,2019,Danny Santana,38,1990-11-07,Dominican Republic,5' 11,185,4,hitting,Active
+542583,139,2019,Jesus Aguilar,21,1990-06-30,Venezuela,6' 3,250,3,hitting,Active
+542585,116,2019,Jose Cisnero,67,1989-04-11,Dominican Republic,6' 3,245,1,pitching,Active
+542882,109,2019,Matt Andriese,35,1989-08-28,USA,6' 2,225,1,pitching,Active
+542888,110,2019,Shawn Armstrong,43,1990-09-11,USA,6' 2,225,1,pitching,Active
+542914,136,2019,Anthony Bass,52,1987-11-01,USA,6' 2,200,1,pitching,Active
+542932,146,2019,Jon Berti,55,1990-01-22,USA,5' 10,195,5,hitting,Active
+542947,110,2019,Richard Bleier,48,1987-04-16,USA,6' 3,215,1,pitching,Active
+542953,141,2019,Buddy Boshers,67,1988-05-09,USA,6' 3,222,1,pitching,Active
+542960,121,2019,Brad Brach,29,1986-04-12,USA,6' 6,215,1,pitching,Active
+542979,136,2019,Keon Broxton,4,1990-05-07,USA,6' 3,195,8,hitting,Active
+543022,112,2019,Tyler Chatwood,32,1989-12-16,USA,6' 0,185,1,pitching,Active
+543037,117,2019,Gerrit Cole,45,1990-09-08,USA,6' 4,225,1,pitching,Active
+543045,146,2019,Adam Conley,61,1990-05-24,USA,6' 3,200,1,pitching,Active
+543063,137,2019,Brandon Crawford,35,1987-01-21,USA,6' 2,227,6,hitting,Active
+543068,142,2019,C.J. Cron,24,1990-01-05,USA,6' 4,235,3,hitting,Active
+543089,112,2019,Taylor Davis,53,1989-11-28,USA,5' 10,200,2,hitting,Active
+543101,113,2019,Anthony DeSclafani,28,1990-04-18,USA,6' 1,195,1,pitching,Active
+543105,137,2019,Alex Dickerson,8,1990-05-26,USA,6' 3,235,7,hitting,Active
+543118,139,2019,Oliver Drake,47,1987-01-13,USA,6' 4,215,1,pitching,Active
+543135,111,2019,Nathan Eovaldi,17,1990-02-13,USA,6' 2,225,1,pitching,Active
+543208,141,2019,Sam Gaviglio,43,1990-05-22,USA,6' 2,205,1,pitching,Active
+543228,120,2019,Yan Gomes,10,1987-07-19,Brazil,6' 2,215,2,hitting,Active
+543243,113,2019,Sonny Gray,54,1989-11-07,USA,5' 10,192,1,pitching,Active
+543257,133,2019,Robbie Grossman,8,1989-09-16,USA,6' 0,215,7,hitting,Active
+543272,114,2019,Brad Hand,33,1990-03-20,USA,6' 3,220,1,pitching,Active
+543294,112,2019,Kyle Hendricks,28,1989-12-07,USA,6' 3,190,1,pitching,Active
+543302,133,2019,Chris Herrmann,5,1987-11-24,USA,6' 0,200,2,hitting,Active
+543308,116,2019,John Hicks,55,1989-08-31,USA,6' 2,230,2,hitting,Active
+543333,135,2019,Eric Hosmer,30,1989-10-24,USA,6' 4,225,3,hitting,Active
+543339,120,2019,Daniel Hudson,44,1987-03-09,USA,6' 3,225,1,pitching,Active
+543351,158,2019,Jay Jackson,25,1987-10-27,USA,6' 1,195,1,pitching,Active
+543376,109,2019,Caleb Joseph,14,1986-06-18,USA,6' 3,180,2,hitting,Active
+543401,114,2019,Jason Kipnis,22,1987-04-03,USA,5' 11,200,4,hitting,Active
+543475,158,2019,Jordan Lyles,23,1990-10-19,USA,6' 5,230,1,pitching,Active
+543483,136,2019,Matt Magill,61,1989-11-10,USA,6' 3,210,1,pitching,Active
+543507,142,2019,Trevor May,65,1989-09-23,USA,6' 5,240,1,pitching,Active
+543510,145,2019,James McCann,33,1990-06-13,USA,6' 3,225,2,hitting,Active
+543532,115,2019,Tim Melville,38,1989-10-09,USA,6' 4,225,1,pitching,Active
+543543,143,2019,Brad Miller,33,1989-10-18,USA,6' 2,215,4,hitting,Active
+543548,136,2019,Tommy Milone,57,1987-02-16,USA,6' 0,215,1,pitching,Active
+543557,118,2019,Mike Montgomery,21,1989-07-01,USA,6' 5,215,1,pitching,Active
+543592,136,2019,Austin Nola,23,1989-12-28,USA,6' 0,195,3,hitting,Active
+543606,142,2019,Jake Odorizzi,12,1990-03-27,USA,6' 2,190,1,pitching,Active
+543685,120,2019,Anthony Rendon,6,1990-06-06,USA,6' 1,200,5,hitting,Active
+543699,133,2019,Tanner Roark,60,1986-10-05,USA,6' 2,240,1,pitching,Active
+543760,133,2019,Marcus Semien,10,1990-09-17,USA,6' 0,195,6,hitting,Active
+543766,115,2019,Bryan Shaw,29,1987-11-08,USA,6' 1,232,1,pitching,Active
+543768,158,2019,Travis Shaw,21,1990-04-16,USA,6' 4,230,5,hitting,Active
+543807,117,2019,George Springer,4,1989-09-19,USA,6' 3,215,9,hitting,Active
+543829,136,2019,Dee Gordon,9,1988-04-22,USA,5' 11,170,4,hitting,Active
+543877,111,2019,Christian Vazquez,7,1990-08-21,Puerto Rico,5' 9,195,2,hitting,Active
+543883,143,2019,Nick Vincent,29,1986-07-12,USA,6' 0,185,1,pitching,Active
+543901,111,2019,Ryan Weber,65,1990-08-12,USA,6' 1,180,1,pitching,Active
+543939,138,2019,Kolten Wong,16,1990-10-10,USA,5' 9,185,4,hitting,Active
+544365,145,2019,Manny Banuelos,58,1991-03-13,Mexico,5' 10,215,1,pitching,Active
+544369,147,2019,Didi Gregorius,18,1990-02-18,Netherlands,6' 3,205,6,hitting,Active
+544725,145,2019,Leury Garcia,28,1991-03-18,Dominican Republic,5' 8,180,8,hitting,Active
+544727,121,2019,Jeurys Familia,27,1989-10-10,Dominican Republic,6' 3,240,1,pitching,Active
+544928,147,2019,Tyler Lyons,70,1988-02-21,USA,6' 4,210,1,pitching,Active
+544931,120,2019,Stephen Strasburg,37,1988-07-20,USA,6' 5,235,1,pitching,Active
+545064,115,2019,Jairo Diaz,37,1991-05-27,Venezuela,6' 0,200,1,pitching,Active
+545121,109,2019,Ildemaro Vargas,15,1991-07-16,Venezuela,6' 0,170,4,hitting,Active
+545333,113,2019,Trevor Bauer,27,1991-01-17,USA,6' 1,205,1,pitching,Active
+545341,141,2019,Randal Grichuk,15,1991-08-13,USA,6' 2,213,8,hitting,Active
+545350,117,2019,Jake Marisnick,6,1991-03-30,USA,6' 4,220,8,hitting,Active
+545358,108,2019,Max Stassi,33,1991-03-15,USA,5' 10,200,2,hitting,Active
+545361,108,2019,Mike Trout,27,1991-08-07,USA,6' 2,235,8,hitting,Active
+546991,112,2019,Albert Almora Jr.,5,1994-04-16,USA,6' 2,190,8,hitting,Active
+547004,110,2019,Rio Ruiz,14,1994-05-22,USA,6' 1,215,5,hitting,Active
+547172,115,2019,Tony Wolters,14,1992-06-09,USA,5' 10,197,2,hitting,Active
+547179,113,2019,Michael Lorenzen,21,1992-01-04,USA,6' 3,217,1,pitching,Active
+547180,143,2019,Bryce Harper,3,1992-10-16,USA,6' 3,220,9,hitting,Active
+547379,114,2019,Roberto Perez,55,1988-12-23,Puerto Rico,5' 11,220,2,hitting,Active
+547888,147,2019,Masahiro Tanaka,19,1988-11-01,Japan,6' 3,215,1,pitching,Active
+547943,119,2019,Hyun-Jin Ryu,99,1987-03-25,South Korea,6' 3,255,1,pitching,Active
+547973,147,2019,Aroldis Chapman,54,1988-02-28,Cuba,6' 4,212,1,pitching,Active
+547989,145,2019,Jose Abreu,79,1987-01-29,Cuba,6' 3,255,3,hitting,Active
+548389,119,2019,Ross Stripling,68,1989-11-23,USA,6' 2,220,1,pitching,Active
+552640,139,2019,Andrew Kittredge,36,1990-03-17,USA,6' 1,235,1,pitching,Active
+553869,134,2019,Elias Diaz,32,1990-11-17,Venezuela,6' 1,220,2,hitting,Active
+553878,134,2019,Felipe Vazquez,73,1991-07-05,Venezuela,6' 2,225,1,pitching,Active
+553882,136,2019,Omar Narvaez,22,1992-02-10,Venezuela,5' 11,220,2,hitting,Active
+553902,142,2019,Willians Astudillo,64,1991-10-14,Venezuela,5' 9,225,2,hitting,Active
+553993,113,2019,Eugenio Suarez,7,1991-07-18,Venezuela,5' 11,213,5,hitting,Active
+554340,119,2019,Yimi Garcia,63,1990-08-18,Dominican Republic,6' 0,225,1,pitching,Active
+554430,121,2019,Zack Wheeler,45,1990-05-30,USA,6' 4,195,1,pitching,Active
+570481,134,2019,Erik Gonzalez,2,1991-08-31,Dominican Republic,6' 3,205,6,hitting,Active
+570560,145,2019,Yolmer Sanchez,5,1992-06-29,Venezuela,5' 11,185,4,hitting,Active
+570632,146,2019,Jose Urena,62,1991-09-12,Dominican Republic,6' 2,200,1,pitching,Active
+570663,108,2019,Hansel Robles,57,1990-08-13,Dominican Republic,6' 0,220,1,pitching,Active
+570666,147,2019,Luis Cessa,85,1992-04-25,Mexico,6' 0,210,1,pitching,Active
+570731,142,2019,Jonathan Schoop,16,1991-10-16,Curacao,6' 1,225,4,hitting,Active
+571431,120,2019,Matt Adams,15,1988-08-31,USA,6' 3,245,3,hitting,Active
+571448,115,2019,Nolan Arenado,28,1991-04-16,USA,6' 2,215,5,hitting,Active
+571466,113,2019,Tucker Barnhart,16,1991-01-07,USA,5' 11,192,2,hitting,Active
+571506,108,2019,Justin Bour,41,1988-05-28,USA,6' 4,270,3,hitting,Active
+571510,116,2019,Matthew Boyd,48,1991-02-02,USA,6' 3,234,1,pitching,Active
+571578,120,2019,Patrick Corbin,46,1989-07-19,USA,6' 3,210,1,pitching,Active
+571656,116,2019,Buck Farmer,45,1991-02-20,USA,6' 4,232,1,pitching,Active
+571657,113,2019,Kyle Farmer,52,1990-08-17,USA,6' 0,214,4,hitting,Active
+571666,133,2019,Mike Fiers,50,1985-06-15,USA,6' 2,202,1,pitching,Active
+571670,119,2019,Dylan Floro,51,1990-12-27,USA,6' 2,203,1,pitching,Active
+571679,158,2019,David Freitas,20,1989-03-18,USA,6' 3,225,2,hitting,Active
+571704,141,2019,Ken Giles,51,1990-09-20,USA,6' 3,210,1,pitching,Active
+571710,110,2019,Mychal Givens,60,1990-05-13,USA,6' 0,210,1,pitching,Active
+571718,108,2019,Brian Goodwin,18,1990-11-02,USA,6' 0,200,7,hitting,Active
+571740,144,2019,Billy Hamilton,9,1990-09-09,USA,6' 0,160,8,hitting,Active
+571760,108,2019,Andrew Heaney,28,1991-06-05,USA,6' 2,200,1,pitching,Active
+571771,119,2019,Enrique Hernandez,14,1991-08-24,Puerto Rico,5' 11,192,4,hitting,Active
+571788,111,2019,Brock Holt,12,1988-06-11,USA,5' 10,180,4,hitting,Active
+571858,110,2019,Branden Kline,52,1991-09-29,USA,6' 3,210,1,pitching,Active
+571875,109,2019,Jake Lamb,22,1990-10-09,USA,6' 3,215,3,hitting,Active
+571882,141,2019,Derek Law,64,1990-09-14,USA,6' 3,215,1,pitching,Active
+571917,134,2019,Parker Markel,49,1990-09-15,USA,6' 5,240,1,pitching,Active
+571927,121,2019,Steven Matz,32,1991-05-29,USA,6' 2,200,1,pitching,Active
+571945,138,2019,Miles Mikolas,39,1988-08-23,USA,6' 5,220,1,pitching,Active
+571948,139,2019,Hoby Milner,60,1991-01-13,USA,6' 3,175,1,pitching,Active
+571976,135,2019,Wil Myers,4,1990-12-10,USA,6' 3,205,7,hitting,Active
+572008,111,2019,Chris Owings,36,1991-08-12,USA,5' 10,185,4,hitting,Active
+572020,147,2019,James Paxton,65,1988-11-06,Canada,6' 4,235,1,pitching,Active
+572021,115,2019,James Pazos,47,1991-05-05,USA,6' 2,235,1,pitching,Active
+572033,133,2019,Josh Phegley,19,1988-02-12,USA,5' 10,225,2,hitting,Active
+572041,119,2019,A.J. Pollock,11,1987-12-05,USA,6' 1,212,8,hitting,Active
+572073,137,2019,Joey Rickard,37,1991-05-21,USA,6' 1,185,9,hitting,Active
+572122,136,2019,Kyle Seager,15,1987-11-03,USA,6' 0,210,5,hitting,Active
+572143,137,,Burch Smith,61,1990-04-12,USA,6' 4,225,1,,Active
+572193,141,2019,Ryan Tepera,52,1987-11-03,USA,6' 1,195,1,pitching,Active
+572228,147,2019,Luke Voit,45,1991-02-13,USA,6' 3,225,3,hitting,Active
+572233,109,2019,Christian Walker,53,1991-03-28,USA,6' 0,220,3,hitting,Active
+572287,139,2019,Mike Zunino,10,1991-03-25,USA,6' 2,235,2,hitting,Active
+572362,135,2019,Robbie Erlin,41,1990-10-08,USA,6' 0,190,1,pitching,Active
+572365,145,2019,Ryan Goins,17,1988-02-13,USA,5' 10,180,4,hitting,Active
+572403,116,2019,Drew VerHagen,54,1990-10-22,USA,6' 6,230,1,pitching,Active
+572703,108,2019,Luke Bard,39,1990-11-13,USA,6' 3,200,1,pitching,Active
+572761,138,2019,Matt Carpenter,13,1985-11-26,USA,6' 3,205,5,hitting,Active
+572816,143,2019,Corey Dickerson,31,1989-05-22,USA,6' 1,210,7,hitting,Active
+572821,120,2019,Brian Dozier,9,1987-05-15,USA,5' 11,200,4,hitting,Active
+572888,144,2019,Shane Greene,19,1988-11-17,USA,6' 4,197,1,pitching,Active
+572971,144,2019,Dallas Keuchel,60,1988-01-01,USA,6' 3,205,1,pitching,Active
+573046,143,2019,Mike Morin,28,1991-05-03,USA,6' 4,220,1,pitching,Active
+573124,142,2019,Taylor Rogers,55,1990-12-17,USA,6' 3,190,1,pitching,Active
+573186,121,2019,Marcus Stroman,7,1991-05-01,USA,5' 7,180,1,pitching,Active
+573262,137,2019,Mike Yastrzemski,5,1990-08-23,USA,5' 11,180,7,hitting,Active
+576397,119,2019,Jedd Gyorko,26,1988-09-23,USA,5' 10,215,5,hitting,Active
+578428,113,2019,Jose Iglesias,4,1990-01-05,Cuba,5' 11,194,6,hitting,Active
+579328,136,2019,Yusei Kikuchi,18,1991-06-17,Japan,6' 0,194,1,pitching,Active
+580792,114,2019,Nick Goody,44,1991-07-06,USA,5' 11,200,1,pitching,Active
+582494,109,2019,Robby Scott,63,1989-08-29,USA,6' 3,220,1,pitching,Active
+584171,111,2019,Hector Velazquez,76,1988-11-26,Mexico,6' 0,180,1,pitching,Active
+588751,144,2019,Adeiny Hechavarria,24,1989-04-15,Cuba,6' 0,195,4,hitting,Active
+591741,134,2019,Jose Osuna,36,1992-12-12,Venezuela,6' 2,240,5,hitting,Active
+592094,141,2019,Jason Adam,48,1991-08-04,USA,6' 4,225,1,pitching,Active
+592122,158,2019,Tyler Austin,29,1991-09-06,USA,6' 2,220,3,hitting,Active
+592165,136,2019,Brandon Brennan,65,1991-07-26,USA,6' 4,220,1,pitching,Active
+592178,112,2019,Kris Bryant,17,1992-01-04,USA,6' 5,230,5,hitting,Active
+592192,133,2019,Mark Canha,20,1989-02-15,USA,6' 2,212,3,hitting,Active
+592200,113,2019,Curt Casali,12,1988-11-09,USA,6' 3,225,2,hitting,Active
+592206,112,2019,Nicholas Castellanos,6,1992-03-04,USA,6' 4,203,9,hitting,Active
+592222,158,2019,Alex Claudio,58,1992-01-31,Puerto Rico,6' 3,180,1,pitching,Active
+592233,109,2019,Stefan Crichton,58,1992-02-29,USA,6' 3,200,1,pitching,Active
+592261,140,2019,Delino DeShields,3,1992-08-16,USA,5' 9,200,8,hitting,Active
+592273,141,2019,Brandon Drury,3,1992-08-21,USA,6' 2,215,5,hitting,Active
+592280,110,2019,Ryan Eades,36,1991-12-15,USA,6' 2,210,1,pitching,Active
+592314,144,2019,Mike Foltynewicz,26,1991-10-07,USA,6' 4,200,1,pitching,Active
+592325,158,2019,Ben Gamel,16,1992-05-17,USA,5' 11,185,7,hitting,Active
+592332,113,2019,Kevin Gausman,46,1991-01-06,USA,6' 3,190,1,pitching,Active
+592346,115,2019,Chi Chi Gonzalez,50,1992-01-15,USA,6' 3,215,1,pitching,Active
+592407,146,2019,Bryan Holaday,28,1987-11-19,USA,6' 0,214,2,hitting,Active
+592426,144,2019,Luke Jackson,77,1991-08-24,USA,6' 2,210,1,pitching,Active
+592450,147,2019,Aaron Judge,99,1992-04-26,USA,6' 7,282,9,hitting,Active
+592454,147,2019,Tommy Kahnle,48,1989-08-07,USA,6' 1,235,1,pitching,Active
+592473,119,2019,Adam Kolarek,56,1989-01-14,USA,6' 3,215,1,pitching,Active
+592518,135,2019,Manny Machado,13,1992-07-06,USA,6' 3,215,6,hitting,Active
+592567,134,2019,Colin Moran,19,1992-10-01,USA,6' 4,205,5,hitting,Active
+592612,145,2019,Josh Osich,64,1988-09-03,USA,6' 3,232,1,pitching,Active
+592626,119,2019,Joc Pederson,31,1992-04-21,USA,6' 1,220,7,hitting,Active
+592644,114,2019,Adam Plutko,45,1991-10-03,USA,6' 3,215,1,pitching,Active
+592660,138,2019,Rangel Ravelo,47,1992-04-24,Cuba,6' 1,225,3,hitting,Active
+592662,109,2019,Robbie Ray,38,1991-10-01,USA,6' 2,195,1,pitching,Active
+592663,143,2019,J.T. Realmuto,10,1991-03-18,USA,6' 1,210,2,hitting,Active
+592669,135,2019,Hunter Renfroe,10,1992-01-28,USA,6' 1,220,7,hitting,Active
+592696,142,2019,Eddie Rosario,20,1991-09-28,Puerto Rico,6' 1,180,7,hitting,Active
+592716,140,2019,Adrian Sampson,52,1991-10-07,USA,6' 2,210,1,pitching,Active
+592743,108,2019,Andrelton Simmons,2,1989-09-04,Curacao,6' 2,195,6,hitting,Active
+592761,146,2019,Caleb Smith,31,1991-07-28,USA,6' 2,205,1,pitching,Active
+592767,143,2019,Drew Smyly,18,1989-06-13,USA,6' 3,190,1,pitching,Active
+592773,146,2019,Ryne Stanek,35,1991-07-26,USA,6' 4,225,1,pitching,Active
+592789,121,2019,Noah Syndergaard,34,1992-08-29,USA,6' 6,240,1,pitching,Active
+592815,136,2019,Sam Tuivailala,26,1992-10-19,USA,6' 3,225,1,pitching,Active
+592826,143,2019,Vince Velasquez,21,1992-06-07,USA,6' 3,205,1,pitching,Active
+592858,112,2019,Rowan Wick,50,1992-11-09,Canada,6' 3,235,1,pitching,Active
+592859,110,2019,Stevie Wilkerson,12,1992-01-11,USA,6' 1,195,8,hitting,Active
+592865,158,2019,Taylor Williams,54,1991-07-21,USA,5' 11,195,1,pitching,Active
+592866,134,2019,Trevor Williams,34,1992-04-25,USA,6' 3,230,1,pitching,Active
+592879,110,2019,Asher Wojciechowski,29,1988-12-21,USA,6' 4,235,1,pitching,Active
+592885,158,2019,Christian Yelich,22,1991-12-05,USA,6' 3,195,9,hitting,Active
+593140,134,2019,Michael Feliz,45,1993-06-28,Dominican Republic,6' 4,240,1,pitching,Active
+593144,134,2019,Richard Rodriguez,48,1990-03-04,Dominican Republic,6' 4,230,1,pitching,Active
+593160,118,2019,Whit Merrifield,15,1989-01-24,USA,6' 0,195,4,hitting,Active
+593334,147,2019,Domingo German,55,1992-08-04,Dominican Republic,6' 2,175,1,pitching,Active
+593372,138,2019,Carlos Martinez,18,1991-09-21,Dominican Republic,6' 0,190,1,pitching,Active
+593428,111,2019,Xander Bogaerts,2,1992-10-01,Aruba,6' 1,210,6,hitting,Active
+593523,111,2019,Marco Hernandez,40,1992-09-06,Dominican Republic,6' 0,200,5,hitting,Active
+593576,143,2019,Hector Neris,50,1989-06-14,Dominican Republic,6' 2,215,1,pitching,Active
+593643,110,2019,Hanser Alberto,57,1992-10-17,Dominican Republic,5' 11,215,4,hitting,Active
+593679,110,2019,Gabriel Ynoa,64,1993-05-26,Dominican Republic,6' 2,205,1,pitching,Active
+593833,120,2019,Wander Suero,51,1991-09-15,Dominican Republic,6' 4,211,1,pitching,Active
+593871,142,2019,Jorge Polanco,11,1993-07-05,Dominican Republic,5' 11,200,6,hitting,Active
+593934,142,2019,Miguel Sano,22,1993-05-11,Dominican Republic,6' 4,272,5,hitting,Active
+593958,111,2019,Eduardo Rodriguez,57,1993-04-07,Venezuela,6' 2,220,1,pitching,Active
+593974,113,2019,Wandy Peralta,53,1991-07-27,Dominican Republic,6' 0,220,1,pitching,Active
+594027,146,2019,Tayron Guerrero,56,1991-01-09,Colombia,6' 8,210,1,pitching,Active
+594311,137,2019,Jandel Gustave,74,1992-10-12,Dominican Republic,6' 2,210,1,pitching,Active
+594577,138,2019,Mike Mayers,59,1991-12-06,USA,6' 3,200,1,pitching,Active
+594777,108,2019,Kole Calhoun,56,1987-10-14,USA,5' 10,215,9,hitting,Active
+594798,121,2019,Jacob deGrom,48,1988-06-19,USA,6' 4,180,1,pitching,Active
+594809,120,2019,Adam Eaton,2,1988-12-06,USA,5' 9,176,9,hitting,Active
+594824,135,2019,Greg Garcia,5,1989-08-08,USA,6' 0,190,4,hitting,Active
+594835,136,2019,Marco Gonzales,7,1992-02-16,USA,6' 1,195,1,pitching,Active
+594838,143,2019,Phil Gosselin,9,1988-10-03,USA,6' 1,200,6,hitting,Active
+594965,138,2019,Daniel Ponce de Leon,62,1992-01-16,USA,6' 3,200,1,pitching,Active
+594986,112,2019,Kyle Ryan,56,1991-09-25,USA,6' 5,215,1,pitching,Active
+594987,119,2019,Casey Sadler,65,1990-07-13,USA,6' 3,205,1,pitching,Active
+595001,111,2019,Josh A. Smith,67,1987-08-07,USA,6' 2,220,1,pitching,Active
+595014,133,2019,Blake Treinen,39,1988-06-30,USA,6' 5,225,1,pitching,Active
+595281,139,2019,Kevin Kiermaier,39,1990-04-22,USA,6' 1,210,8,hitting,Active
+595284,143,2019,Andrew Knapp,15,1991-11-09,USA,6' 1,195,2,hitting,Active
+595751,146,2019,Jorge Alfaro,38,1993-06-11,Colombia,6' 2,225,2,hitting,Active
+595777,133,2019,Jurickson Profar,23,1993-02-20,Curacao,6' 0,190,4,hitting,Active
+595798,113,2019,R.J. Alaniz,32,1991-06-14,USA,6' 4,219,1,pitching,Active
+595879,112,2019,Javier Baez,9,1992-12-01,Puerto Rico,6' 0,190,6,hitting,Active
+595881,137,2019,Tyler Beede,38,1993-05-23,USA,6' 3,211,1,pitching,Active
+595909,142,2019,Jake Cave,60,1992-12-04,USA,6' 0,200,8,hitting,Active
+595956,118,2019,Cam Gallagher,36,1992-12-06,USA,6' 3,230,2,hitting,Active
+595978,135,2019,Austin Hedges,18,1992-08-18,USA,6' 1,206,2,hitting,Active
+595981,140,2019,Scott Heineman,16,1992-12-04,USA,6' 1,215,9,hitting,Active
+596001,118,2019,Jakob Junis,65,1992-09-16,USA,6' 2,225,1,pitching,Active
+596019,114,2019,Francisco Lindor,12,1993-11-14,Puerto Rico,5' 11,190,6,hitting,Active
+596035,136,2019,Reggie McClain,36,1992-11-16,USA,6' 2,180,1,pitching,Active
+596057,116,2019,Daniel Norris,44,1993-04-25,USA,6' 2,185,1,pitching,Active
+596059,140,2019,Rougned Odor,12,1994-02-03,Venezuela,5' 11,195,4,hitting,Active
+596071,108,2019,Dillon Peters,52,1992-08-31,USA,5' 11,190,1,pitching,Active
+596103,137,2019,Austin Slater,53,1992-12-13,USA,6' 2,197,7,hitting,Active
+596105,110,2019,Dwight Smith Jr,35,1992-10-26,USA,6' 0,210,7,hitting,Active
+596112,113,2019,Robert Stephenson,55,1993-02-24,USA,6' 3,215,1,pitching,Active
+596115,115,2019,Trevor Story,27,1992-11-15,USA,6' 2,214,6,hitting,Active
+596117,117,2019,Garrett Stubbs,11,1993-05-26,USA,5' 10,175,2,hitting,Active
+596129,136,2019,Daniel Vogelbach,20,1992-12-17,USA,6' 0,250,3,hitting,Active
+596142,147,2019,Gary Sanchez,24,1992-12-02,Dominican Republic,6' 2,230,2,hitting,Active
+596144,118,2019,Cheslor Cuthbert,19,1992-11-16,Nicaragua,6' 1,210,5,hitting,Active
+596146,142,2019,Max Kepler,26,1993-02-10,Germany,6' 4,220,9,hitting,Active
+596825,112,2019,Robel Garcia,16,1993-03-28,Dominican Republic,6' 0,168,4,hitting,Active
+596847,139,2019,Ji-Man Choi,26,1991-05-19,South Korea,6' 1,250,3,hitting,Active
+598264,111,2019,Matt Barnes,32,1990-06-17,USA,6' 4,210,1,pitching,Active
+598265,111,2019,Jackie Bradley Jr.,19,1990-04-19,USA,5' 10,200,8,hitting,Active
+598271,111,2019,Brian Johnson,61,1990-12-07,USA,6' 4,235,1,pitching,Active
+598286,116,2019,Nick Ramirez,63,1989-08-01,USA,6' 3,240,1,pitching,Active
+598287,108,2019,Noe Ramirez,24,1989-12-22,USA,6' 3,205,1,pitching,Active
+600466,120,2019,Raudy Read,65,1993-10-29,Dominican Republic,6' 0,170,2,hitting,Active
+600474,110,2019,Pedro Severino,28,1993-07-20,Dominican Republic,6' 1,219,2,hitting,Active
+600524,110,2019,Renato Nunez,39,1994-04-04,Venezuela,6' 1,220,5,hitting,Active
+600858,118,2019,Humberto Arteaga,2,1994-01-23,Venezuela,6' 1,160,5,hitting,Active
+600887,108,2019,Miguel Del Pozo,58,1992-10-14,Dominican Republic,6' 1,180,1,pitching,Active
+600917,140,2019,Jose Leclerc,25,1993-12-19,Dominican Republic,6' 0,190,1,pitching,Active
+602074,115,2019,Yonathan Daza,31,1994-02-28,Venezuela,6' 2,210,7,hitting,Active
+605113,109,2019,Nick Ahmed,13,1990-03-15,USA,6' 2,195,6,hitting,Active
+605130,118,2019,Scott Barlow,58,1992-12-18,USA,6' 3,215,1,pitching,Active
+605135,133,2019,Chris Bassitt,40,1989-02-22,USA,6' 5,220,1,pitching,Active
+605137,134,2019,Josh Bell,55,1992-08-14,USA,6' 4,240,3,hitting,Active
+605141,111,2019,Mookie Betts,50,1992-10-07,USA,5' 9,180,9,hitting,Active
+605143,158,2019,Ray Black,50,1990-06-26,USA,6' 5,225,1,pitching,Active
+605151,109,2019,Archie Bradley,25,1992-08-10,USA,6' 4,225,1,pitching,Active
+605154,138,2019,John Brebbia,60,1990-05-30,USA,6' 1,185,1,pitching,Active
+605156,110,2019,Aaron Brooks,38,1990-04-27,USA,6' 4,230,1,pitching,Active
+605164,110,2019,Dylan Bundy,37,1992-11-15,USA,6' 1,200,1,pitching,Active
+605170,112,2019,Victor Caratini,7,1993-08-17,Puerto Rico,6' 1,215,2,hitting,Active
+605177,109,2019,Andrew Chafin,40,1990-06-17,USA,6' 2,225,1,pitching,Active
+605182,114,2019,Mike Clevinger,52,1990-12-21,USA,6' 4,215,1,pitching,Active
+605195,134,2019,Kyle Crick,30,1992-11-30,USA,6' 4,220,1,pitching,Active
+605196,109,2019,Kevin Cron,32,1993-02-17,USA,6' 5,250,3,hitting,Active
+605200,158,2019,Zach Davies,27,1993-02-07,USA,6' 0,155,1,pitching,Active
+605204,121,2019,J.D. Davis,28,1993-04-27,USA,6' 3,225,5,hitting,Active
+605233,141,2019,Derek Fisher,20,1993-08-21,USA,6' 3,205,9,hitting,Active
+605240,145,2019,Jace Fry,57,1993-07-09,USA,6' 1,190,1,pitching,Active
+605244,137,2019,Aramis Garcia,16,1993-01-12,USA,6' 2,220,2,hitting,Active
+605260,140,2019,Taylor Guerrieri,46,1992-12-01,USA,6' 2,210,1,pitching,Active
+605280,134,2019,Clay Holmes,52,1993-03-27,USA,6' 5,225,1,pitching,Active
+605288,158,2019,Adrian Houser,37,1993-02-02,USA,6' 4,235,1,pitching,Active
+605309,134,2019,Keone Kela,35,1993-04-16,USA,6' 1,210,1,pitching,Active
+605347,118,2019,Jorge Lopez,28,1993-02-10,Puerto Rico,6' 3,195,1,pitching,Active
+605359,145,2019,Evan Marshall,43,1990-04-18,USA,6' 2,225,1,pitching,Active
+605361,135,2019,Nick Martini,2,1990-06-27,USA,5' 11,205,7,hitting,Active
+605397,134,2019,Joe Musgrove,59,1992-12-04,USA,6' 5,230,1,pitching,Active
+605400,143,2019,Aaron Nola,27,1993-06-04,USA,6' 2,195,1,pitching,Active
+605412,121,2019,Joe Panik,2,1990-10-30,USA,6' 1,200,4,hitting,Active
+605421,139,2019,Michael Perez,7,1992-08-07,Puerto Rico,5' 10,195,2,hitting,Active
+605446,137,2019,Dereck Rodriguez,57,1992-06-05,USA,6' 1,215,1,pitching,Active
+605447,141,2019,Jordan Romano,68,1993-04-21,Canada,6' 4,200,1,pitching,Active
+605452,120,2019,Joe Ross,41,1993-05-21,USA,6' 4,220,1,pitching,Active
+605474,145,2019,Matt Skole,32,1989-07-30,USA,6' 4,220,3,hitting,Active
+605480,136,2019,Mallex Smith,0,1993-05-06,USA,5' 10,180,8,hitting,Active
+605482,117,2019,Cy Sneed,67,1992-10-01,USA,6' 4,215,1,pitching,Active
+605486,158,2019,Cory Spangenberg,5,1991-03-16,USA,6' 0,195,5,hitting,Active
+605488,140,2019,Jeffrey Springs,54,1992-09-20,USA,6' 3,180,1,pitching,Active
+605490,118,2019,Bubba Starling,11,1992-08-03,USA,6' 4,215,8,hitting,Active
+605498,137,2019,Andrew Suarez,59,1992-09-11,USA,6' 0,187,1,pitching,Active
+605513,116,2019,Spencer Turnbull,56,1992-09-18,USA,6' 3,215,1,pitching,Active
+605538,136,2019,Matt Wisler,44,1992-09-12,USA,6' 3,215,1,pitching,Active
+605612,116,2019,Harold Castro,30,1993-11-30,Venezuela,6' 0,180,5,hitting,Active
+606115,158,2019,Orlando Arcia,3,1994-08-04,Venezuela,6' 0,165,6,hitting,Active
+606131,135,2019,Luis Perdomo,61,1993-05-09,Dominican Republic,6' 2,185,1,pitching,Active
+606149,138,2019,Giovanny Gallegos,65,1991-08-14,Mexico,6' 2,210,1,pitching,Active
+606157,113,2019,Aristides Aquino,44,1994-04-22,Dominican Republic,6' 4,220,9,hitting,Active
+606160,140,2019,Rafael Montero,48,1990-10-17,Dominican Republic,6' 0,185,1,pitching,Active
+606167,108,2019,Adalberto Mejia,49,1993-06-20,Dominican Republic,6' 3,195,1,pitching,Active
+606192,141,2019,Teoscar Hernandez,37,1992-10-15,Dominican Republic,6' 2,205,7,hitting,Active
+606273,120,2019,Roenis Elias,29,1988-08-01,Cuba,6' 1,205,1,pitching,Active
+606424,146,2019,Jarlin Garcia,66,1993-01-18,Dominican Republic,6' 3,215,1,pitching,Active
+606466,109,2019,Ketel Marte,4,1993-10-12,Dominican Republic,6' 1,165,8,hitting,Active
+606625,137,2019,Reyes Moronta,54,1993-01-06,Dominican Republic,5' 11,241,1,pitching,Active
+606930,118,2019,Jacob Barnes,50,1990-04-14,USA,6' 2,220,1,pitching,Active
+606956,136,2019,Ryan Court,12,1988-05-28,USA,6' 2,210,6,hitting,Active
+606965,117,2019,Chris Devenski,47,1990-11-13,USA,6' 3,210,1,pitching,Active
+606992,114,2019,Eric Haase,38,1992-12-18,USA,5' 10,210,2,hitting,Active
+607043,121,2019,Brandon Nimmo,9,1993-03-27,USA,6' 3,207,8,hitting,Active
+607054,110,2019,Jace Peterson,23,1990-05-09,USA,6' 0,215,5,hitting,Active
+607188,158,2019,Jake Faria,36,1993-07-30,USA,6' 4,225,1,pitching,Active
+607200,120,2019,Erick Fedde,23,1993-02-25,USA,6' 4,195,1,pitching,Active
+607208,120,2019,Trea Turner,7,1993-06-30,USA,6' 2,185,6,hitting,Active
+607215,118,2019,Eric Skoglund,53,1992-10-26,USA,6' 7,210,1,pitching,Active
+607219,113,2019,Sal Romano,47,1993-10-12,USA,6' 5,255,1,pitching,Active
+607231,138,2019,John Gant,53,1992-08-06,USA,6' 3,200,1,pitching,Active
+607237,113,2019,Amir Garrett,50,1992-05-03,USA,6' 5,228,1,pitching,Active
+607333,141,,Beau Taylor,72,1990-02-13,USA,5' 11,205,2,,Active
+607345,108,2019,Kevan Smith,44,1988-06-28,USA,6' 4,240,2,hitting,Active
+607352,117,2019,Joe Biagini,29,1990-05-29,USA,6' 5,235,1,pitching,Active
+607455,139,,Anthony Banda,53,1993-08-10,USA,6' 2,225,1,,Active
+607457,137,2019,Kyle Barraclough,45,1990-05-23,USA,6' 3,225,1,pitching,Active
+607461,119,2019,Matt Beaty,45,1993-04-28,USA,6' 0,215,3,hitting,Active
+607468,113,2019,Alex Blandino,2,1992-11-06,USA,6' 0,190,4,hitting,Active
+607481,145,2019,Aaron Bummer,39,1993-09-21,USA,6' 3,200,1,pitching,Active
+607555,136,2019,Taylor Guilbeau,45,1993-05-12,USA,6' 4,180,1,pitching,Active
+607572,115,2019,Sam Howard,61,1993-03-05,USA,6' 3,170,1,pitching,Active
+607625,121,2019,Seth Lugo,67,1989-11-17,USA,6' 4,225,1,pitching,Active
+607644,110,2019,John Means,67,1993-04-24,USA,6' 3,230,1,pitching,Active
+607680,137,2019,Kevin Pillar,1,1989-01-04,USA,6' 0,210,8,hitting,Active
+607732,134,2019,Jacob Stallings,58,1989-12-22,USA,6' 4,220,2,hitting,Active
+607752,111,2019,Sam Travis,59,1993-08-27,USA,6' 0,205,3,hitting,Active
+608032,115,2019,Carlos Estevez,54,1992-12-28,Dominican Republic,6' 6,275,1,pitching,Active
+608324,117,2019,Alex Bregman,2,1994-03-30,USA,6' 0,180,5,hitting,Active
+608331,144,2019,Max Fried,54,1994-01-18,USA,6' 4,190,1,pitching,Active
+608334,145,2019,Carson Fulmer,51,1993-12-13,USA,6' 0,195,1,pitching,Active
+608337,145,2019,Lucas Giolito,27,1994-07-14,USA,6' 6,245,1,pitching,Active
+608344,143,2019,Cole Irvin,47,1994-01-31,USA,6' 4,180,1,pitching,Active
+608348,109,2019,Carson Kelly,18,1994-07-14,USA,6' 2,220,2,hitting,Active
+608365,112,2019,Addison Russell,27,1994-01-23,USA,6' 0,200,4,hitting,Active
+608369,119,2019,Corey Seager,5,1994-04-27,USA,6' 4,215,6,hitting,Active
+608371,113,2019,Lucas Sims,39,1994-05-10,USA,6' 2,225,1,pitching,Active
+608379,138,2019,Michael Wacha,52,1991-07-01,USA,6' 6,215,1,pitching,Active
+608384,143,2019,Nick Williams,5,1993-09-08,USA,6' 3,195,7,hitting,Active
+608475,116,2019,Dawel Lugo,18,1994-12-31,Dominican Republic,6' 0,220,5,hitting,Active
+608577,140,2019,Nomar Mazara,30,1995-04-26,Dominican Republic,6' 4,215,9,hitting,Active
+608596,136,2019,Tom Murphy,2,1991-04-03,USA,6' 1,218,2,hitting,Active
+608597,140,2019,Ronald Guzman,11,1994-10-20,Dominican Republic,6' 5,225,3,hitting,Active
+608648,142,2019,Tyler Duffey,21,1990-12-27,USA,6' 3,220,1,pitching,Active
+608652,140,2019,Luke Farrell,60,1991-06-07,USA,6' 6,210,1,pitching,Active
+608671,135,2019,Travis Jankowski,16,1991-06-15,USA,6' 2,185,9,hitting,Active
+608678,138,2019,Dominic Leone,55,1991-10-26,USA,5' 11,210,1,pitching,Active
+608700,114,2019,Kevin Plawecki,27,1991-02-26,USA,6' 2,220,2,hitting,Active
+608718,158,2019,Brent Suter,35,1989-08-29,USA,6' 5,195,1,pitching,Active
+608723,120,2019,Austin Voth,50,1992-06-26,USA,6' 2,201,1,pitching,Active
+609275,118,2019,Adalberto Mondesi,27,1995-07-27,USA,6' 1,190,6,hitting,Active
+612434,110,2019,Miguel Castro,50,1994-12-24,Dominican Republic,6' 7,205,1,pitching,Active
+612672,146,2019,Wei-Yin Chen,20,1985-07-21,Taiwan,6' 0,200,1,pitching,Active
+613534,136,2019,Austin Adams,63,1991-05-05,USA,6' 3,225,1,pitching,Active
+614177,114,2019,Franmil Reyes,32,1995-07-07,Dominican Republic,6' 5,275,9,hitting,Active
+615698,135,2019,Cal Quantrill,40,1995-02-10,Canada,6' 3,208,1,pitching,Active
+620439,133,2019,Franklin Barreto,1,1996-02-27,Venezuela,5' 10,200,4,hitting,Active
+620453,143,,Deivy Grullon,73,1996-02-17,Dominican Republic,6' 1,180,2,,Active
+620982,139,2019,Ricardo Pinto,67,1994-01-20,Venezuela,6' 0,195,1,pitching,Active
+621002,139,2019,Daniel Robertson,28,1994-03-22,USA,5' 11,200,5,hitting,Active
+621005,136,2019,Tim Lopes,10,1994-06-24,USA,5' 11,180,4,hitting,Active
+621006,110,2019,Richie Martin,1,1994-12-22,USA,5' 11,190,6,hitting,Active
+621020,144,2019,Dansby Swanson,7,1994-02-11,USA,6' 1,190,6,hitting,Active
+621028,134,2019,Kevin Newman,27,1993-08-04,USA,6' 0,195,6,hitting,Active
+621035,119,2019,Chris Taylor,3,1990-08-29,USA,6' 1,196,7,hitting,Active
+621056,114,2019,Hunter Wood,54,1993-08-12,USA,6' 1,175,1,pitching,Active
+621097,141,2019,Jacob Waguespack,62,1993-11-05,USA,6' 6,235,1,pitching,Active
+621107,143,2019,Zach Eflin,56,1994-04-08,USA,6' 6,215,1,pitching,Active
+621111,119,2019,Walker Buehler,21,1994-07-28,USA,6' 2,185,1,pitching,Active
+621112,133,2019,Paul Blackburn,58,1993-12-04,USA,6' 1,200,1,pitching,Active
+621141,121,2019,Walker Lockett,61,1994-05-03,USA,6' 5,225,1,pitching,Active
+621142,108,2019,Ty Buttrey,31,1993-03-31,USA,6' 6,240,1,pitching,Active
+621199,113,2019,Matt Bowman,67,1991-05-31,USA,6' 0,185,1,pitching,Active
+621219,112,2019,Alec Mills,30,1991-11-30,USA,6' 4,190,1,pitching,Active
+621242,121,2019,Edwin Diaz,39,1994-03-22,Puerto Rico,6' 3,165,1,pitching,Active
+621244,142,2019,Jose Berrios,17,1994-05-27,Puerto Rico,6' 0,205,1,pitching,Active
+621249,112,2019,Duane Underwood Jr.,51,1994-07-20,USA,6' 2,210,1,pitching,Active
+621295,114,2019,Nick Wittgren,62,1991-05-29,USA,6' 2,216,1,pitching,Active
+621363,139,2019,Colin Poche,38,1994-01-17,USA,6' 3,235,1,pitching,Active
+621381,135,2019,Matt Strahm,55,1991-11-12,USA,6' 3,185,1,pitching,Active
+621433,118,2019,Brett Phillips,14,1994-05-30,USA,6' 0,185,9,hitting,Active
+621439,142,2019,Byron Buxton,25,1993-12-18,USA,6' 2,190,8,hitting,Active
+621446,146,2019,Lewis Brinson,9,1994-05-08,USA,6' 3,195,8,hitting,Active
+621466,110,2019,DJ Stewart,24,1993-11-30,USA,6' 0,230,9,hitting,Active
+621493,108,2019,Taylor Ward,3,1993-12-14,USA,6' 1,200,5,hitting,Active
+621512,121,2019,Tomas Nido,3,1994-04-12,Puerto Rico,6' 0,210,2,hitting,Active
+621529,138,,Joe Hudson,68,1991-05-21,USA,6' 0,210,2,,Active
+621563,139,2019,Joey Wendle,18,1990-04-26,USA,6' 1,200,4,hitting,Active
+621566,133,2019,Matt Olson,28,1994-03-29,USA,6' 5,230,3,hitting,Active
+621573,146,2019,Austin Dean,44,1993-10-14,USA,6' 1,190,7,hitting,Active
+622046,137,2019,Chris Shaw,26,1993-10-20,USA,6' 3,226,7,hitting,Active
+622065,109,2019,Alex Young,49,1993-09-09,USA,6' 2,205,1,pitching,Active
+622072,113,2019,Alex Wood,40,1991-01-12,USA,6' 4,215,1,pitching,Active
+622075,115,2019,Yency Almonte,62,1994-06-04,USA,6' 5,217,1,pitching,Active
+622092,118,2019,Kyle Zimmer,45,1991-09-13,USA,6' 3,225,1,pitching,Active
+622110,139,2019,Matt Duffy,5,1991-01-15,USA,6' 2,190,5,hitting,Active
+622168,138,2019,Yairo Munoz,34,1995-01-23,Dominican Republic,6' 1,201,4,hitting,Active
+622250,119,2019,Josh Sborz,76,1993-12-17,USA,6' 3,215,1,pitching,Active
+622251,118,2019,Josh Staumont,63,1993-12-21,USA,6' 3,200,1,pitching,Active
+622253,110,2019,Dillon Tate,55,1994-05-01,USA,6' 2,195,1,pitching,Active
+622491,113,2019,Luis Castillo,58,1992-12-12,Dominican Republic,6' 2,190,1,pitching,Active
+622534,135,2019,Manuel Margot,7,1994-09-28,Dominican Republic,5' 11,180,8,hitting,Active
+622569,134,2019,Pablo Reyes,15,1993-09-05,Dominican Republic,5' 8,175,7,hitting,Active
+622608,115,2019,Antonio Senzatela,49,1995-01-21,Venezuela,6' 1,246,1,pitching,Active
+622666,144,2019,Johan Camargo,17,1993-12-13,Panama,6' 0,195,5,hitting,Active
+622682,116,2019,Victor Reyes,22,1994-10-05,Venezuela,6' 5,215,7,hitting,Active
+622694,146,2019,Elieser Hernandez,57,1995-05-03,Venezuela,6' 0,210,1,pitching,Active
+622772,145,2019,Jimmy Cordero,60,1991-10-19,Dominican Republic,6' 4,222,1,pitching,Active
+622786,115,2019,Jesus Tinoco,32,1995-04-30,Venezuela,6' 4,263,1,pitching,Active
+623149,121,2019,Paul Sewald,51,1990-05-26,USA,6' 3,207,1,pitching,Active
+623323,136,2019,Braden Bishop,5,1993-08-22,USA,6' 1,190,8,hitting,Active
+623352,158,2019,Josh Hader,71,1994-04-07,USA,6' 3,185,1,pitching,Active
+623354,121,2019,Daniel Zamora,73,1993-04-15,USA,6' 3,195,1,pitching,Active
+623364,112,2019,Brad Wieck,38,1991-10-14,USA,6' 9,255,1,pitching,Active
+623381,141,2019,Thomas Pannone,45,1994-04-28,USA,6' 0,200,1,pitching,Active
+623430,147,2019,Ryan Dull,73,1989-10-02,USA,5' 9,185,1,pitching,Active
+623433,139,2019,Nick Anderson,70,1990-07-05,USA,6' 5,195,1,pitching,Active
+623912,146,2019,Harold Ramirez,47,1994-09-06,Colombia,5' 10,220,8,hitting,Active
+623993,110,2019,Anthony Santander,25,1994-10-19,Venezuela,6' 2,190,7,hitting,Active
+624133,143,2019,Ranger Suarez,55,1995-08-26,Venezuela,6' 1,180,1,pitching,Active
+624413,121,2019,Pete Alonso,20,1994-12-07,USA,6' 3,245,3,hitting,Active
+624415,141,2019,Cavan Biggio,8,1995-04-11,USA,6' 2,200,4,hitting,Active
+624424,121,2019,Michael Conforto,30,1993-03-01,USA,6' 1,215,9,hitting,Active
+624428,134,2019,Adam Frazier,26,1991-12-14,USA,5' 10,180,4,hitting,Active
+624431,140,2019,Jose Trevino,56,1992-11-28,USA,5' 11,211,2,hitting,Active
+624512,141,2019,Reese McGuire,10,1995-03-02,USA,6' 0,215,2,hitting,Active
+624513,115,2019,Dom Nunez,58,1995-01-17,USA,6' 0,175,2,hitting,Active
+624577,114,2019,Yasiel Puig,66,1990-12-07,Cuba,6' 2,240,9,hitting,Active
+624585,118,2019,Jorge Soler,12,1992-02-25,Cuba,6' 4,230,9,hitting,Active
+624586,114,2019,James Hoyt,50,1986-09-30,USA,6' 6,230,1,pitching,Active
+624641,138,2019,Edmundo Sosa,63,1996-03-06,Panama,5' 11,170,6,hitting,Active
+625643,145,2019,Reynaldo Lopez,40,1994-01-04,Dominican Republic,6' 1,200,1,pitching,Active
+626929,142,2019,Lewis Thorpe,43,1995-11-23,Australia,6' 1,218,1,pitching,Active
+628317,119,2019,Kenta Maeda,18,1988-04-11,Japan,6' 1,184,1,pitching,Active
+628452,113,2019,Raisel Iglesias,26,1990-01-04,Cuba,6' 2,188,1,pitching,Active
+628711,119,2019,Julio Urias,7,1996-08-12,Mexico,6' 0,225,1,pitching,Active
+640447,113,2019,Phillip Ervin,6,1992-07-15,USA,5' 10,207,9,hitting,Active
+640449,147,2019,Clint Frazier,77,1994-09-06,USA,6' 1,190,9,hitting,Active
+640451,110,2019,Hunter Harvey,56,1994-12-09,USA,6' 3,175,1,pitching,Active
+640455,133,2019,Sean Manaea,55,1992-02-01,USA,6' 5,245,1,pitching,Active
+640457,139,2019,Austin Meadows,17,1995-05-03,USA,6' 3,220,9,hitting,Active
+640458,114,2019,Oscar Mercado,35,1994-12-16,USA,6' 2,197,9,hitting,Active
+640461,133,2019,Chad Pinder,18,1992-03-29,USA,6' 2,207,7,hitting,Active
+640462,133,2019,A.J. Puk,31,1995-04-25,USA,6' 7,238,1,pitching,Active
+640464,142,2019,Kohl Stewart,53,1994-10-07,USA,6' 3,195,1,pitching,Active
+640470,112,2019,Adbert Alzolay,73,1995-03-01,Venezuela,6' 0,179,1,pitching,Active
+641149,115,2019,Wes Parsons,18,1992-09-06,USA,6' 5,204,1,pitching,Active
+641154,146,2019,Pablo Lopez,49,1996-03-07,Venezuela,6' 3,200,1,pitching,Active
+641312,137,2019,Shaun Anderson,64,1994-10-29,USA,6' 4,225,1,pitching,Active
+641313,145,2019,Tim Anderson,7,1993-06-23,USA,6' 1,185,6,hitting,Active
+641341,121,2019,Tyler Bashlor,49,1993-04-16,USA,6' 0,195,1,pitching,Active
+641343,114,2019,Jake Bauers,10,1995-10-06,USA,6' 1,195,7,hitting,Active
+641355,119,2019,Cody Bellinger,35,1995-07-13,USA,6' 4,203,9,hitting,Active
+641432,140,2019,Willie Calhoun,5,1994-11-04,USA,5' 8,187,7,hitting,Active
+641477,145,2019,Ryan Cordell,49,1992-03-31,USA,6' 4,195,9,hitting,Active
+641482,147,2019,Nestor Cortes Jr.,67,1994-12-10,Cuba,5' 11,210,1,pitching,Active
+641487,136,2019,J.P. Crawford,3,1995-01-11,USA,6' 2,180,6,hitting,Active
+641513,116,2019,Travis Demeritte,50,1994-09-30,USA,6' 0,180,7,hitting,Active
+641525,116,2019,Brandon Dixon,12,1992-01-29,USA,6' 2,215,3,hitting,Active
+641531,118,2019,Hunter Dozier,17,1991-08-22,USA,6' 4,220,5,hitting,Active
+641541,109,2019,Jon Duplantier,57,1994-07-11,USA,6' 4,225,1,pitching,Active
+641553,145,2019,Adam Engel,15,1991-12-09,USA,6' 2,210,8,hitting,Active
+641571,118,2019,Heath Fillmyer,49,1994-05-16,USA,6' 1,195,1,pitching,Active
+641584,136,2019,Jake Fraley,8,1995-05-25,USA,6' 0,195,8,hitting,Active
+641598,142,2019,Mitch Garver,18,1991-01-15,USA,6' 1,220,2,hitting,Active
+641645,121,2019,Luis Guillorme,13,1994-09-27,USA,5' 10,195,6,hitting,Active
+641658,115,2019,Garrett Hampson,1,1994-10-10,USA,5' 11,188,4,hitting,Active
+641684,108,2019,Michael Hermosillo,21,1995-01-17,USA,6' 0,205,8,hitting,Active
+641712,138,2019,Dakota Hudson,43,1994-09-15,USA,6' 5,215,1,pitching,Active
+641729,116,2019,Joe Jimenez,77,1995-01-17,Puerto Rico,6' 3,272,1,pitching,Active
+641745,118,2019,Brad Keller,56,1995-07-27,USA,6' 5,230,1,pitching,Active
+641755,146,2019,Tyler Kinley,39,1991-01-31,USA,6' 4,205,1,pitching,Active
+641778,135,2019,Eric Lauer,46,1995-06-03,USA,6' 3,205,1,pitching,Active
+641793,142,2019,Zack Littell,52,1995-10-05,USA,6' 4,220,1,pitching,Active
+641796,109,2019,Tim Locastro,16,1992-07-14,USA,6' 1,200,7,hitting,Active
+641816,113,2019,Tyler Mahle,30,1994-09-29,USA,6' 3,210,1,pitching,Active
+641820,110,2019,Trey Mancini,16,1992-03-18,USA,6' 4,215,9,hitting,Active
+641835,141,2019,Tim Mayza,58,1992-01-15,USA,6' 3,220,1,pitching,Active
+641838,118,2019,Kevin McCarthy,61,1992-02-22,USA,6' 3,215,1,pitching,Active
+641853,116,2019,David McKay,62,1995-03-31,USA,6' 3,205,1,pitching,Active
+641856,141,2019,Billy McKinney,28,1994-08-23,USA,6' 1,205,7,hitting,Active
+641857,115,2019,Ryan McMahon,24,1994-12-14,USA,6' 2,208,4,hitting,Active
+641871,108,2019,Keynan Middleton,99,1993-09-12,USA,6' 3,215,1,pitching,Active
+641878,142,,Ian Miller,41,1992-02-21,USA,6' 0,175,8,,Active
+641914,133,2019,Sheldon Neuse,64,1994-12-10,USA,6' 0,218,5,hitting,Active
+641933,138,2019,Tyler O'Neill,41,1995-06-22,Canada,5' 11,210,7,hitting,Active
+641941,139,2019,Emilio Pagan,15,1991-05-07,USA,6' 3,205,1,pitching,Active
+642073,109,2019,Jimmie Sherfy,54,1991-12-27,USA,6' 0,175,1,pitching,Active
+642082,110,2019,Chance Sisco,15,1995-02-24,USA,6' 2,195,2,hitting,Active
+642098,118,2019,Glenn Sparkman,57,1992-05-11,USA,6' 2,210,1,pitching,Active
+642121,139,,Cole Sulser,71,1990-03-12,USA,6' 1,190,1,,Active
+642133,141,2019,Rowdy Tellez,44,1995-03-16,USA,6' 4,255,3,hitting,Active
+642136,108,2019,Matt Thaiss,23,1995-05-06,USA,6' 0,215,3,hitting,Active
+642152,133,2019,Lou Trivino,62,1991-10-01,USA,6' 5,240,1,pitching,Active
+642162,115,2019,Pat Valaika,4,1992-09-09,USA,5' 11,208,5,hitting,Active
+642165,113,2019,Josh VanMeter,17,1995-03-10,USA,5' 11,165,7,hitting,Active
+642180,147,2019,Tyler Wade,14,1994-11-23,USA,6' 1,185,6,hitting,Active
+642232,139,2019,Ryan Yarbrough,48,1991-12-31,USA,6' 5,210,1,pitching,Active
+642397,116,2019,Gregory Soto,65,1995-02-11,Dominican Republic,6' 1,240,1,pitching,Active
+642528,147,2019,Jonathan Loaisiga,43,1994-11-02,Nicaragua,5' 11,165,1,pitching,Active
+642545,108,2019,Jaime Barria,51,1996-07-18,Panama,6' 1,210,1,pitching,Active
+642546,140,2019,Jonathan Hernandez,72,1996-07-06,USA,6' 2,175,1,pitching,Active
+642547,158,2019,Freddy Peralta,51,1996-06-04,Dominican Republic,5' 11,175,1,pitching,Active
+642558,140,2019,Ariel Jurado,57,1996-01-30,Panama,6' 1,180,1,pitching,Active
+642578,108,2019,Jose Rodriguez,63,1995-08-29,Venezuela,6' 2,175,1,pitching,Active
+642607,134,2019,Dario Agrazal,67,1994-12-28,Panama,6' 2,240,1,pitching,Active
+642708,121,2019,Amed Rosario,1,1995-11-20,Dominican Republic,6' 2,189,6,hitting,Active
+642715,139,2019,Willy Adames,1,1995-09-02,Dominican Republic,6' 0,205,6,hitting,Active
+642770,135,2019,Javy Guerra,8,1995-09-25,Panama,5' 11,155,1,pitching,Active
+643217,111,2019,Andrew Benintendi,16,1994-07-06,USA,5' 10,170,7,hitting,Active
+643230,134,2019,Steven Brault,43,1992-04-29,USA,6' 0,195,1,pitching,Active
+643256,114,2019,Adam Cimber,90,1990-08-15,USA,6' 4,195,1,pitching,Active
+643265,146,2019,Garrett Cooper,26,1990-12-25,USA,6' 6,230,9,hitting,Active
+643289,137,2019,Mauricio Dubon,19,1994-07-19,Honduras,6' 0,160,6,hitting,Active
+643316,110,2019,Paul Fry,51,1992-07-26,USA,6' 0,190,1,pitching,Active
+643327,141,2019,Zack Godley,46,1990-04-21,USA,6' 3,240,1,pitching,Active
+643338,147,2019,Chad Green,57,1991-05-24,USA,6' 3,210,1,pitching,Active
+643376,141,2019,Danny Jansen,9,1995-04-15,USA,6' 2,230,2,hitting,Active
+643393,112,2019,Tony Kemp,4,1991-10-31,USA,5' 6,165,8,hitting,Active
+643396,140,2019,Isiah Kiner-Falefa,9,1995-03-23,USA,5' 10,176,5,hitting,Active
+643446,121,2019,Jeff McNeil,6,1992-04-08,USA,6' 1,195,7,hitting,Active
+643493,139,2019,Austin Pruitt,45,1989-08-31,USA,5' 10,185,1,pitching,Active
+643511,137,2019,Tyler Rogers,71,1990-12-17,USA,6' 5,187,1,pitching,Active
+643565,147,2019,Mike Tauchman,39,1990-12-03,USA,6' 2,220,8,hitting,Active
+643778,138,2019,Tyler Webb,30,1990-07-20,USA,6' 5,230,1,pitching,Active
+644374,114,2019,Yu Chang,2,1995-08-18,Taiwan,6' 1,180,6,hitting,Active
+645261,146,2019,Sandy Alcantara,22,1995-09-07,Dominican Republic,6' 4,170,1,pitching,Active
+645277,144,2019,Ozzie Albies,1,1997-01-07,Curacao,5' 8,165,4,hitting,Active
+645302,120,2019,Victor Robles,16,1997-05-19,Dominican Republic,6' 0,190,8,hitting,Active
+645801,147,2019,Mike Ford,36,1992-07-04,USA,6' 0,225,3,hitting,Active
+646240,111,2019,Rafael Devers,11,1996-10-24,Dominican Republic,6' 0,237,5,hitting,Active
+647304,135,2019,Josh Naylor,22,1997-06-22,Canada,5' 11,250,9,hitting,Active
+647336,144,2019,Mike Soroka,40,1997-08-04,Canada,6' 5,225,1,pitching,Active
+647351,117,2019,Abraham Toro,13,1996-12-20,Canada,6' 1,190,5,hitting,Active
+649557,117,2019,Aledmys Diaz,16,1990-08-01,Cuba,6' 1,195,4,hitting,Active
+649966,135,2019,Luis Urias,9,1997-06-03,Mexico,5' 9,185,4,hitting,Active
+650333,142,2019,Luis Arraez,2,1997-04-09,Venezuela,5' 10,177,4,hitting,Active
+650382,111,2019,Darwinzon Hernandez,63,1996-12-17,Venezuela,6' 2,245,1,pitching,Active
+650391,145,2019,Eloy Jimenez,74,1996-11-27,Dominican Republic,6' 4,205,7,hitting,Active
+650402,147,2019,Gleyber Torres,25,1996-12-13,Venezuela,6' 1,200,6,hitting,Active
+650489,116,2019,Willi Castro,49,1997-04-24,Puerto Rico,6' 1,205,6,hitting,Active
+650530,116,2019,Bryan Garcia,33,1995-04-19,USA,6' 1,203,1,pitching,Active
+650619,118,2019,Meibrys Viloria,72,1997-02-15,Colombia,5' 11,220,2,hitting,Active
+650644,114,2019,Aaron Civale,67,1995-06-12,USA,6' 2,215,1,pitching,Active
+650859,108,2019,Luis Rengifo,4,1997-02-26,Venezuela,5' 10,195,4,hitting,Active
+650893,138,2019,Genesis Cabrera,61,1996-10-10,Dominican Republic,6' 2,190,1,pitching,Active
+650895,139,2019,Diego Castillo,63,1994-01-18,Dominican Republic,6' 3,250,1,pitching,Active
+656185,114,2019,Greg Allen,1,1993-03-15,USA,6' 0,185,7,hitting,Active
+656186,136,2019,Dan Altavilla,53,1992-09-08,USA,5' 11,200,1,pitching,Active
+656222,139,2019,Jalen Beeks,68,1993-07-10,USA,5' 11,200,1,pitching,Active
+656257,146,2019,Jeff Brigham,43,1992-02-16,USA,6' 0,200,1,pitching,Active
+656271,140,2019,Brock Burke,70,1996-08-04,USA,6' 4,180,1,pitching,Active
+656302,145,2019,Dylan Cease,84,1995-12-28,USA,6' 2,190,1,pitching,Active
+656305,133,2019,Matt Chapman,26,1993-04-28,USA,6' 0,220,5,hitting,Active
+656322,137,2019,Sam Coonrod,65,1992-09-22,USA,6' 2,225,1,pitching,Active
+656354,143,2019,Austin Davis,54,1993-02-03,USA,6' 4,245,1,pitching,Active
+656371,146,2019,Isan Diaz,1,1996-05-27,Puerto Rico,5' 10,185,4,hitting,Active
+656427,138,2019,Jack Flaherty,22,1995-10-15,USA,6' 4,205,1,pitching,Active
+656464,109,2019,Kevin Ginkel,37,1994-03-24,USA,6' 4,210,1,pitching,Active
+656514,143,2019,Adam Haseley,40,1996-04-12,USA,6' 1,195,8,hitting,Active
+656541,115,2019,Sam Hilliard,43,1994-02-21,USA,6' 5,238,9,hitting,Active
+656546,115,2019,Jeff Hoffman,34,1993-01-08,USA,6' 5,227,1,pitching,Active
+656555,143,2019,Rhys Hoskins,17,1993-03-17,USA,6' 4,225,3,hitting,Active
+656605,134,2019,Mitch Keller,23,1996-04-04,USA,6' 2,210,1,pitching,Active
+656669,114,2019,Jordan Luplow,8,1993-09-26,USA,6' 1,195,9,hitting,Active
+656685,140,2019,Brett Martin,59,1995-04-28,USA,6' 4,190,1,pitching,Active
+656794,144,2019,Sean Newcomb,15,1993-06-12,USA,6' 5,255,1,pitching,Active
+656811,118,2019,Ryan O'Hearn,66,1993-07-26,USA,6' 3,200,3,hitting,Active
+656941,112,2019,Kyle Schwarber,12,1993-03-05,USA,6' 0,235,7,hitting,Active
+656945,110,2019,Tanner Scott,66,1994-07-22,USA,6' 2,220,1,pitching,Active
+656954,136,2019,Justus Sheffield,33,1996-05-13,USA,6' 0,200,1,pitching,Active
+656970,142,2019,Devin Smeltzer,31,1995-09-07,USA,6' 3,195,1,pitching,Active
+656977,144,2019,Chad Sobotka,61,1993-07-10,USA,6' 7,225,1,pitching,Active
+657024,136,2019,Erik Swanson,50,1993-09-04,USA,6' 3,235,1,pitching,Active
+657031,111,2019,Josh Taylor,72,1993-03-02,USA,6' 5,225,1,pitching,Active
+657228,108,2019,Jake Jewell,65,1993-05-16,USA,6' 3,200,1,pitching,Active
+657277,137,2019,Logan Webb,62,1996-11-18,USA,6' 2,220,1,pitching,Active
+657557,138,2019,Paul DeJong,12,1993-08-02,USA,6' 0,200,6,hitting,Active
+657571,119,2019,Caleb Ferguson,64,1996-07-02,USA,6' 3,226,1,pitching,Active
+657612,118,2019,Tim Hill,54,1990-02-10,USA,6' 2,200,1,pitching,Active
+657624,117,2019,Josh James,39,1993-03-08,USA,6' 3,206,1,pitching,Active
+658305,143,2019,Edgar Garcia,66,1996-10-04,Dominican Republic,6' 1,180,1,pitching,Active
+658551,138,2019,Junior Fernandez,44,1997-03-02,Dominican Republic,6' 1,180,1,pitching,Active
+659275,135,2019,Dinelson Lamet,29,1992-07-18,Dominican Republic,6' 4,187,1,pitching,Active
+660162,145,2019,Yoan Moncada,10,1995-05-27,Cuba,6' 2,205,5,hitting,Active
+660271,108,2019,Shohei Ohtani,17,1994-07-05,Japan,6' 4,210,10,hitting,Active
+660670,144,2019,Ronald Acuna Jr.,13,1997-12-18,Venezuela,6' 0,180,7,hitting,Active
+660761,108,2019,Jose Suarez,54,1998-01-03,Venezuela,5' 10,225,1,pitching,Active
+660813,142,2019,Brusdar Graterol,51,1998-08-26,Venezuela,6' 1,265,1,pitching,Active
+661255,109,2019,Yoan Lopez,50,1993-01-02,Cuba,6' 3,185,1,pitching,Active
+661403,140,2019,Emmanuel Clase,43,1998-03-18,Dominican Republic,6' 2,206,1,pitching,Active
+662253,135,2019,Andres Munoz,52,1999-01-16,Mexico,6' 2,165,1,pitching,Active
+663423,141,2019,Trent Thornton,57,1993-09-30,USA,6' 0,195,1,pitching,Active
+663432,120,2019,Tanner Rainey,21,1992-12-25,USA,6' 2,235,1,pitching,Active
+663465,140,2019,Kolby Allard,39,1997-08-13,USA,6' 1,190,1,pitching,Active
+663567,115,2019,Peter Lambert,23,1997-04-18,USA,6' 2,185,1,pitching,Active
+663656,117,2019,Kyle Tucker,3,1997-01-17,USA,6' 4,190,9,hitting,Active
+663757,158,2019,Trent Grisham,2,1996-11-01,USA,6' 0,205,9,hitting,Active
+663776,108,2019,Patrick Sandoval,43,1996-10-18,USA,6' 3,190,1,pitching,Active
+663978,135,2019,Chris Paddack,59,1996-01-08,USA,6' 4,195,1,pitching,Active
+663993,139,2019,Nate Lowe,35,1995-07-07,USA,6' 4,245,3,hitting,Active
+664023,112,2019,Ian Happ,8,1994-08-12,USA,6' 0,205,8,hitting,Active
+664034,135,2019,Ty France,11,1994-07-13,USA,6' 0,205,5,hitting,Active
+664042,111,2019,Travis Lakins,56,1994-06-29,USA,6' 1,180,1,pitching,Active
+664054,142,2019,Cody Stashak,61,1994-06-04,USA,6' 2,169,1,pitching,Active
+664056,138,2019,Harrison Bader,48,1994-06-03,USA,6' 0,195,8,hitting,Active
+664057,120,2019,Andrew Stevenson,17,1994-06-01,USA,6' 0,192,7,hitting,Active
+664058,108,2019,David Fletcher,6,1994-05-31,USA,5' 9,185,5,hitting,Active
+664059,121,,Sam Haggerty,19,1994-05-26,USA,5' 11,175,4,,Active
+664062,119,2019,Tony Gonsolin,46,1994-05-14,USA,6' 3,205,1,pitching,Active
+664068,143,2019,Scott Kingery,4,1994-04-29,USA,5' 10,180,8,hitting,Active
+664119,135,2019,Austin Allen,62,1994-01-16,USA,6' 2,220,2,hitting,Active
+664126,139,2019,Peter Fairbanks,44,1993-12-16,USA,6' 6,219,1,pitching,Active
+664129,134,2019,Geoff Hartlieb,72,1993-12-09,USA,6' 5,235,1,pitching,Active
+664139,140,2019,Ian Gibaut,63,1993-11-19,USA,6' 3,250,1,pitching,Active
+664180,116,2019,Matt Hall,64,1993-07-23,USA,6' 0,200,1,pitching,Active
+664192,135,2019,Joey Lucchesi,37,1993-06-06,USA,6' 5,204,1,pitching,Active
+664199,109,2019,Taylor Clarke,45,1993-05-13,USA,6' 4,200,1,pitching,Active
+664208,114,2019,Phil Maton,88,1993-03-25,USA,6' 3,220,1,pitching,Active
+664238,136,2019,Dylan Moore,25,1992-08-02,USA,6' 0,200,5,hitting,Active
+664285,117,2019,Framber Valdez,59,1993-11-19,Dominican Republic,5' 11,170,1,pitching,Active
+664353,117,2019,Jose Urquidy,65,1995-05-01,Mexico,6' 0,180,1,pitching,Active
+664774,142,2019,LaMonte Wade Jr,30,1994-01-01,USA,6' 1,205,7,hitting,Active
+664854,138,2019,Ryan Helsley,56,1994-07-18,USA,6' 1,195,1,pitching,Active
+664856,147,2019,Chance Adams,72,1994-08-10,USA,6' 1,225,1,pitching,Active
+664913,133,2019,Seth Brown,65,1992-07-13,USA,6' 3,220,3,hitting,Active
+664918,146,2019,Kyle Keller,72,1993-04-28,USA,6' 4,200,1,pitching,Active
+664926,118,2019,Nick Dini,33,1993-07-27,USA,5' 8,180,2,hitting,Active
+665120,108,2019,Jared Walsh,25,1993-07-30,USA,6' 0,210,3,hitting,Active
+665489,141,2019,Vladimir Guerrero Jr.,27,1999-03-16,Canada,6' 2,250,5,hitting,Active
+665742,120,2019,Juan Soto,22,1998-10-25,Dominican Republic,6' 1,185,7,hitting,Active
+666158,119,,Gavin Lux,48,1997-11-23,USA,6' 2,190,4,,Active
+666182,141,2019,Bo Bichette,11,1998-03-05,USA,6' 0,185,6,hitting,Active
+667498,146,2019,Robert Dugger,64,1995-07-03,USA,6' 2,180,1,pitching,Active
+668670,116,2019,Jake Rogers,34,1995-04-18,USA,6' 1,205,2,hitting,Active
+668676,114,2019,Zach Plesac,65,1995-01-21,USA,6' 3,220,1,pitching,Active
+668678,109,2019,Zac Gallen,59,1995-08-03,USA,6' 2,191,1,pitching,Active
+668683,144,2019,Jeremy Walker,63,1995-06-12,USA,6' 5,205,1,pitching,Active
+668800,138,2019,Andrew Knizner,7,1995-02-03,USA,6' 1,200,2,hitting,Active
+668804,134,2019,Bryan Reynolds,10,1995-01-27,USA,6' 3,205,7,hitting,Active
+668942,109,2019,Josh Rojas,9,1994-06-30,USA,6' 1,185,5,hitting,Active
+669160,119,2019,Dustin May,85,1997-09-06,USA,6' 6,180,1,pitching,Active
+669214,137,2019,Conner Menez,51,1995-05-29,USA,6' 3,205,1,pitching,Active
+669221,133,,Sean Murphy,12,1994-10-10,USA,6' 3,232,2,,Active
+669222,113,2019,Nick Senzel,15,1995-06-29,USA,6' 1,205,8,hitting,Active
+669242,138,2019,Tommy Edman,19,1995-05-09,USA,5' 10,180,6,hitting,Active
+669256,140,2019,Nick Solak,15,1995-01-11,USA,5' 11,190,4,hitting,Active
+669257,119,2019,Will Smith,16,1995-03-28,USA,5' 10,195,2,hitting,Active
+669270,113,2019,Joel Kuhnel,66,1995-02-19,USA,6' 5,260,1,pitching,Active
+669456,114,2019,Shane Bieber,57,1995-05-31,USA,6' 3,200,1,pitching,Active
+670032,118,2019,Nicky Lopez,1,1995-03-13,USA,5' 11,175,4,hitting,Active
+670167,116,2019,John Schreiber,71,1994-03-05,USA,6' 3,220,1,pitching,Active
+670280,135,2019,David Bednar,67,1994-10-10,USA,6' 1,220,1,pitching,Active
+670541,117,2019,Yordan Alvarez,44,1997-06-27,Cuba,6' 5,225,3,hitting,Active
+670950,139,2019,Trevor Richards,34,1993-05-15,USA,6' 2,190,1,pitching,Active
+671790,135,,Ronald Bolanos,57,1996-08-23,Cuba,6' 3,220,1,,Active
+672335,117,2019,Cionel Perez,51,1996-04-21,Cuba,5' 11,170,1,pitching,Active
+673258,135,2019,Michel Baez,49,1996-01-21,Cuba,6' 8,220,1,pitching,Active
+676606,135,2019,Nick Margevicius,25,1996-06-18,USA,6' 5,220,1,pitching,Active
+677976,142,2019,Randy Dobnak,68,1995-01-17,USA,6' 1,230,1,pitching,Active

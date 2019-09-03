@@ -1,0 +1,12 @@
+Code,Name,Type,Abbreviation
+1,Pitcher,Pitcher,P
+10,Designated Hitter,Hitter,DH
+2,Catcher,Catcher,C
+3,First Base,Infielder,1B
+4,Second Base,Infielder,2B
+5,Third Base,Infielder,3B
+6,Shortstop,Infielder,SS
+7,Outfielder,Outfielder,LF
+8,Outfielder,Outfielder,CF
+9,Outfielder,Outfielder,RF
+O,Outfield,Outfielder,OF
