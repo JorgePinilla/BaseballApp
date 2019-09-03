@@ -19,7 +19,7 @@ The WebAPI (backend) part of this project was implemented on .net MVC using .net
 
 ## Running App
 
-- Open folder "BaseballAppWebAPI" in visual studio and run `dotnet build` to build the WebAPI.
+- Open folder "BaseballAppWebAPI" in visual studio code and run `dotnet build` to build the WebAPI.
 Once it builds successfully, run the command `dotnet run`. The WebAPI will take 2 - 3 minutes to initialize(seed) the database.
 
 NOTE: If you do come across any errors during the database seeding process, you can use the attached data files to populate the tables. Seeding is only done if either Person, Team or Roster tables are empty.
@@ -35,6 +35,6 @@ Once the database has been populated, the API will run on `http://localhost:5000
    - http://localhost:5000/api/teams   or  http://localhost:5000/api/teams/141
    
 
-- Open folder "BaseballApp" in visual studio. You'll need to run the following command in order to build the angular app `npm install --save-dev @angular-devkit/build-angular`
+- Open folder "BaseballApp" in visual studio code. You'll need to run the following command in order to build the angular app `npm install --save-dev @angular-devkit/build-angular`
 
-- Once that's done, run `ng serve --open`. This command will automatically open your browser and load the app to `http://localhost:4200/` (MAke sure Angular CLI tools is installed).
+- Once that's done, run `ng serve --open`. This command will automatically open your browser and load the app to `http://localhost:4200/` (Make sure Angular CLI tools is installed).
