@@ -35,6 +35,6 @@ Once the database has been populated, the API will run on `http://localhost:5000
    - http://localhost:5000/api/teams   or  http://localhost:5000/api/teams/141
    
 
-- You'll need to run the following command in order to build the angular app `npm install --save-dev @angular-devkit/build-angular`
+- Open folder "BaseballApp" in visual studio. You'll need to run the following command in order to build the angular app `npm install --save-dev @angular-devkit/build-angular`
 
-- Open folder "BaseballApp" in visual studio and run `ng serve --open`. This command will automatically open your browser and load the app to `http://localhost:4200/` (MAke sure Angular CLI tools is installed).
+- Once that's done, run `ng serve --open`. This command will automatically open your browser and load the app to `http://localhost:4200/` (MAke sure Angular CLI tools is installed).
