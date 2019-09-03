@@ -7,6 +7,8 @@ The WebAPI (backend) part of this project was implemented on .net MVC using .net
 - Microsoft SQL server 2017 (management tools 2018)
 - Visual studio code (make sure dotnet packages are downloaded and installed)
 - Angular CLI 8.3.1
+- Node v10.16.3
+- npm v6.9.0
 - Postman
 
 ## Setup
