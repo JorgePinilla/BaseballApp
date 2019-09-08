@@ -11,7 +11,7 @@ public class RosterModel {
         get;
         set;
     }
-    public int JerseyNumber {
+    public string JerseyNumber {
         get;
         set;
     }

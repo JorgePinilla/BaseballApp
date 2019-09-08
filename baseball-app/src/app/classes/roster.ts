@@ -4,7 +4,7 @@ export class Roster {
     personId: number;
     season: string;
     fullName: string; 
-    jerseyNumber: number; 
+    jerseyNumber: string; 
     birthDate: string; 
     birthCountry: string;
     height: string;

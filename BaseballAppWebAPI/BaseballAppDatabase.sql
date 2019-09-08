@@ -123,7 +123,7 @@ create table Roster(
 	TeamId int not null,
 	Season nvarchar(4),
 	FullName nvarchar(50) not null,
-	JerseyNumber int not null,
+	JerseyNumber nvarchar(3),
 	BirthDate date,
 	BirthCountry nvarchar(50),
 	Height nvarchar(10),
